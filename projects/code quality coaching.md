@@ -1,4 +1,96 @@
 
+### 2018-03-30T17:22:07+02:00
+
+Rediriger Charles Renan vers ZOA Data scientists: POC
+
+Point avec Patrice Brossier:
+- code review sur l'ensemble des projets: KPIs. Pour éviter des écarts de qualité.
+- prestation d'architecture (avec des vrais archis)
+- process methods & tools (digital cockpit qui marche pas, jira/taiga, suivi de process: c'est un peu le bordel)
+- focal points par métier
+
+### 2018-04-13T17:30:54+02:00
+
+Conviction sur support transverse:
+
+Topics abordés pendant data meeting:
+    07/02/2018: SRS data and builds monitoring
+    24/01/2018: Foundry Build and Sync APIs
+    17/01/2018: Phonograph
+    20/12/2017: Importing Json as datasets and Foundry API
+    13/12/2017: Foundry best practices (2/2) – Spark and Slate
+    10/12/2017: Unit testing
+    06/12/2017: Foundry best practices (1/2) – Project Setup and Pipelines authoring
+    29/11/2017: branching best practices and import external code to Jupyter notebook
+    22/11/2017: quick solutions
+    15/11/2017: technical documentation (2/2), feature Single Aisle demo (quality gate)
+    08/11/2017: tech lead and coach roles, technical documentation (1/2)
+
+- code review sur l'ensemble des projets: KPIs. Pour éviter des écarts de qualité.
+- prestation d'architecture (avec des vrais archis)
+- process methods & tools (digital cockpit qui marche pas, jira/taiga, suivi de process: c'est un peu le bordel)
+- focal points par métier
+
+- technical quality:
+    - code review sur l'ensemble des projets:
+        - KPIs automatisés visualisés dans un dashboard ==> 1 fois par semaine (par jour ?)
+            - code dupliqué
+            - nombre de commentaires
+            - longueur des fonctions
+            - ...
+        ==> 10 jours pour MVP
+        - KPIs semi-manuels (au bout d'1 mois de projet + tous les 3 mois):
+            - lisibilité des noms de fonctions, etc.
+            - architecture / dette technique
+        ==> 0.5 jours tous les 3 mois
+    - architecture:
+        - combien de jours par semaine ? 1 archi plein temps ?
+        - les prestations d'architecture doivent être fait par les même personnes qui font les code reviews tous les 3 mois ==> permet d'identifier les points durs techniques et de transmettre les lessons learnt
+    - process methods & tools:
+        - ?
+    - focal points par métier
+        - ?
+
+Reboucler:
+    - Anouar: DevOps, qu'est-ce qu'il avait présenté à Chris Taylor ?
+
+    - Annabelle:
+        - Point focal métier ?
+
+    - Aurélie Cazenave:
+        - Qu'est-ce qu'il faudrait faire en tant que support ?
+        - Comment pourrait-on sortir de la plateforme pour faire du front-end sur ce qu'on veut ?
+        Mission:
+
+### 2018-04-17T15:11:09+02:00
+
+Bonnes pratiques: Talon
+
+Comment vous visualisez vos dépendances (monocle) ?
+Comment vous êtes organisés ?
+    Branching ?
+
+Preco back:
+    - git clone en local (en se créant un token longue durée)
+    - dev en local avec un vrai IDE
+    - banc de test: sur les transfos python
+
+Testing:
+    - pytest (mais pas applicable aux dataframes)
+    - reboucler avec Anouar sur pytest et le formattage du paquet pytest
+
+Coding:
+    - branching / merging: utiliser les merge requests et faire des revues de code à chaque branche, avec le niveau d'exigence que l'équipe peut se permettre.
+
+Branching dans Slate:
+    - avoir 1 export postgate par branche.
+    - switcher d'une branche à une autre à l'aide d'une variable globale.
+
+A rajouter dans le code quality support:
+    - banc de test python (version marc)
+    - test avec pytest modifié pour pysparl (version anouar (ou le faire moi-même))
+    - dashboards de monitoring des apps pour chaque projet
+
 ### 2018-04-30T10:16:48+02:00
 
 Propale:

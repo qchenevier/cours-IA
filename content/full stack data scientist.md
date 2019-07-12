@@ -1,4 +1,52 @@
 
+### 2018-04-04T14:09:55+02:00
+
+Learning DevOps:
+
+- Linux / Sysadmin:
+    - linux basics (folders organization / main commands)
+    - bashrc & aliases
+    - CLI tool in python (docopt, argparse, ...)
+
+- Code velocity tooling:
+    - git: managing versions of a software repository
+    - gitlab/github: cloning, code review & pull requests
+    - atom + hydrogen
+    - atom + git
+
+- Code quality:
+    - clean code & DRY
+    - pylint & code quality metrics
+    - atom + pylint
+    - method chaining in pandas & pyspark
+
+- Remote dev
+    - ssh + ssh tunneling
+    - atom + hydrogen + remote kernel
+    - nohup: launching a software as a service
+    - atom + remote sftp
+    - boto3 + S3
+
+- Infrastructure automation: ansible:
+    - network:
+        - VPC
+        - subnets
+        - keys
+        - security groups
+    - computing:
+        - AMI
+        - EC2 launch
+        - installing & launching software
+    - storage:
+        - S3
+        - propagating aws credentials to EC2
+        - EFS
+
+- Test-driven development
+    - process
+    - pytest
+    - pytest + pyspark
+
 ### 2018-08-03T11:33:10+02:00
 
 Full Stack:

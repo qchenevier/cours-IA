@@ -1,4 +1,144 @@
 
+### 2017-10-30T10:17:59+01:00
+
+Mon funnel perso:
+- MPS cockpit
+- Smart Repair Wizard
+- PC-SPC
+- XBOM
+- Hub Analytics
+- RecoDemo
+- Data-strat EDF
+- Recrutement
+- Learning
+
+### 2017-10-31T13:48:22+01:00
+
+Management meeting:
+- Demande d'accompagnement de la Caravelle Core-Team:
+    - Définir une offre de self-service
+    - Evolution architecture plateforme: quelles solutions pour partir sur AWS ?
+    - Comment gérer le service management (de manière provisoire) ? Palantir a merdé sur le sujet... Inquiétude des PO de produits, qui demandent à Chris Taylor d'avoir une propale claire sur le service management.
+    - Maintenance projets palantir: Offre à faire.
+
+3 dimensions pour un projet:
+    - business maturity
+    - data complexity
+    - with or without frontend
+
+XBOM consommables: arrêté.
+
+Questionnement sur la valeur apportée des projets caravelle: des fois c'est de la BI et ça justifie pas vraiment le coût.
+
+Abaque AWS ? Aller voir AIRMAN, ils ont fait 3 mois de POC.
+
+Problématique architecture.
+
+### 2017-11-08T14:12:18+01:00
+
+Management meeting core team Caravelle:
+- PC-SPC: Use-case EYY qui va se lancer. Modèle de delivery à réétudier (demande du PO).
+- SRW: Architecture "stabilisée" en challengeant un peu l'UI.
+
+Charlotte:
+
+Airbus visite en Inde:
+- Rio Tinto: analytics + capteurs
+- Ecosystème de startups local
+- Rencontre avec un Client: Unilever, boîte où on vend du self-service analytics
+
+Self-service:
+- Analytics genericable: même produit pour chaque prog ou produit customizé pour chaque BU ?
+
+PCT: Product Control Tower.
+- Partie predictive.
+
+Collaboration de l'équipe de Matt Evans.
+- Partage d'info avec eux sans pour autant les intégrer au demand management.
+- Enjeux croisés: ne pas les subir sur nos projets, qu'ils trouvent des sujets sur lesquels ils sont pertinents.
+
+Tournage: interlocuteurs airbus pour vitrine
+
+Nicolas et la data ingestion:
+Prestation en Assistance Technique.
+Cartographie des data, catalogue à faire.
+Mode support.
+
+### 2017-11-15T14:12:35+01:00
+
+Point management caravelle:
+- Ingestion: SAP HANA bloqué
+- Audit interne par Capgemini
+- Vacances Noël:
+- Airbus demande la possibilité d'obtenir une ristourne en fin d'année sur la facturation qu'on fait au global.
+- RFP: Caravelle Skywise Ways-of-working. Faire 20% de productivité en plus pour 40% à 50% de budget en moins.
+
+- Point data: ça marche toujours pas. Plusieurs besoins:
+    - Partager le contenu fonctionnel et technique des projets pour identifier des synergies ==> pour les project leaders
+    - Partager les bonnes pratiques de code et de réalisation de projet data ==> pour les tech lead.
+- Missionnement qui rentre par l'intermédiaire des projets eux-même en bypassant la qualification: attention, ça crée une perte de contrôle de l'équipe. Patrice Brossier veut voir le pricing vs la valeur des propale qu'on lance au client.
+
+- Crise Chris Taylor: a demandé l'accès au recueil de documentation sur ce qu'on sait faire en DevOps. On s'est pris un tir, on n'a pas su répondre à temps. Amélioration continue, activité de coaching, partage de bonnes pratiques, capitalisation de la connaissance.
+
+### 2017-12-06T14:33:11+01:00
+
+Management meeting Caravelle
+
+Mesure de la valeur: on est pas assez robuste sur cet aspect.
+
+Passer d'un MVP en "Run Mode".
+- On nous fait passer des produits à Sopra. Demande du client d'intégrer des gars de Sopra dans nos équipes.
+- Message: "Capgemini ne bloque pas le passage des applis à un autre groupe. On veut juste faire la transition sans mixer nos équipes."
+
+4 grandes briques:
+- consulting services (demand management et suivi des projets)
+- software engineering
+- data gouvernance
+
+Sebastien Romano est hyper-techie: il faut qu'on se muscle en termes de DevOps.
+
+SCQWT: 2 use-case qui passent en "Run Mode". Point délicat. Pour l'instant: on passe en phase "pré-mature". C'est pas top.
+
+### 2017-12-13T14:19:10+01:00
+
+Management meeting Skywise
+
+OCR pdf: se renseigner
+- auprès de Sylvain Broncquart: sur les solutions Airbus: AirNavx, etc.
+- auprès de Axel Pilotin: sur la boîte dont il parlait qui faisait des choses.
+
+Il faut faire quelques slides et se synchroniser avec Charlotte pour quand elle va voir S.Romano.
+
+NB: ne pas s'attendre à un gros budget, S.Romano a du mal à récupérer du budget.
+
+Self-service:
+
+### 2017-12-20T15:27:28+01:00
+
+SCQWT: Use-Case 2 going in run mode at the beginning of february.
+
+Find a way to not be part of Quantum 2.4. As soon as the use-cases are being reintegrated in Quantum, they will be hand-overed to Accenture.
+
+PC-SPC: focus on small plants and fight for a small budget until Q1 and see what happens.
+
+### 2018-04-04T14:25:20+02:00
+
+Management meeting:
+- dual-sourcing (more than two):
+    - IPP: indian pure player ? in the context of move2east
+    - sopra ? (would be better than accenture, given their lower ability to invest)
+- ZIC: contract on steady mode in india
+- move 2 east: aws experts
+
+- demand:
+    - portfolio management
+
+- recovery work on data restrictions & GDPR.
+
+- Paula: Proxy-PO on SAFE for customer service
+
+- PCT A350: potential for data science use-cases.
+
 ### 2018-05-04T09:39:44+02:00
 
 Point avec Eric Foch et Nicolas Boussuge:

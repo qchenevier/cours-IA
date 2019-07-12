@@ -1,4 +1,67 @@
 
+### 2018-04-12T08:38:43+02:00
+
+Guillaume Poirier:
+- 9 ans chez Airbus
+- Développer une équipe core sur la data analytics: expertise et support
+- Apporter de l'autonomie et de la compétence aux qualiticiens
+- Data gouvernance pour la data qualité
+
+Data gouv:
+- PC-SPC: do with.
+- Bibliothèque de features
+    - proposer des briques
+    - control room pour nathalie ducombeau
+    - Application store manuf
+    - Faire une ontologie harmonisée pour le text mining
+        - Certains projets ont déjà
+- Data gouvernance
+    - Pas commencé sur le domaine Qualité (engager le plus vite possible): Marie Chatelain, Brice Lepagneul.
+
+Liste des initiatives:
+
+Digital A/C Release Tool:
+    - integration des données de conformité/attestation:
+    - générer form 52, form 53, permit to flight.
+    - en vérifiant et en intégrant un 40aine de systèmes d'infos à consolider: check list d'une 100aine de points.
+
+    - Objectifs:
+        - gain de temps des opérateurs: aujourd'hui 2 jours*homme ==> objectif 4h. enabler du ramp-up A320.
+        - avoir un rapport plus propre pour le client (inchiffrable)
+
+    - MVP pour le mois de septembre
+
+    - une équipe Airbus qui bosse sur le sujet et qui est en train de définir les User Stories. Scope A320, mais multiprogramme.
+
+Q mini-hackathon development:
+    - une journée d'idéation
+    - support technique pendant l'évènement pour commencer à prototyper
+    - coaching des équipes pendant 1 mois pour sortir un POC (les Data Analysts ont 50 %)
+
+    - premier hackathon: 19 avril 2018
+    - volume:
+        - 50 personnes qui sont en cours du batch
+        - 11 qui sont graduated et 40 actifs
+
+    - objectifs 200 personnes / Au moins 1 data analyst par équipe / 5 % des effectifs
+
+Data catalog Q:
+    - constituer un catalogue
+    - constituer un data model
+
+QuART project:
+    - data mining data in-service vs manuf, pour corréler les Operational Interruptions avec des évènements qui se sont passé au manufacturing ==> faire du problem solving
+    - NLP /
+
+DIP:
+    - Dynamic Inspection Plan
+
+TODO: envoyer liens applis:
+    - SCQWT
+    - PC-SPC
+    - XBOM
+    - PCT
+
 ### 2018-05-31T11:32:55+02:00
 
 Téléphone avec Guillaume Poirier:
