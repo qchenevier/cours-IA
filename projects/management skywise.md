@@ -1,4 +1,51 @@
 
+### 2018-05-04T09:39:44+02:00
+
+Point avec Eric Foch et Nicolas Boussuge:
+
+Support technique:
+- Pablo pour le staffing expert: front
+- Romaric pour le staffing expert: back
+
+Conviction:
+- back ==> rajouter sonarqube
+- front ==> reboucler avec Palantir sur ce qu'on peut faire
+
+- tools: mettre un sprint 0 (synchro avec Sebastien Romano pour faire les KPI) + une charge de test, etc.
+- audit: ==> 1 journée par audit projet
+
+
+Mettre en place une petite équipe avec Elodie et Guillaume pour parler de faire une propale coaching de best practice en project management.
+- Avantage: on voit où se situent nos concurrents et on identifie les talents
+- Inconvénients: on aide / forme les concurrents
+
+
+Digital Cockpit:
+- prévoir une après-midi avec Patrice Brossier
+
+
+TODO:
+- revoir slides propale (et avoir)
+- premier RDV avec Elodie/Guillaume pour propale pas technique.
+
+- demander à Pablo quand est-ce qu'il part ?
+
+- recontacter Guillaume pour parler du Hackathon
+
+
+Passer en revue funnel:
+- QuART:
+- DART: Que va faire Benoit ???
+- Weather Sensors: (Sujet évoqués par Benoit)
+
+### 2018-05-31T15:32:43+02:00
+
+Pour le reporting d'Emeralda:
+- prendre le job id
+- remplir la liste des collaborateurs
+- remplir/créer baseline avec le job id en rentrant les taux et les gens
+- puis modifier uniquement la zone revised tous les vendredi pour le reporting
+
 ### 2018-06-06T10:36:17+02:00
 
 Management meeting:

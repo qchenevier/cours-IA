@@ -1,4 +1,22 @@
 
+### 2018-05-31T11:32:55+02:00
+
+Téléphone avec Guillaume Poirier:
+
+- engagement suffisant de l'équipe business
+
+Equipe business:
+
+Qualité centrale:
+- Abder: 1/2 journée
+- Corinne: 1 journée. coup de main. Use-case pour son training.
+
+Inspecteurs en FAL:
+- ?
+
+Travail par sessions de travail: workshop.
+- Support pour définir sprint 0.
+
 ### 2018-06-07T09:56:21+02:00
 
 Réunion avec Katherine Ribere:

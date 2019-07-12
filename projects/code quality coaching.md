@@ -1,4 +1,29 @@
 
+### 2018-04-30T10:16:48+02:00
+
+Propale:
+
+Technique:
+- Audit automatisé:
+    - back: analyse de code ==> rapport automatique: 1 FTE pendant 1 mois
+    - front: analyse perfo slate ==> rapport automatique: 1 FTE pendant 1 mois
+- Audit manuel:
+    - 10 projets / mois
+    - 2h / back
+    - 2h / front
+- REX réguliers (erreurs à ne pas faire, lessons learnt, hacks):
+    - identification pendant les audits
+    - capitalisation dans un dossier pour tout le monde
+    - 2 REX d'une heure / mois ==> entre 8 h de boulot par REX (slides plus capitalization).
+
+IDENTIFIER LE QUI ?
+
+Management plateau et méthodo:
+- A l'échelle de l'équipe adherence au méthodo scrum: value tracking
+    - Coaching sur la valeur
+- A l'échelle du plateau: équipes indentifient bien leurs dépendances et les résolvent
+    - Outillage pour ça ==> version one ==> training
+
 ### 2018-06-08T13:27:38+02:00
 
 Code Quality:
