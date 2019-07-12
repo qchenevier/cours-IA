@@ -1,4 +1,63 @@
 
+### 2017-10-04T14:14:35+02:00
+
+Caravelle Management meeting:
+
+Réunion vendredi: quel business model pour la suite (delivery / prix) ?
+
+    - MVP, mature product, steady state
+    - offshoring avec l'Inde dès l'étape MVP ?
+    - feedback procurement: il faut qu'on travaille plus ensemble, on comprend mieux ce qu'on achète.
+    - rebasculer en LOSKAGILE: tout convertir en unité d'oeuvre.
+    - enjeu de pédagogie:
+        - faire comprendre ce qu'on fait et pourquoi c'est cher et quel est notre modèle
+        - conquérir directement des territoires avec les métiers
+        - faire passer le message au métier, pour qu'ils passent le message au procurement
+    - pousser les sujets: commencer à regarder directement avec le client.
+
+    Attention aux gens qui demandent des travaux sans PO (Purchase Order): Il faut avoir le procurement dans la boucle avant de commencer à bosser. Sur un projet on arrive pas à se faire payer et dixit le procurement "votre contact airbus fait cavalier seul".
+
+Mise en place du Developer Coaching par JCB:
+
+    - Onboarding / Continuous Training dev:
+        - Mettre en place des PC de training en attendant d'avoir le PC masterisé pour faire les trainings
+        - 1/2 journée de training par mois aux nouvelles features (par groupe de 4 projets)
+    - High quality delivery: revues de code: 4h toutes les 2 semaines.
+    - Speed up delivery: support ponctuel et animation channel slack
+
+Point data: il y a pas assez de monde qui vient. Demander un Data director ou data engineer par projet. Rendre ça plus cool ?
+
+TDF (SSD/ESF): a des soucis d'architecture. Ils ont besoin de changer de techno (passer de Sheets à SALT). Attention, c'est pas au tech lead de valider l'architecture de caravelle.
+
+Check d'architecture par palantir: ne pas marquer "Approved by palantir" mais plutôt "pre-checked with palantir". Vu qu'ils prennent feu et qu'on est dans un ménage à trois, faisons attention à ne pas trop les impliquer quand ils n'ont pas eu le temps d'instruire techniquement une requête de validation d'architecture.
+
+Quantum UC1
+
+Quantum UC2: POC failed: 3 mois de dev, ça a couté cher.
+
+### 2017-10-11T14:14:08+02:00
+
+Weekly management meeting:
+
+- Mode support/run: se préparer à faire un handover à des équipes indiennes. Pour l'instant, l'équipe opération n'est pas en mesure de gérer les nouveaux produits en service (pas assez de gens). Mais c'est potentiellement un secteur sur lequel Capgemini aimerait bien aller...
+- PC-SPC: activité de delivery + activité de transformation (training des data scientists airbus, crossfertilization des appli entre sites). Effet "transformation" qu'il faut vendre plus !
+- Toutes les équipes vont vivre le codev avec Airbus (former des data scientists Airbus).
+- Réunion avec la core team caravelle tous les mercredi à 17h.
+
+- Slate est est trop lent pour faire du run mode. C'est très bien pour du fast prototyping. Mais c'est pas assez mature pour une vrai appli: ça rame s'il y a trop de widgets, on a pas accès aux logs, ... Y'a pas mal d'appli qui peuvent se contenter de slate.
+
+Smart Repair Wizard: point sur l'architecture qui supporte pas du temps réel, en conflit avec certaines user story. User story pas portables sur foundry aujourd'hui.
+Master Planning Schedule Cockpit: passage en revue vendredi en 8.
+Sentiment Analysis: relance des discussions (avec Jean-Charles), on s'oriente vers vendre un sprint 0 mi-novembre.
+
+- Valeur des UX/Designer sur le recueil des besoins et la gestion des attentes, donc sur le sprint 0. Alors qu'on les utilise pratiquement que sur sprint 1.
+- Decision ==> Faire une meilleure qualif (la faire relire par d'autres) pouor éviter un trou d'air en début de Sprint 0. Intégrer des UX en sprint 0 si on est face à des end-users.
+
+### 2017-10-18T14:44:23+02:00
+
+Management meeting:
+- Faire gaffe aux notes qui restent. On n'est pas seuls sur le plateau.
+
 ### 2017-10-30T10:17:59+01:00
 
 Mon funnel perso:

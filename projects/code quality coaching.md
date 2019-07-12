@@ -1,4 +1,23 @@
 
+### 2017-10-05T14:22:11+02:00
+
+Training Foundry:
+
+- dans slate, quand on veut faire un select, il faut d'abord spécifier des colonnes (ne pas laisser toutes les colonnes de la query par défaut) pour pouvoir les utiliser dans le select.
+- dans slate, attention à bien sauvegarder ! c'est pas automatique (contrairement au python transforms).
+- dans les query sql de slate, ne pas utiliser de _select distinct_, c'est trop lent. utiliser un _select . from (select groupby)_.
+- dans postgresql, les double quotes sont pour les noms de colonne, les simple colonnes sont pour les valeurs
+
+### 2017-10-11T16:59:11+02:00
+
+Revue de code avec Anouar:
+
+
+- Projet: présence d'un schema d'architecture
+- Slate: temps d'éxecution des requêtes. Proposer simplification sur les requètes.
+- Slate & Python: commentaires et nommage
+- Slate & Python: modularité code
+
 ### 2018-03-30T17:22:07+02:00
 
 Rediriger Charles Renan vers ZOA Data scientists: POC
