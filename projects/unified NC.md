@@ -1,4 +1,25 @@
 
+### 2019-02-27T15:31:02+01:00
+
+Propale:
+- Quality (NC, TLB, QLB): call avec Reynald, Valentin pour voir quelle données on récupère de Unified NC (NC, TLB, QLB, ...)
+- call Anouk: qui connait-elle dans la propale ? qu'est-ce que ça lui évoque
+
+Trame propale:
+- Content: voir avec Anouk
+  - synergie avec Guillaume POIRIER (Unified NC)
+  - synergie avec Benjamin ROUSSEL (NLP module, analyse free text, QWT)
+  - ==> capitaliser les assets de la qualité ()
+- People:
+  - Consultant fonctionnel: Salomon BASSIM --> Pour le verrouiller ?
+  - Data engineer --> Tarek BARGACHE ?
+  - Stagiaire DS: Augustin MONY --> Demander à Body / Melanie ?
+  - DS: Demander à Melanie ??? Tester profil
+- Process / Timeline:
+  - se caler sur leur planning à eux: début 11 mars, mais peut-être commencer avant
+  - 3 semaines de sprint 0 + 2 sprints
+  - budget: 50 k par sprint
+
 ### 2019-07-01T12:03:57+02:00
 
 Point Unified NC avec Reynald:

@@ -1,4 +1,16 @@
 
+### 2019-02-18T16:24:31+01:00
+
+Point avec Eric:
+- voir avec Sophie VITIELLO pour lancer l'event, mettre Eric et Guillaume Molinier en copie.
+  - définir les livrables attendus
+  - sponsor: Eric & Charlotte
+- demander à Vincent GALINIER pour emprunter l'I-Studio ?
+
+DevOps:
+- training tech lead junior: Estelle & Guillaume: pour le contenu, activer les filières de training pour former des DevOps (contenu dispo en interne)
+- à la charge des EM: trouver les profils qui seraient nécessaires.
+
 ### 2019-03-14T17:07:39+01:00
 
 Call avec William HUSCHARD:

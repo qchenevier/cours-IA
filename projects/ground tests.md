@@ -1,4 +1,83 @@
 
+### 2019-03-05T11:11:00+01:00
+
+Présents:
+- Eugénie MACABOUT (Ai): stream leader du Dynamic Check & Tests (se structure)
+- Anouk ANTIBI: QBGGS puis BSE Datalab.
+- Quentin CHENEVIER
+- Pascal GALIBERT:
+  - QBG, qualité cross-programme ground-tests.
+  - Responsable du process FUIN-0305, amélioration du processus, fournir méthodes et outils, moyens d'essais.
+  - Amélioration majeure du processus: dynamic ground test plan (passer du statique au dynamique pour faire des tests plus fiables et le plus tôt possible).
+  - Test très influencés par ce que prescrit le bureau d'étude mais assez peu par ce que voit le client final: pas de customer feedback loop (mis à part rebouclage client par le client).
+- Emmanuel ARVEUX (Accenture): projet dynamic ground test plan.
+  - Besoin analytics:
+    - Jointure NC SAP / Tests ESAO pour identifier les RTI.
+    - Construire une data factory cross FAL pour créer un dataset de tests qui créent plein de retests, pour réduire les NC.
+    - Réduire aussi les tests inutiles (trouver les retests).
+
+D'ici 2 mois, avoir le dataset qui permet d'objectiver.
+
+Chez QBG:
+- Olivier ZENARI: expert ESAO
+- Jérôme CANDAT: expert
+
+- Analyse de free text: synergie, se coordonner avec Benjamin ROUSSEL.
+
+- Octobre 2017: hackathon
+- Janvier 2018 - Juin 2018: analyse croisée NC et RTI. --> analyse faite par DTO. NC-RTI plus facile à faire que NC-GTI.
+
+Approche transnationale pour le process:
+- harmonisation par le .
+
+Sprint 0:
+
+Propale QBG:
+-  blue plan SA
+
+Décision:
+- Décision: Faire un sprint 0 + sprint 1/2
+- PO: QBG (Pascal GALIBERT)
+- Dans le stream d'Eugénie sur le control plan.
+
+Key success factors:
+- Approche transationale
+- Rencontrer les collègues allemands: au moins 2-3 jours à Hambourg (intégrer les éléments de déplacement)
+
+Propale ce soir.
+
+11 mars: sprint 0: 3 semaines: fin 1er avril. 2 sprints: 4 semaines.
+
+Camp de base: ML1.
+
+Budget owner: Bernard MARQUEZ.
+
+Sprint 1 - 2: Avril / Mai.
+
+### 2019-03-07T17:19:19+01:00
+
+Prénom : Réda
+Nom : DIHI
+Naissance : 24/11/1992
+Nationalité : Marocain
+
+### 2019-03-11T10:18:43+01:00
+
+Premier point QBG:
+
+5-10 % des NCs qui ne sont pas liées à des GTI
+
+Dataset allemand: Pas de lien avec les GTI dans la base des NC, obligé de traiter le champ free text de la base de NC pour pouvoir faire le lien.
+
+Parler à Hadi du déplacement à Hambourg qu'on avait pas prévu.
+
+DU: Demande Utilisateur:
+GTD/GTP: Ground Test Designer/Performer
+
+Vision: RTI KPI cockpit (sur les différentes stations)
+- Utilisateurs: réunion le mercredi matin
+  - Qualiticiens: QSL
+
 ### 2019-03-19T10:58:04+01:00
 
 weekly au ML1
