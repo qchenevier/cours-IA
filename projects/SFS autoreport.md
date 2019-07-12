@@ -1,4 +1,10 @@
 
+### 2019-03-12T08:56:26+01:00
+
+Skywise for suppliers:
+- m'impliquer sur le BCase de Skywise for supplierss
+- choisir avec Ben et Patrick ce qu'on over-deliver en data science
+
 ### 2019-03-12T17:00:00+01:00
 
 Quels datasets:

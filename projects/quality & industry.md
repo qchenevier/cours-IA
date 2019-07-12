@@ -1,4 +1,60 @@
 
+### 2019-03-11T14:01:32+01:00
+
+Point PC-SPC:
+
+Anouk:
+- Framing BSE Cockpit: décevant: aucune donnée dans Skywise
+- Digital Control Room --> Pages de liens vers des Sharepoints
+- PCT: avec un compte service, faire un upload.
+- Contacter: Adeline VATELIER
+- Rencontrer Nuno: proposer de pitcher plusieurs sujets !
+- Faire un inventaire des données BSE: contacter les data officer.
+
+Quentin:
+- QBG: gros risque PO.
+- BSE Datalab: faire le point avec Anouk et Chaimaa.
+- PC-SPC: Programmer début de sprint mercredi matin.
+- Skywise for suppliers: y aller l'après-midi.
+
+Chaimaa:
+- Données pas vraiment fiable
+- Unified NC: data engineer qui font le dataset
+
+Marie:
+- PC-SPC central:
+  - On-boarding Tarek, Kevin
+  - Test unitaires / Foundry
+  - Passer sur la définition de l'architecture pour être en mesure d'alimenter Kevin/Tarek
+- Premier point par téléphone à 17h
+- Poser un sprint 1 début: mercredi matin.
+
+Kevin:
+- Incident Management: au courant
+- Outil Centreon présenté par Alexis Lepierre de POPE: évangélisation à faire de ZILO et l'ingestion pour qu'ils utilisent cet outil.
+- Workload:
+  - Matin sur la toolbox
+  - Après-midi sur les incidents
+
+Imane:
+- Root cause analysis sur le sujet du bootstrap: pb sur le process d'assemblage de l'aile: prez vendredi. Faire le point avec Hadi aujourd'hui.
+- Point mercredi.
+
+Ali:
+- Pas de vision sur 2019.
+- Ne prends pas le temps de rentrer dans les sujets.
+
+### 2019-03-11T16:44:51+01:00
+
+Point RH: que montrer à Ali pour le coacher:
+- la communication par mail, c'est foireux: la PNL, le system 1 et le system 2, HBR feedback non verbal cues
+- culture écrite vs culture orale
+- la regle d'or de la communication par mail: que de la technique, pour le reste, privilégier la CNV et EN PERSONNE
+- le triple moi: les positionnements du managements (et comment sortir du parent normatif en tant que manager)
+
+Bonus:
+- le SCARF model
+
 ### 2019-03-18T14:33:09+01:00
 
 TODO:
