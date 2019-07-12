@@ -1,4 +1,139 @@
 
+### 2019-03-14T17:07:39+01:00
+
+Call avec William HUSCHARD:
+
+Collaboration TSE:
+  Muriel GOUBART --> a contacter pour collaboration TSE ?
+
+Event Skywise AI show: à fixer / drafter
+- Objectifs
+- Liste Attendees
+- Format évènement
+- Lieu
+- Budget
+- Date
+
+### 2019-03-21T10:12:23+01:00
+
+Point avec William - Skywise AI show:
+
+Infos charlotte en CO:
+- 150-200 invités présents (penser à 300-400 invitations)
+- fin de matinée - déjeuner
+- budget TBD
+
+Content:
+- date de l'event:
+  - fin avril: jeudi 25 avril: trop tôt ?
+  - mi-mai: jeudi 15 mai ou jeudi 22 mai ?
+- lieu de l'event:
+  - I-Studio: call à faire avec Vincent GALINIER pour comprendre modalités de financement
+  - si off site: prendre un lieu cool pour que les gens viennent (pas une salle de réu au pullman)
+- vision de l'event:
+  - présentation: intro, vision, sponsor / 20 min
+  - marketplace:
+    - ateliers top-down: stand pour chaque use-case: prez technique / demo
+    - ateliers bottom-up: venez avec un pain point, on essaye de trouver la solution
+      - équipes mixtes: Commercial, AH, ADS
+    - équipes prédeterminées / dans le but de créer des liens inter-BU / tech-business
+- liste des contacts/sujets Capgemini: chez Airbus Skywise (70%) et chez autres industries (30% ⚠️ collab' cap doit être sous NDA Airbus)
+- liste des invités Airbus
+
+- ◻️ TODO William: demander à Charlotte si on peut décaler à mi-mai (15 ou 22 mai)
+- ◻️ TODO Quentin: caler visite I-Studio
+- ◻️ TODO Quentin: drafter ppt orga event pour validation Charlotte
+- ◻️ TODO Quentin: réunion gentils organisateurs ASE pour prise de conseils sur l'event
+- ◻️ TODO William: séance 30 minutes sur chaque franchise (Hugo/Alex/Hadi/Quentin/Elodie/Benjamin/Reynald) + IDE (Moez/Olivier/Charlotte): contacts tech/business airbus à inviter, contacts tech/business capgemini sur projet
+- ◻️ TODO Quentin: séance 30 minutes sur chaque franchise (Hadi/Quentin/Elodie/Benjamin/Reynald)
+ contacts tech/business airbus à inviter, contacts tech/business capgemini sur projet
+- ◻️ TODO Quentin: aller voir la win demain, prendre RDV pour vendredi d'après
+
+People:
+- les data scientists sur projet AI, à lister
+- consultants fonctionnels de ces projets quand c'est possible ?
+- win agency pour polisher la forme
+
+Timeline:
+- vendredi 29 mars:
+  - date validée
+  - lieu potentiels identifiés (I-Studio et autres plan B)
+  - RDV avec la win agency
+  - liste draft des sujets/contacts identifiés
+- jeudi 4 mai:
+  - liste de sujets validée
+  - lieu validé
+  - demande de contribution aux projets envoyées (template)
+
+### 2019-03-29T15:08:10+01:00
+
+Sujets pour AI event:
+- PC-SPC: process automation: Nantes TP3
+- PC-SPC: measurement sampling: A350 Saint-Nazaire Orbital junctions
+- PC-SPC: non quality anticipation: virtual assembly tool (--> not AI)
+- ISWT DME: process automation: text classification, deep learning on Foundry, interpretability
+
+- Asset factory:
+  - NER
+  - SARA
+  - Challenge Time series
+  - Hackathon supaero
+
+### 2019-04-04T17:23:44+02:00
+
+Contenu:
+- demo S/W prêt
+- location lieu
+- cocktail
+
+- key people
+  - mailing par TOR
+  - identification des people
+    - têtes de pont
+    - sales
+
+- marketplace
+  - balade par stream
+
+- deadline fin mai / début juin
+- liste des key people
+
+- invitation:
+  - avoir un draft de l'agenda
+  - attirer par le contenu
+
+TODO:
+- Myriam:
+  - reboucler avec Charlotte / Patrice: date et budget / début juin
+  - retour expérience évènements similaires
+- William: scheduler les weekly (vendredi matin pour tous + autres) / initier la todo list & le retro-planning
+- Quentin: avoir les dates dispo du lieu / préinscrire / partager le contenu
+
+Embryon de todo list:
+- liste des people
+- agenda draft
+- liste de contenu
+--> shooter l'invitation ASAP (semaine prochaine ?!)
+
+### 2019-04-05T10:09:13+02:00
+
+Dates:
+- 27-28-29 mai: option posée (pulse)
+- 4-5 juin: option posée (e-connect: 600-700 personnes, partirait ailleurs). Jean-Brice DUMONT
+- seule date le mardi 11 juin.
+- 24-25 juin: option
+
+jours dispo:
+- 11 juin
+- 15 mai
+- 16 mai (en prenant le 15 pour le montage).
+
+Retro-planning:
+- T0: event
+-
+
+### ...
+
 Dates:
 - 27-28-29 mai: option posée (pulse)
 - 4-5 juin: option posée (e-connect: 600-700 personnes, partirait ailleurs). Jean-Brice DUMONT

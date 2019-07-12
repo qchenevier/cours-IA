@@ -1,4 +1,74 @@
 
+### 2019-03-19T10:58:04+01:00
+
+weekly au ML1
+revue sprint demo #1
+revue sprint demo #2
+
+weekly meeting:
+- meeting avec O.Zenari (14h-16h) : data exploration
+
+Bien matérialiser la todo list.
+
+- Beaucoup d'attentes sur le digital... reporting au petits oignons à faire.
+
+### 2019-04-09T10:28:36+02:00
+
+Ticket:
+- Entre novembre et février
+
+Point avec Reda / messages clés:
+- On a bien analysé le besoin: backlog rempli et validé par le client
+- On a identifié les données requises et les points durs qui restent à travailler
+- A la fin des 2 mois, on aura les fondations de l'applicaton, le dashboard GTI et le dashboard RTI (avec quelques features manquantes)
+- Il reste un reliquat du backlog dont la décision de le réaliser ou non est à évaluer en fonction du business case (exercice en cours)
+
+### 2019-04-10T14:42:59+02:00
+
+Sprint 0 review - Ground Tests:
+- RTI --> is the priority
+- Recurrence & Reason WHY --> P1 at G5, before the fifth of june.
+  --> webex from 9 to 10
+  -->
+
+
+Exemple:
+- GTI FUEL: 8 26 0165
+- magie des jointures ...
+- NC: 9052026 --> lien fait par data engineering (70% des données / 30% des données non liables)
+- NC Raison: [free text] 24QA en défaut / Ne transmet pas l'information de pression - Fault présent sur P/B LH 1 PUMP / Refus de la 24 QA
+- Raison: Pompe Carburant HS --> labellisé à la main par Karim
+- Récurrence Raison "Pompe Carburant HS": 2
+
+--> avoir une liste de pain points (Raisons récurrentes de NC sur des RTI) pour pouvoir
+
+
+### 2019-04-11T09:24:07+02:00
+
+NC related to RTI
+NC non-related to RTI --> ?
+
+Reason --> shall give a hint of the root cause -->
+
+GTI dashboard
+
+Implication:
+- Patrick
+
+### 2019-04-12T10:14:27+02:00
+
+Sprint 1: semaine 16-17-18-19-20: livraisons weekly le vendredi:
+  - 19 avril
+  - 26 avril
+  - 3 mai
+  - 10 mai
+  - 17 mai
+Sprint 2: semaine 21-22-23-24: fin le 14 juin: livraisons weekly le vendredi:
+  - 24 mai
+  - 31 mai
+  - 7 juin
+  - 14 juin
+
 ### 2019-04-24T15:18:12+02:00
 
 Newcomer:

@@ -1,0 +1,32 @@
+### 2019-05-14T11:59:48+02:00
+
+Présentation I&D - Insights & Data:
+- Effectifs globaux:
+  - 450 pax aujourd'hui
+  - 250 en cours de recrutement
+  - pas de croissance l'an dernier à cause de 30 % d'attrition
+  - objectif à 1000 PAX
+- Effectifs (détail):
+  - Data Scientists: 30 --> bankable, mais les clients ont tendance à l'internaliser
+  - Data Engineers: 50 --> c'est la compétence la plus bankable selon lui
+- Implantation: Paris, Lille. Pas de velléité d'implantation à Toulouse.
+- 42 millions de CA, objectif de faire 150 millions: ambitieux.
+- "Je ne viens pas en ennemi. J'ai besoin de bosser avec tout le monde atteindre mes objectifs.". Objectif d'être au courant des deals pour essayer de contribuer avec les bonnes compétences.
+- Création d'un CoE (Center of Excellence) de l'IA pour montrer la compétence lors des propales.
+- Présentation de success stories: il cherche à vendre I&D aux vendeurs locaux
+  - Customer Experience: Virgin Cruise / Voyages
+  - Opex: Scribe (Police Nationale)
+  - Opex: Credit Agricole
+  - Health Data Hub (il y avait aussi Invent sur le deal)
+  - ...
+- "Patrimoine des entreprises: c'était les usines, puis c'est devenu le SI, maintenant c'est les data"
+- Moto:
+  - Magic: Experience
+  - Business: Value from data
+  - Makers: Projects that works
+- Q & A:
+  - Aujourd'hui, quand on parle d'intelligence artificielle, on est hyper générique. Quel est le différenciateur d'I&D ?
+    - On fait du "bout en bout": de la création de la stratégie, la création de la plateforme, le staffing d'équipes projets...
+    - On est accélérateur sur l'analytics, avec le partenaire SAS et/ou des startups analytics. On déploie une plateforme avec des équipes en 6 mois au lieu de 3 ans.
+    - On est experts sur certains secteurs: life science / healthcare, defence, ...
+    - On commence à être bon sur la valorisation de la data, chez quels brokers aller chercher des données complémentaires...

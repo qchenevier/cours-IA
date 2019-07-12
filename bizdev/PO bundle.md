@@ -1,4 +1,28 @@
 
+### 2019-03-20T15:08:59+01:00
+
+Discussion avec Paul Thuery:
+- sur Bundle PO-2P
+  - EM: Pierre LADOUX
+  - Commercial: Jérémy AKNINE
+  - Stream leader: Marion TOUSTARD
+- En novembre-décembre, workshop avec PO pour présenter les sujets data analytics
+  - compétences
+  - use-cases
+  - fait avec Benjamin FARCY
+- Dans la foulée (janvier) lancement de "Data Analytics for PO":
+  - 3 axes
+    - use-cases:
+      - receuil des pain points auprès des Head of PO
+      - objectif: lancer 2 use-cases pendant l'année
+    - compétences
+      - awareness sur les principes du data analytics
+      - awareness sur les outils du data analytics = awareness contour
+    - stratégie (pas d'info)
+  - sponsors
+    - DTO: Pedro
+    - Head of POP: Antoine MOREL
+
 ### 2019-04-30T10:05:03+02:00
 
 Mai DO:
