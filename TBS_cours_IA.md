@@ -57,7 +57,7 @@ title: IA for managers
   
   - ~~algorithms~~ → datasets ! (voir article [Datasets Over Algorithms](https://www.kdnuggets.com/2016/05/datasets-over-algorithms.html))
     
-    ![](https://images.squarespace-cdn.com/content/54345ed8e4b0fa5705e1825b/1459449530701-68FQZ878JRPQCE97XVCC/AIBreakthrough.png?content-type=image%2Fpng)
+    ![Datasets over Algorithms](https://images.squarespace-cdn.com/content/54345ed8e4b0fa5705e1825b/1459449530701-68FQZ878JRPQCE97XVCC/AIBreakthrough.png?content-type=image%2Fpng)
   
   - open competition: open source / open publication (model hubs, papers with code, etc.):
   
@@ -65,15 +65,15 @@ title: IA for managers
     
     - nombre de publications deep learning
       
-      ![](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-27-46-AI_papers_arxiv_2010_2019.png)
+      ![AI papers on Arxiv](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-27-46-AI_papers_arxiv_2010_2019.png)
     
     - nombre de participants aux conférences deep learning
       
-      ![](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-16-53-AI_conferences_attendance_1985_2019.png)
+      ![AI conferences attendance](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-16-53-AI_conferences_attendance_1985_2019.png)
     
     - nombre de jobs de machine learning aux US (répartition inégale !)
       
-      ![](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-45-29-AI_jobs_per_industry_2010_2019.png)
+      ![AI jobs](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-45-29-AI_jobs_per_industry_2010_2019.png)
     
     - IA qui bat les humains (voir rapport AI index ou plus d'infos sur cette [page de l'EFF](https://www.eff.org/ai/metrics))
 
