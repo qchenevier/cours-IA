@@ -16,6 +16,8 @@ title: IA for managers
 - Agile
 - Data Scientist
 - Machine Learning / Deep Learning
+- Cloud
+- API
 
 ### Technologie & Société
 
