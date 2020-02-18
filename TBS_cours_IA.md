@@ -6,14 +6,17 @@ presentation:
   maxScale: 0.8
 ---
 
-<!-- slide -->
+<!-- slide data-background-color="#222222" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/World.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-> 3 modules de 4 heures:
-> 
-> - 2 h théoriques (15-20 slides)
-> - 2 h atelier
+# L'Intelligence Artificielle en 2020
 
 <!-- slide vertical=true-->
+
+## Vos attentes ?
+
+<!-- slide vertical=true-->
+
+## Qui êtes-vous ?
 
 Le cours s'adresse à tous publics ayant
 
@@ -21,124 +24,137 @@ Le cours s'adresse à tous publics ayant
 - tout type de rôle dans une organisation (employé, manager, dirigeant)
 - dans toute taille d'organisation (PME, grand groupe)
 
-<!-- slide -->
-
-# L'IA pour tous
-
 <!-- slide vertical=true-->
+
+## C'est quoi le plan ?
+
+> 3 modules de 3h30:
+> 
+> - 2h théoriques (15-20 slides)
+> - 1h30 atelier pratique
+
+1. L'IA pour les citoyen.ne.s
+2. L'IA pour les stratèges
+3. L'IA pour les managers
+
+<!-- slide data-background-color="#332222" data-background-video="Bokeh.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
+
+# L'IA pour les citoyen.ne.s
+
+<!-- slide vertical=true data-background-color="#332222"-->
 
 - Qu'est-ce que l'IA ? Comment ça marche ?
 - IA et travail: comment l'IA est en train de changer le monde du travail ?
 - IA et société/gouvernement: Quels enjeux éthiques autour de l'IA ?
 
-<!-- slide -->
+<!-- slide data-background-color="#332222"-->
 
 ### Révolution technologique et sociétale
 
-<!-- slide -->
+<!-- slide data-background-color="#332222"-->
 
 #### Une révolution technologique: façonner le monde autrement
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 Selon Carlota Perez, nous vivons une nouvelle révolution technologique: la révolution digitale arrive après le charbon, l'électricité, le pétrole, ...
 
-<!-- slide vertical=true"-->
+<!-- slide vertical=true" data-background-color="#332222"-->
 
 ![Carlota Perez - 5 technological revolutions.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/16-17-01-33-Carlota%20Perez%20-%205%20technological%20revolutions.png)
 <small>[Looking at the future, Learning from history](http://www.carlotaperez.org/downloads/media/PEREZ%20ASUT%20Bern%20Final.pdf)</small>
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 ![Carlota Perez - Centrifugal Trends.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/16-23-38-24-Carlota%20Perez%20-%20Centrifugal%20Trends.png)
 <small>Source: [Technological Revolutions, Paradigm Shifts and Socio-institutional Change](http://www.carlotaperez.org/downloads/pubs/TRs_TEP_shifts_and_SIF_ch.pdf)</small>
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 ![Carlota Perez - Income Inequality.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/16-17-01-42-Carlota%20Perez%20-%20Income%20Inequality.png)
 <small>[Full Globalisation as a Positive-Sum Game: Green Demand as an Answer to the Financial Crisis](http://www.carlotaperez.org/downloads/media/20100518_CarlotaPerez.pdf)</small>
 
-<!-- slide -->
+<!-- slide data-background-color="#332222"-->
 
 #### Une révolution sociétale: changer la fabrique de la société
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
 - voir intro de "program or be programmed" de Douglas rushkoff)
 - la révolution digitale arrive après l'alphabet, l'imprimerie, les télécoms analogiques (TV = "broadcast", téléphone = "point à point"), ...
 
-<!-- slide -->
+<!-- slide data-background-color="#332222"-->
 
 ### Comprendre la révolution digitale
 
-<!-- slide -->
+<!-- slide data-background-color="#332222"-->
 
 #### Lois exponentielles et accélération constante de la digitalisation
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
 moore law: [article sur le sujet à lire](https://www.nextplatform.com/2019/02/05/the-era-of-general-purpose-computers-is-ending/)
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
 penetration of technologies
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
 [number of processors / transistors](https://www.darrinqualman.com/global-production-transistors/)
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
 number of telecoms / available broadband
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
 number of websites
 
-<!-- slide -->
+<!-- slide data-background-color="#332222"-->
 
 #### L'IA ou le second souffle de la révolution digitale
 
-<!-- slide -->
+<!-- slide data-background-color="#332222"-->
 
 ##### Histoire de l'IA depuis 60 ans
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 - Une révolution qui a connu 2 "hivers" (période de doute): à voir sur cette [timeline](https://www.researchgate.net/publication/323591839/figure/fig8/AS:601346701008897@1520383634410/Development-history-of-artificial-intelligence-AI.png)
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 - Révolution en phase de déploiement (extrait rapport [AI index](https://hai.stanford.edu/sites/g/files/sbiybj10986/f/ai_index_2019_report.pdf)):
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 nombre de publications deep learning
 ![AI papers on Arxiv](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-27-46-AI_papers_arxiv_2010_2019.png)
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 nombre de participants aux conférences deep learning
 ![AI conferences attendance](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-16-53-AI_conferences_attendance_1985_2019.png)
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 nombre de jobs de machine learning aux US (répartition inégale !)
 <img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-45-29-AI_jobs_per_industry_2010_2019.png" style="width:80%;height:80%">
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 IA qui bat les humains (voir rapport AI index ou plus d'infos sur cette [page de l'EFF](https://www.eff.org/ai/metrics))
 
@@ -150,7 +166,7 @@ IA qui bat les humains (voir rapport AI index ou plus d'infos sur cette [page de
 | 2011  | Jeopardy!  |
 | 2015  | Jeux Atari |
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 | Année | Activité                                                                                                                                                 |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -159,17 +175,17 @@ IA qui bat les humains (voir rapport AI index ou plus d'infos sur cette [page de
 | 2018  | - Traduction Chinois-Anglais<br/>- Quake 3: Capture the flag<br/>- DOTA2<br/>- Classification du cancer de la prostate<br/>- Protein Folding (Alphafold) |
 | 2019  | - Starcraft II (AlphaStar)<br/>- Diagnostic de la rétinopathie diabétique                                                                                |
 
-<!-- slide -->
+<!-- slide data-background-color="#332222"-->
 
 ##### Le deep learning
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
 La révolution deep learning → plus de feature engineering
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
@@ -180,7 +196,7 @@ La révolution deep learning → plus de feature engineering
   - time series analytics
   - ??
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
@@ -191,11 +207,11 @@ ce que ne peut pas encore faire l'IA (voir [slide de Yann Lecun](https://mobile.
 - Apprendre à planifier des séquences d'action complexes (apprendre des représentations hiérarchiques)
 - en bref: l'IA sait faire du system 1 et pas du system 2: voir [talk/slides de yoshua bengio](https://slideslive.com/38922304/from-system-1-deep-learning-to-system-2-deep-learning)
 
-<!-- slide -->
+<!-- slide data-background-color="#332222"-->
 
 ##### Pourquoi l'IA progresse si vite
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 ~~algorithms~~ → datasets !
 
@@ -203,15 +219,15 @@ ce que ne peut pas encore faire l'IA (voir [slide de Yann Lecun](https://mobile.
 
 <small>Source: [Datasets Over Algorithms (kdnuggets)](https://www.kdnuggets.com/2016/05/datasets-over-algorithms.html)</small>
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 open competition: open source / open publication (model hubs, papers with code, etc.)
 
-<!-- slide -->
+<!-- slide data-background-color="#332222"-->
 
 ##### Demain: quelle révolution remplacera celle-ci ?
 
-<!-- slide -->
+<!-- slide data-background-color="#332222"-->
 
 ###### La singularité: l'IA remplace l'homme ?
 
@@ -221,13 +237,13 @@ open competition: open source / open publication (model hubs, papers with code, 
 
 ![](https://28oa9i1t08037ue3m1l0i861-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/Howard-Graph.png)
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
 👎 Contre: [The Impossibility of Intelligence Explosion (François Chollet)](https://medium.com/@francois.chollet/the-impossibility-of-intelligence-explosion-5be4a9eda6ec), etc.
 
-<!-- slide -->
+<!-- slide data-background-color="#332222"-->
 
 ###### La lame de fond des biotechs
 
@@ -235,24 +251,24 @@ open competition: open source / open publication (model hubs, papers with code, 
 - éditer le code génétique avec CRISPR-CAS9: voir [vidéo kurzgesagt (et les sources en commentaires)](https://www.youtube.com/watch?v=jAhjPd4uNFY)
 - prévoir les propriétés des protéines à partir de leur code génétique: [alphafold de deepmind](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery) et [article wired](https://www.wired.co.uk/article/deepmind-protein-folding-alphafold)
 
-<!-- slide -->
+<!-- slide data-background-color="#223322" data-background-video="Black.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-# L'IA pour le stratège / dirigeant
+# L'IA pour les stratèges
 
-- Commet l'IA et la digitalisationQuelles tendances doit-on anticiper ?
+- Comment l'IA et la digitalisation ? Quelles tendances doit-on anticiper ?
 - Comment dois-je transformer mon entreprise ? Quel type d'organisation dois-je mettre en place pour tirer parti de l'IA dans mon entreprise ?
   - dans une PME ?
   - dans un grand groupe
 
-<!-- slide -->
+<!-- slide data-background-color="#223322"-->
 
 ### Révolution digitale et organisations
 
-<!-- slide -->
+<!-- slide data-background-color="#223322"-->
 
 #### Les organisation digitales abordent leur environnement différement
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#223322"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
@@ -261,7 +277,7 @@ open competition: open source / open publication (model hubs, papers with code, 
   - product leadership
   - operational excellence
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#223322"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
@@ -270,11 +286,11 @@ open competition: open source / open publication (model hubs, papers with code, 
   - exceptional user experience
   - regular & systematic collection of user-generated data
 
-<!-- slide -->
+<!-- slide data-background-color="#223322"-->
 
 #### La structuration des communications au sein de ces organisations
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#223322"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
@@ -283,16 +299,16 @@ open competition: open source / open publication (model hubs, papers with code, 
   - maintenant en réseaux
   - structurées par des algo / apps
 
-<!-- slide -->
+<!-- slide data-background-color="#223322"-->
 
 #### Les organisations digitales remodèlent leur environnement
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#223322"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 Aller chercher les variations sur les 5 forces de Porter (voir mon mémoire)
 
-<!-- slide vertical=true-->
+<!-- slide vertical=true data-background-color="#223322"-->
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
@@ -304,7 +320,7 @@ voir [article](https://www.atys-concept.com/blog-de-la-performance/articles-perf
 - PaaS
 - IaaS
 
-<!-- slide -->
+<!-- slide data-background-color="#223322"-->
 
 ## Exercices stratège dirigeant
 
@@ -320,14 +336,63 @@ voir [article](https://www.atys-concept.com/blog-de-la-performance/articles-perf
   - comment s'y préparer
   - premières actions
 
-<!-- slide -->
+<!-- slide data-background-color="#222233" data-background-video="Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
 # L'IA pour les managers
 
 - Comment gérer un projet IA ? Quelles spécificités ?
 - Comment intégrer l'IA dans mon processus ?
 
-<!-- slide -->
+<!-- slide data-background-color="#222233"-->
+
+## People
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### c'est quoi un data scientist
+
+- la définition de (c'est juste un PhD qui a trouvé un titre): formation:
+  - 80 % algorithmes
+  - 10 % data engineering & business knowledge
+  - 10 % devops/IT
+- ce que ça doit être en 2020: full stack developer:
+  - 20 % algorithms
+  - 40 % data engineering & business knowledge
+  - 40 % devops/IT
+
+### Paysage des compétences à maitriser
+
+- ...
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+## Process
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### qu'est-ce qui fait la valeur d'un projet ? Decision
+
+- IODeV (cadre mental):
+  - Input
+  - Output
+  - Decision
+  - Value
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+## c'est quoi un projet IT Agile
+
+- gérer l'incertain:
+  - réévaluation fréquente du contexte: "les informaticiens ne font pas les choses parce qu'ils pensent que c'est faisable, mais parce qu'ils croient que c'est facile."
+    - se concentrer sur la livraison de quelque chose d'utilisable pour apprendre, collecter des retours du terrain
+  - replanification itérative:
+  - intelligence collective
+- loi des grands nombres pour le chiffrage
+
+## c'est quoi un projet data science
+
+- expérimentation: être prêt à payer pour voir (fail fast, learn quick)
+- le cadre mental CRISPR
 
 ---
 
@@ -457,7 +522,7 @@ voir [article](https://www.atys-concept.com/blog-de-la-performance/articles-perf
 - 
 - Démo:
 
-## Planning
+# Planning
 
 | Demi-journée                           | Plage horaire |                                                                                                                                                      |
 |:--------------------------------------:|:-------------:| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
