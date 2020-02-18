@@ -37,7 +37,7 @@ Le cours s'adresse à tous publics ayant
 2. L'IA pour les stratèges
 3. L'IA pour les managers
 
-<!-- slide data-background-color="#332222" data-background-video="Bokeh.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
+<!-- slide data-background-color="#332222" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Bokeh.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
 # L'IA pour les citoyen.ne.s
 
@@ -251,7 +251,7 @@ open competition: open source / open publication (model hubs, papers with code, 
 - éditer le code génétique avec CRISPR-CAS9: voir [vidéo kurzgesagt (et les sources en commentaires)](https://www.youtube.com/watch?v=jAhjPd4uNFY)
 - prévoir les propriétés des protéines à partir de leur code génétique: [alphafold de deepmind](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery) et [article wired](https://www.wired.co.uk/article/deepmind-protein-folding-alphafold)
 
-<!-- slide data-background-color="#223322" data-background-video="Black.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
+<!-- slide data-background-color="#223322" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Black.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
 # L'IA pour les stratèges
 
@@ -336,7 +336,7 @@ voir [article](https://www.atys-concept.com/blog-de-la-performance/articles-perf
   - comment s'y préparer
   - premières actions
 
-<!-- slide data-background-color="#222233" data-background-video="Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
+<!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
 # L'IA pour les managers
 
