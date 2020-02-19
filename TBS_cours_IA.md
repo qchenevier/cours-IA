@@ -12,7 +12,7 @@ presentation:
 
 <!-- slide vertical=true-->
 
-## Vos attentes ?
+## Qu'attendez-vous de ce cours ?
 
 <!-- slide vertical=true-->
 
@@ -23,6 +23,15 @@ Le cours s'adresse à tous publics ayant
 - tous niveaux techniques (du plus bas au plus élevé)
 - tout type de rôle dans une organisation (employé, manager, dirigeant)
 - dans toute taille d'organisation (PME, grand groupe)
+
+<!-- slide vertical=true-->
+
+## Qu'allons-nous essayer d'apprendre ?
+
+- toucher du doigt et comprendre ce qu'est l'IA
+- savoir gérer un projet IA dans son entreprise
+- savoir anticiper l'impact de l'IA à moyen-terme dans la société
+- anticiper la transformation de son entreprise avec l'IA
 
 <!-- slide vertical=true-->
 
@@ -351,18 +360,117 @@ voir [article](https://www.atys-concept.com/blog-de-la-performance/articles-perf
 
 ### c'est quoi un data scientist
 
-- la définition de (c'est juste un PhD qui a trouvé un titre): formation:
-  - 80 % algorithmes
-  - 10 % data engineering & business knowledge
-  - 10 % devops/IT
-- ce que ça doit être en 2020: full stack developer:
-  - 20 % algorithms
-  - 40 % data engineering & business knowledge
-  - 40 % devops/IT
+```vega-lite
+{
+  "config": {
+    "background": "#333",
+    "title": {"color": "#fff"},
+    "style": {"guide-label": {"fill": "#fff"}, "guide-title": {"fill": "#fff"}},
+    "axis": {"domainColor": "#fff", "gridColor": "#888", "tickColor": "#fff"}
+  },
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": {
+    "text": "Les envies du data scientist face aux besoins projet",
+    "fontSize": 30,
+    "anchor": "middle",
+    "offset": 20
+  },
+  "width": 450,
+  "height": 200,
+  "data": {"values": [
+    {"Activité": "Données", "Charge": 0.45, "rank": 1, "reality": "Besoin", "opacity": 0.4},
+    {"Activité": "Modèle", "Charge": 0.1, "rank": 2, "reality": "Besoin", "opacity": 0.4},
+    {"Activité": "Déploiement", "Charge": 0.45, "rank": 3, "reality": "Besoin", "opacity": 0.4},
+    {"Activité": "Données", "Charge": 0.1, "rank": 1, "reality": "Envie", "opacity": 1},
+    {"Activité": "Modèle", "Charge": 0.8, "rank": 2, "reality": "Envie", "opacity": 1},
+    {"Activité": "Déploiement", "Charge": 0.1, "rank": 3, "reality": "Envie", "opacity": 1}
+  ]},
+  "mark": {
+    "type": "bar"
+  },
+  "encoding": {
+    "x": {
+      "field": "Activité",
+      "type": "nominal",
+      "axis": {
+        "labelFontSize": 30,
+        "titleFontSize": 0,
+        "labelAngle": 0
+      },
+      "sort": {"field": "rank"}
+    },
+    "y": {
+      "field": "Charge",
+      "type": "quantitative",
+      "scale": {"domain": [0, 1]},
+      "axis": {
+        "labelFontSize": 30,
+        "titleFontSize": 0,
+        "tickCount": 0,
+        "format": "%"
+      }
+    },
+    "row": {
+      "field": "reality",
+      "type": "nominal",
+      "title": "",
+      "header": {
+        "labelFontSize": 30,
+        "labelAngle": 0,
+        "labelAlign": "middle",
+        "titleFontSize": 30
+      }
+    },
+    "color": {
+      "field": "Activité",
+      "legend": null
+    },
+    "opacity": {
+      "field": "opacity",
+      "legend": null
+    }
+  }
+}
+```
+
+Les data scientists d'aujourd'hui ne sont pas autonomes pour livrer une solution
+
+<!-- slide vertical=true data-background-color="#222233"-->
 
 ### Paysage des compétences à maitriser
 
-- ...
+- le background classique:
+  
+  - chercheur qui s'est reconverti
+  - newbie qui sort d'école
+
+- ce qu'il faut pour être un full stack data scientist (ou au moins comme compétences dans un projet)
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+## Content
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### qu'est-ce qui fait la valeur d'un projet ? Decision
+
+📊 Information + ✋ Décision = 💰 Valeur
+
+Cadre mental DPDV pour qualifier une idée:
+Données → Produit → Décision → Valeur
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+| Données                   | Produit         | Décision                                               | Valeur       |
+| ------------------------- | --------------- | ------------------------------------------------------ | ------------ |
+| Réseaux de senseurs météo | Prévision Météo | Le citadin prend un parapluie avant de sortir          | ~ 0 €        |
+| Réseaux de senseurs météo | Prévision Météo | Le producteur de vin protège ses vignes avant la grèle | > 100 € / an |
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+| Données                                     | Produit                                         | Décision                                          | Valeur       |
+| ------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- | ------------ |
+| Images satellites des réservoirs de pétrole | Estimation des réserves réelles de pétrole brut | Le trader achète ou vend du pétrole sur le marché | > 10M € / an |
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
@@ -370,17 +478,7 @@ voir [article](https://www.atys-concept.com/blog-de-la-performance/articles-perf
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
-### qu'est-ce qui fait la valeur d'un projet ? Decision
-
-- IODeV (cadre mental):
-  - Input
-  - Output
-  - Decision
-  - Value
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-## c'est quoi un projet IT Agile
+### c'est quoi un projet IT Agile
 
 - gérer l'incertain:
   - réévaluation fréquente du contexte: "les informaticiens ne font pas les choses parce qu'ils pensent que c'est faisable, mais parce qu'ils croient que c'est facile."
@@ -389,43 +487,44 @@ voir [article](https://www.atys-concept.com/blog-de-la-performance/articles-perf
   - intelligence collective
 - loi des grands nombres pour le chiffrage
 
-## c'est quoi un projet data science
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### c'est quoi un projet data science
 
 - expérimentation: être prêt à payer pour voir (fail fast, learn quick)
-- le cadre mental CRISPR
+
+![CRISP-DM process](https://theknowledgefactory.org/wp-content/uploads/2019/09/crispdm2.png)
+
+- [CRISP-DM (Wikipedia)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
+
+### Qualifier une idée de projet
+
+- https://xkcd.com/1425/
+- se renseigner sur l'état de l'art: site paperswithcode
 
 ---
 
-# Content
-
-## Introduction
-
-- https://xkcd.com/1425/
-
-## Contexte
+# Annexe
 
 ### Glossaire
 
-- Devops / Continuous Integration
+- Devops
 - Agile
 - Data Scientist
 - Machine Learning / Deep Learning
 - Cloud
 - API
 
-### Technologie & Société
+### Contenu à placer:
 
-#### La place des technologistes dans la société:
-
+- [Data Driven Think Again (Hackernoon)](https://hackernoon.com/data-inspired-5c78db3999b2) --> pour tirer parti de l'IA, il faut avoir une culture de la rationnalité et de la décision (citer [lettre aux actionnaire de Jeff Bezos en 1997](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm) sur les 2 types de décision)
+- Attention aux écueils: essayer de prédire la sexualité des gens à partir de leur visage: 2 critiques: [article medium](https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-just-expose-our-stereotypes-d998fafdf477) et [article The Register](https://www.theregister.co.uk/2019/03/05/ai_gaydar/)
 - salaire moyen d'un devops / data scientist dans le monde
 - combien d'IT specialist et de data scientists par rapport à la population ?
-- ne vous méfiez pas de l'IA mais de ceux qui possèdent le pouvoir de créer/modifier l'IA: actionnaires & data scientists
-
-### ...
-
-- Articles à citer:
-  - [Data Driven Think Again (Hackernoon)](https://hackernoon.com/data-inspired-5c78db3999b2)
-  - Attention aux écueils: essayer de prédire la sexualité des gens à partir de leur visage: 2 critiques: [article medium](https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-just-expose-our-stereotypes-d998fafdf477) et [article The Register](https://www.theregister.co.uk/2019/03/05/ai_gaydar/)
+- ne vous méfiez pas de l'IA mais de ceux qui possèdent le pouvoir de créer/modifier l'IA: actionnaires & data scientists (citer [weapons of math destruction de Cathy O'Neil](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction))
+- extraits de mon mémoire de MBA:
+  - les 5 forces de porters à l'ère du digital
+  - les 8 compétences clés dans le futur
 
 # Demos / Manips
 
@@ -462,32 +561,6 @@ voir [article](https://www.atys-concept.com/blog-de-la-performance/articles-perf
     - Fit (and critique) a regression model.
 - automl H20
 
-# Objectifs de formation
-
-- toucher du doigt et comprendre ce qu'est l'IA
-- savoir gérer un projet IA dans son entreprise
-- savoir anticiper l'impact de l'IA à moyen-terme dans la société
-- anticiper la transformation de son entreprise avec l'IA
-
-# Profils visés
-
-- Public cible: managers
-  - techniques / pas techniques (niveau de technicité)
-  - PME / grands groupes ? (contexte d'évolution)
-  - hands-on & doer (aime bien les manips) ou parleur (étude de cas)
-- Tout le monde:
-  - Qu'est-ce que l'IA ?
-  - IA et travail: comment l'IA est en train de changer le monde du travail ?
-  - IA et société/gouvernement: enjeux éthiques autour de l'IA
-- Project Manager:
-  - Comment gérer un projet IA ? Quelles spécificités ?
-  - Comment intégrer l'IA dans mon processus ?
-- Strategist / CEO:
-  - Quelles tendances doit-on anticiper ?
-  - Comment dois-je transformer mon entreprise ? Quel type d'organisation dois-je mettre en place pour tirer parti de l'IA dans mon entreprise ?
-    - dans une PME ?
-    - dans un grand groupe ?
-
 # Planning type & liste d'activités
 
 ## Liste d'activités
@@ -521,6 +594,8 @@ voir [article](https://www.atys-concept.com/blog-de-la-performance/articles-perf
 - IA pour le manager:
 - 
 - Démo:
+
+<!-- slide -->
 
 # Planning
 
