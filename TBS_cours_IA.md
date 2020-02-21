@@ -8,7 +8,7 @@ presentation:
 
 <!-- slide data-background-color="#222222" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/World.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-# L'Intelligence Artificielle en 2020
+# Intelligence Artificielle en 2020
 
 <!-- slide vertical=true-->
 
@@ -37,18 +37,18 @@ Le cours s'adresse à tous publics ayant
 
 ## C'est quoi le plan ?
 
-> 3 modules de 3h30:
-> 
-> - 2h théoriques (15-20 slides)
-> - 1h30 atelier pratique
+|                     |                                                |
+|:-------------------:|:----------------------------------------------:|
+| 1^ère^ demi-journée | <span style="color: red">IA & **citoyen.ne.s** |
+| 2^nde^ demi-journée | <span style="color: green">IA & **stratèges**  |
+| 3^ème^ demi-journée | <span style="color: blue">IA & **managers**    |
 
-1. L'IA pour les citoyen.ne.s
-2. L'IA pour les stratèges
-3. L'IA pour les managers
+> modules de 3h30
+>   ⚖️ équilibre théorique et pratique
 
 <!-- slide data-background-color="#332222" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Bokeh.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-# L'IA pour les citoyen.ne.s
+# IA & citoyen.ne.s
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
@@ -56,119 +56,214 @@ Le cours s'adresse à tous publics ayant
 - IA et travail: comment l'IA est en train de changer le monde du travail ?
 - IA et société/gouvernement: Quels enjeux éthiques autour de l'IA ?
 
+<!-- slide vertical=true data-background-color="#332222"-->
+
+|              |                     |
+|:------------:|:------------------- |
+| <small>08:00 | 🤗 Accueil & Intro  |
+| <small>08:30 | 🤔 Partie Théorique |
+| <small>09:00 | ^                   |
+| <small>09:30 | ^                   |
+| <small>10:00 | ☕️ Pause            |
+| <small>10:30 | 😅 Atelier pratique |
+| <small>11:00 | ^                   |
+| <small>11:30 | ^                   |
+| <small>12:00 | 🥗 Déjeuner         |
+| <small>12:30 | ^                   |
+| <small>13:00 | ^                   |
+
 <!-- slide data-background-color="#332222"-->
 
-### Révolution technologique et sociétale
+### Une révolution technologique et sociétale
 
 <!-- slide data-background-color="#332222"-->
 
 #### Une révolution technologique: façonner le monde autrement
 
-<!-- slide vertical=true data-background-color="#332222"-->
+<!-- slide vertical=true" data-background-color="#332222"-->
 
-Selon Carlota Perez, nous vivons une nouvelle révolution technologique: la révolution digitale arrive après le charbon, l'électricité, le pétrole, ...
+##### Les phases d'une révolution industrielle
+
+![Technological Revolution.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-53-11-Technological%20Revolution.png)
 
 <!-- slide vertical=true" data-background-color="#332222"-->
 
-![Carlota Perez - 5 technological revolutions.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/16-17-01-33-Carlota%20Perez%20-%205%20technological%20revolutions.png)
-<small>[Looking at the future, Learning from history](http://www.carlotaperez.org/downloads/media/PEREZ%20ASUT%20Bern%20Final.pdf)</small>
+##### La 5^ème^ révolution: Age de l'Information
+
+![Carlota Perez - 5 technological revolutions v2.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-16-07-57-Carlota%20Perez%20-%205%20technological%20revolutions%20v2.png)
+<small>Source: [Looking at the future, Learning from history (Carlota Perez)](http://www.carlotaperez.org/downloads/media/PEREZ%20ASUT%20Bern%20Final.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
+##### La dislocation économique
+
+Croissance explosive vs Augmentation de la pauvreté.
 ![Carlota Perez - Centrifugal Trends.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/16-23-38-24-Carlota%20Perez%20-%20Centrifugal%20Trends.png)
-<small>Source: [Technological Revolutions, Paradigm Shifts and Socio-institutional Change](http://www.carlotaperez.org/downloads/pubs/TRs_TEP_shifts_and_SIF_ch.pdf)</small>
+<small>Source: [Technological Revolutions, Paradigm Shifts and Socio-institutional Change (Carlota Perez)](http://www.carlotaperez.org/downloads/pubs/TRs_TEP_shifts_and_SIF_ch.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
+
+##### La polarisation des revenus
 
 ![Carlota Perez - Income Inequality.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/16-17-01-42-Carlota%20Perez%20-%20Income%20Inequality.png)
-<small>[Full Globalisation as a Positive-Sum Game: Green Demand as an Answer to the Financial Crisis](http://www.carlotaperez.org/downloads/media/20100518_CarlotaPerez.pdf)</small>
+<small>Source: [Full Globalisation as a Positive-Sum Game: Green Demand as an Answer to the Financial Crisis (Carlota Perez)](http://www.carlotaperez.org/downloads/media/20100518_CarlotaPerez.pdf)</small>
 
-<!-- slide data-background-color="#332222"-->
+<!-- slide vertical=true data-background-color="#332222"-->
+
+<iframe width="100%" height="400" src="https://time.graphics/embed?v=1&id=348095" frameborder="0" allowfullscreen></iframe>
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+ZOU
+
+ZOU
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+<!-- slide vertical=true data-background-color="#332222"-->
 
 #### Une révolution sociétale: changer la fabrique de la société
 
-<!-- slide vertical=true data-background-color="#332222"-->
-
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
-
 - voir intro de "program or be programmed" de Douglas rushkoff)
-- la révolution digitale arrive après l'alphabet, l'imprimerie, les télécoms analogiques (TV = "broadcast", téléphone = "point à point"), ...
+
+[![Chronologie Technologies de l'Information.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/21-16-04-17-Chronologie%20Technologies%20de%20l'Information.png)](https://time.graphics/line/348095)
+
+Si la diffusion a plus d'influence: tendance à la centralisation dans la propagation d'informations
+Si le bouche-à-oreille a plus d'influence: tendance à la décentralisation dans la propagation d'informations
 
 <!-- slide data-background-color="#332222"-->
 
-### Comprendre la révolution digitale
+### Les principes de la révolution digitale
 
 <!-- slide data-background-color="#332222"-->
 
-#### Lois exponentielles et accélération constante de la digitalisation
+#### Identifier les tendances structurantes
 
-<!-- slide vertical=true data-background-color="#332222"-->
+- citer Tim O'Reilly dans son livre WTF sur "trouver les vecteurs de force dans la société"
 
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
+Penser en vecteurs: qu'est-ce qui a une direction et une force constante ?
 
-moore law: [article sur le sujet à lire](https://www.nextplatform.com/2019/02/05/the-era-of-general-purpose-computers-is-ending/)
-
-<!-- slide vertical=true data-background-color="#332222"-->
-
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
-
-penetration of technologies
-
-<!-- slide vertical=true data-background-color="#332222"-->
-
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
-
-[number of processors / transistors](https://www.darrinqualman.com/global-production-transistors/)
-
-<!-- slide vertical=true data-background-color="#332222"-->
-
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
-
-number of telecoms / available broadband
-
-<!-- slide vertical=true data-background-color="#332222"-->
-
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
-
-number of websites
+> Smartphones had put a camera in everyone’s hand, and Twitter had created a real-time platform from which those photos and text updates could be instantly disseminated to the world. Billions of connected humans and devices were being woven into a global brain. That brain was all of us, augmented and connected.”
 
 <!-- slide data-background-color="#332222"-->
 
-#### L'IA ou le second souffle de la révolution digitale
+##### Ne pas prédire le futur, mais identifier les tendances
+
+Système imprédictible (effet 🦋)
+mais points d'attraction stables
+
+<iframe src="https://highfellow.github.io/lorenz-attractor/attractor.html" width="100%" height="600"></iframe
+
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+#### Lois exponentielles et accélération constante
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+##### Nombre de processeurs
+
+[number of processors / transistors dans le monde](https://www.darrinqualman.com/global-production-transistors/)
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+##### Loi de Moore
+
+La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
+& le prochain relais de croissance est [la création de processeurs spécialisés](https://www.nextplatform.com/2019/02/05/the-era-of-general-purpose-computers-is-ending/)
+![Moores_Law_over_120_Years.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-45-20-Moores_Law_over_120_Years.png)
+
+<small>Source: [Moore's Law over 120 Years (Ray Kurzweil)](https://commons.wikimedia.org/wiki/File:Moore%27s_Law_over_120_Years.png)</small>
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+##### La technologie va plus vite que les usages
+
+![ITU - Telecom Coverage.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-21-ITU%20-%20Telecom%20Coverage.png)
+<small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+##### Le haut débit mobile
+
+![ITU - Telecom Penetration.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-49-ITU%20-%20Telecom%20Penetration.png)
+<small>Nombre de lignes pour 100 habitants, dans le monde</small>
+<small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+##### Les débits de données
+
+![ITU - Broadband Usage.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-31-ITU%20-%20Broadband%20Usage.png)
+<small>400 000 Gbit/s = 40 kbit/s / personne = 120 kbit/s / personne sur 8h</small>
+<small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+##### La quantité de données
+
+![](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-16-48-00-IDC%20-%20Data%20Growth.png)
+<small>400 exaoctets = 400 millions de téraoctets = 40 Go / personne</small>
+<small>40 000 exaoctets = 40 milliards de téraoctets = 4 To / personne</small>
+<small>Source:[The Digital Universe in 2020 (IDC)](https://www.cs.princeton.edu/courses/archive/spring13/cos598C/idc-the-digital-universe-in-2020.pdf)</small>
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+##### Un faible nombre d'informaticiens
+
+![ITU - Developers.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-12-02-ITU%20-%20Developers.png)
+<small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+##### Le gestion des données devient majeure
+
+![EMC - IT burden v2.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-04-21-EMC%20-%20IT%20burden%20v2.png)
+
+<small>Source: [The Business Imperatives - EMC](https://www.emc.com/leadership/digital-universe/2014iview/business-imperatives.htm)</small>
 
 <!-- slide data-background-color="#332222"-->
 
-##### Histoire de l'IA depuis 60 ans
+#### L'IA est le démultiplicateur de la révolution digitale
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-- Une révolution qui a connu 2 "hivers" (période de doute): à voir sur cette [timeline](https://www.researchgate.net/publication/323591839/figure/fig8/AS:601346701008897@1520383634410/Development-history-of-artificial-intelligence-AI.png)
+##### L'histoire chaotique de l'IA depuis 60 ans
+
+Une révolution qui a connu 2 "hivers" (période de doute): à voir sur cette [timeline](https://www.researchgate.net/publication/323591839/figure/fig8/AS:601346701008897@1520383634410/Development-history-of-artificial-intelligence-AI.png)
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-- Révolution en phase de déploiement (extrait rapport [AI index](https://hai.stanford.edu/sites/g/files/sbiybj10986/f/ai_index_2019_report.pdf)):
+##### La recherche explose: nombre de papiers
 
-<!-- slide vertical=true data-background-color="#332222"-->
-
-nombre de publications deep learning
 ![AI papers on Arxiv](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-27-46-AI_papers_arxiv_2010_2019.png)
+<small>Source: [AI index 2019 report (Stanford)](https://hai.stanford.edu/sites/g/files/sbiybj10986/f/ai_index_2019_report.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-nombre de participants aux conférences deep learning
+##### La recherche explose: conférences
+
 ![AI conferences attendance](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-16-53-AI_conferences_attendance_1985_2019.png)
+<small>Source: [AI index 2019 report (Stanford)](https://hai.stanford.edu/sites/g/files/sbiybj10986/f/ai_index_2019_report.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-nombre de jobs de machine learning aux US (répartition inégale !)
+##### De nombreux secteurs recrutent (aux US)
+
+⚠️ Certains secteurs deviennent des "marginaux de la digitalisation"
 <img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-45-29-AI_jobs_per_industry_2010_2019.png" style="width:80%;height:80%">
+<small>Source: [AI index 2019 report (Stanford)](https://hai.stanford.edu/sites/g/files/sbiybj10986/f/ai_index_2019_report.pdf)</small>
+
+<!-- slide data-background-color="#332222"-->
+
+#### L'IA vs l'Humain
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-IA qui bat les humains (voir rapport AI index ou plus d'infos sur cette [page de l'EFF](https://www.eff.org/ai/metrics))
+##### L'IA est surhumaine depuis longtemps sur des jeux simples
 
 | Année | Activité   |
-| ----- | ---------- |
+|:----- |:---------- |
 | 1980  | Othello    |
 | 1995  | Dames      |
 | 1997  | Echecs     |
@@ -177,76 +272,109 @@ IA qui bat les humains (voir rapport AI index ou plus d'infos sur cette [page de
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-| Année | Activité                                                                                                                                                 |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2016  | - Classification d'objets sur ImageNet<br/>- Go (AlphaGo)                                                                                                |
-| 2017  | - Classification du cancer de la peau<br/>- Reconnaissance vocal sur Switchboard<br/>- Poker<br/>- Pac-Man                                               |
-| 2018  | - Traduction Chinois-Anglais<br/>- Quake 3: Capture the flag<br/>- DOTA2<br/>- Classification du cancer de la prostate<br/>- Protein Folding (Alphafold) |
-| 2019  | - Starcraft II (AlphaStar)<br/>- Diagnostic de la rétinopathie diabétique                                                                                |
+##### L'IA est surhumaine sur des jeux de plus en plus complexes
 
-<!-- slide data-background-color="#332222"-->
-
-##### Le deep learning
+| Année | Activité                                |
+|:----- |:--------------------------------------- |
+| 2016  | - Go (AlphaGo)                          |
+| 2017  | - Poker<br/>- Pac-Man                   |
+| 2018  | - Quake 3: Capture the flag<br/>- DOTA2 |
+| 2019  | - Starcraft II (AlphaStar)              |
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
+##### L'IA est surhumaine sur des tâches spécialisées sérieuses
 
-La révolution deep learning → plus de feature engineering
-
-<!-- slide vertical=true data-background-color="#332222"-->
-
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
-
-- état de l'art suivant X domaines:
-  
-  - computer vision
-  - natural language processing
-  - time series analytics
-  - ??
+| Année | Activité                                                                                                     |
+|:----- |:------------------------------------------------------------------------------------------------------------ |
+| 2016  | - Classification d'objets sur ImageNet                                                                       |
+| 2017  | - Classification du cancer de la peau<br/>- Reconnaissance vocale sur Switchboard                            |
+| 2018  | - Traduction Chinois-Anglais<br/>- Classification du cancer de la prostate<br/>- Protein Folding (Alphafold) |
+| 2019  | - Diagnostic de la rétinopathie diabétique                                                                   |
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
-
-ce que ne peut pas encore faire l'IA (voir [slide de Yann Lecun](https://mobile.twitter.com/luislamb/status/1226645425370943488?s=09))
+##### Ce que ne peut pas encore faire l'IA
 
 - Apprendre avec peu d'échantillons ou peu d'essais (ou comment pré-apprendre des représentations tout seul de manière non-supervisée)
 - Apprendre à raisonner (au-dela du mode system 1 que sait faire l'IA aujourd'hui)
 - Apprendre à planifier des séquences d'action complexes (apprendre des représentations hiérarchiques)
 - en bref: l'IA sait faire du system 1 et pas du system 2: voir [talk/slides de yoshua bengio](https://slideslive.com/38922304/from-system-1-deep-learning-to-system-2-deep-learning)
 
+<small>voir [slide de Yann Lecun](https://mobile.twitter.com/luislamb/status/1226645425370943488?s=09))</small>
+
 <!-- slide data-background-color="#332222"-->
 
-##### Pourquoi l'IA progresse si vite
+#### C'est quoi Le machine learning
+
+<!-- slide data-background-color="#332222"-->
+
+##### Train-test split
+
+<!-- slide data-background-color="#332222"-->
+
+##### Differentiable programming: Gradient descent & loss optimisation
+
+<!-- slide data-background-color="#332222"-->
+
+##### Métriques
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-~~algorithms~~ → datasets !
+##### La révolution deep learning: plus de feature engineering
 
+<!-- slide data-background-color="#332222"-->
+
+#### C'est quoi Le deep learning
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+##### Etat de l'art computer vision
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+##### Etat de l'art natural language processing
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+##### Etat de l'art time series analytics
+
+<!-- slide data-background-color="#332222"-->
+
+#### Les clés de succès d'un projet IA
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+##### La donnée avant les algorithmes
+
+~~algorithms~~ → datasets !
 <img src="https://images.squarespace-cdn.com/content/54345ed8e4b0fa5705e1825b/1459449530701-68FQZ878JRPQCE97XVCC/AIBreakthrough.png?content-type=image%2Fpng" style="background-color:white;">
 
 <small>Source: [Datasets Over Algorithms (kdnuggets)](https://www.kdnuggets.com/2016/05/datasets-over-algorithms.html)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
+##### Tirer parti de l'open source
+
 open competition: open source / open publication (model hubs, papers with code, etc.)
 
 <!-- slide data-background-color="#332222"-->
 
-##### Demain: quelle révolution remplacera celle-ci ?
+#### Demain: quelle révolution remplacera celle-ci ?
 
 <!-- slide data-background-color="#332222"-->
 
-###### La singularité: l'IA remplace l'homme ?
+##### La singularité: l'IA remplace l'homme ?
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
 👍 Pour: Ray Kurzweil - The Singularity is near
 
-![](https://28oa9i1t08037ue3m1l0i861-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/Howard-Graph.png)
+![Singularity](https://28oa9i1t08037ue3m1l0i861-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/Howard-Graph.png)
 
 <!-- slide vertical=true data-background-color="#332222"-->
+
+##### La singularité n'existe pas
 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
@@ -262,7 +390,7 @@ open competition: open source / open publication (model hubs, papers with code, 
 
 <!-- slide data-background-color="#223322" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Black.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-# L'IA pour les stratèges
+# IA & stratèges
 
 - Comment l'IA et la digitalisation ? Quelles tendances doit-on anticiper ?
 - Comment dois-je transformer mon entreprise ? Quel type d'organisation dois-je mettre en place pour tirer parti de l'IA dans mon entreprise ?
@@ -304,9 +432,17 @@ open competition: open source / open publication (model hubs, papers with code, 
 <big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
 - une vision de nos organisations
+
   - d'abord stratifiées
   - maintenant en réseaux
   - structurées par des algo / apps
+    ![une image pour montrer l'évolution](https://minim-v.com/porouscity/distributed.jpg)
+
+- les sociogrammes / actor-network theory
+
+![un exemple de diagramme schématique](https://www.researchgate.net/profile/Pin_Yu_Chen/publication/258401293/figure/fig6/AS:324937249247243@1454482485493/Contemporary-wireless-complex-communication-network-architecture-presenting-cumulatively.png)
+
+- citer Tim O'Reilly dans WTF sur le monde qui est en trian de devenir un gigantesque cerveau
 
 <!-- slide data-background-color="#223322"-->
 
@@ -347,7 +483,7 @@ voir [article](https://www.atys-concept.com/blog-de-la-performance/articles-perf
 
 <!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-# L'IA pour les managers
+# IA & managers
 
 - Comment gérer un projet IA ? Quelles spécificités ?
 - Comment intégrer l'IA dans mon processus ?
@@ -440,7 +576,7 @@ Les data scientists d'aujourd'hui ne sont pas autonomes pour livrer une solution
 ### Paysage des compétences à maitriser
 
 - le background classique:
-  
+
   - chercheur qui s'est reconverti
   - newbie qui sort d'école
 
@@ -462,14 +598,14 @@ Données → Produit → Décision → Valeur
 <!-- slide vertical=true data-background-color="#222233"-->
 
 | Données                   | Produit         | Décision                                               | Valeur       |
-| ------------------------- | --------------- | ------------------------------------------------------ | ------------ |
+|:------------------------- |:--------------- |:------------------------------------------------------ |:------------ |
 | Réseaux de senseurs météo | Prévision Météo | Le citadin prend un parapluie avant de sortir          | ~ 0 €        |
 | Réseaux de senseurs météo | Prévision Météo | Le producteur de vin protège ses vignes avant la grèle | > 100 € / an |
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
 | Données                                     | Produit                                         | Décision                                          | Valeur       |
-| ------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- | ------------ |
+|:------------------------------------------- |:----------------------------------------------- |:------------------------------------------------- |:------------ |
 | Images satellites des réservoirs de pétrole | Estimation des réserves réelles de pétrole brut | Le trader achète ou vend du pétrole sur le marché | > 10M € / an |
 
 <!-- slide vertical=true data-background-color="#222233"-->
@@ -517,7 +653,7 @@ Données → Produit → Décision → Valeur
 
 ### Contenu à placer:
 
-- [Data Driven Think Again (Hackernoon)](https://hackernoon.com/data-inspired-5c78db3999b2) --> pour tirer parti de l'IA, il faut avoir une culture de la rationnalité et de la décision (citer [lettre aux actionnaire de Jeff Bezos en 1997](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm) sur les 2 types de décision)
+- [Data Driven Think Again (Hackernoon)](https://hackernoon.com/data-inspired-5c78db3999b2) --> pour tirer parti de l'IA, il faut avoir une culture de la rationnalité et de la décision (citer [lettre aux actionnaire de Jeff Bezos en 1997](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm) sur les 2 types de décision et article de [business insider](https://www.businessinsider.fr/us/jeff-bezos-on-type-1-and-type-2-decisions-2016-4))
 - Attention aux écueils: essayer de prédire la sexualité des gens à partir de leur visage: 2 critiques: [article medium](https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-just-expose-our-stereotypes-d998fafdf477) et [article The Register](https://www.theregister.co.uk/2019/03/05/ai_gaydar/)
 - salaire moyen d'un devops / data scientist dans le monde
 - combien d'IT specialist et de data scientists par rapport à la population ?
@@ -592,24 +728,36 @@ Données → Produit → Décision → Valeur
     - Appliquer les bons changements d'ordres de grandeur pour faire un scenario d'évolution de la boîte
     - Penser quelles sont les actions que doit mettre en place en premier cette compagnie, dès aujourd'hui
 - IA pour le manager:
-- 
+-
 - Démo:
 
 <!-- slide -->
 
-# Planning
+### Planning
 
-| Demi-journée                           | Plage horaire |                                                                                                                                                      |
-|:--------------------------------------:|:-------------:| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <span style="color: red">1</span>      | 08 - 09       | - Accueil<br/>- Collecte attentes élèves<br/>- Présentation des objectifs & profils cibles<br/>- Présentation du plan<br/>- Ice-Breaker: petite démo |
-| <span style="color: red">1</span>      | 09 - 10       | IA dans la société                                                                                                                                   |
-| <span style="color: red">1</span>      | 10 - 11       |                                                                                                                                                      |
-| <span style="color: red">1</span>      | 11 - 12       | - Débat-Réflexion sur l'IA dans la société                                                                                                           |
-| <span style="color:darkgreen">2</span> | 14 - 15       |                                                                                                                                                      |
-| <span style="color:darkgreen">2</span> | 15 - 16       |                                                                                                                                                      |
-| <span style="color:darkgreen">2</span> | 16 - 17       |                                                                                                                                                      |
-| <span style="color:darkgreen">2</span> | 17 - 18       |                                                                                                                                                      |
-| <span style="color:lightblue">3</span> | 08 - 09       |                                                                                                                                                      |
-| <span style="color:lightblue">3</span> | 09 - 10       |                                                                                                                                                      |
-| <span style="color:lightblue">3</span> | 10 - 11       |                                                                                                                                                      |
-| <span style="color:lightblue">3</span> | 11 - 12       |                                                                                                                                                      |
+| Plage horaire | Atelier             |
+|:-------------:|:------------------- |
+| <small>13:30  | 🤔 Partie Théorique |
+| <small>14:00  | ^                   |
+| <small>14:30  | ^                   |
+| <small>15:00  | ^                   |
+| <small>15:30  | ☕️ Pause            |
+| <small>16:00  | 😅 Atelier pratique |
+| <small>16:30  | ^                   |
+| <small>17:00  | ^                   |
+| <small>17:30  | ✅ Wrap-up           |
+
+<!-- slide -->
+
+### Planning
+
+| Plage horaire | Atelier             |
+|:-------------:|:------------------- |
+| <small>08:00  | 🤔 Partie Théorique |
+| <small>08:30  | ^                   |
+| <small>09:00  | ^                   |
+| <small>09:30  | ^                   |
+| <small>10:00  | ☕️Pause             |
+| <small>10:30  | 😅 Atelier pratique |
+| <small>11:00  | ^                   |
+| <small>11:30  | ^                   |
