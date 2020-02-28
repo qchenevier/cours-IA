@@ -154,7 +154,6 @@ mais points d'attraction stables
 
 <iframe src="https://highfellow.github.io/lorenz-attractor/attractor.html" width="100%" height="600"></iframe
 
-
 <!-- slide vertical=true data-background-color="#332222"-->
 
 #### Lois exponentielles et accélération constante
@@ -202,7 +201,7 @@ La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
 
 ##### La quantité de données
 
-![](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-16-48-00-IDC%20-%20Data%20Growth.png)
+![IDC - Data grow](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-16-48-00-IDC%20-%20Data%20Growth.png)
 <small>400 exaoctets = 400 millions de téraoctets = 40 Go / personne</small>
 <small>40 000 exaoctets = 40 milliards de téraoctets = 4 To / personne</small>
 <small>Source:[The Digital Universe in 2020 (IDC)](https://www.cs.princeton.edu/courses/archive/spring13/cos598C/idc-the-digital-universe-in-2020.pdf)</small>
@@ -213,6 +212,19 @@ La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
 
 ![ITU - Developers.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-12-02-ITU%20-%20Developers.png)
 <small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+<div>
+    <a href="https://plot.ly/~qchenevier/1/?share_key=7TfTNeCoVP31u145bzJoJF" title="Employed ICT specialists (Eurostat) (plot)" style="display: block; text-align: center;"><img src="https://plot.ly/~qchenevier/1.png?share_key=7TfTNeCoVP31u145bzJoJF" alt="Employed ICT specialists (Eurostat) (plot)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="qchenevier:1" sharekey-plotly="7TfTNeCoVP31u145bzJoJF" src="https://plot.ly/embed.js" async></script>
+</div>
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+![Eurostat - Employed ICT specialists.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/24-13-21-45-Eurostat%20-%20Employed%20ICT%20specialists.png)
+
+<small> Source: [Employed ICT specialists (Eurostat by DB nomics)](https://db.nomics.world/Eurostat/isoc_sks_itspt?dimensions=%7B%22FREQ%22%3A%5B%22A%22%5D%2C%22geo%22%3A%5B%22FR%22%2C%22DE%22%2C%22IT%22%2C%22ES%22%2C%22UK%22%5D%2C%22unit%22%3A%5B%22PC_EMP%22%5D%7D&tab=chart)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
@@ -397,6 +409,22 @@ open competition: open source / open publication (model hubs, papers with code, 
   - dans une PME ?
   - dans un grand groupe
 
+<!-- slide vertical=true data-background-color="#223322"-->
+
+### Planning
+
+| Plage horaire | Atelier             |
+|:-------------:|:------------------- |
+| <small>13:30  | 🤔 Partie Théorique |
+| <small>14:00  | ^                   |
+| <small>14:30  | ^                   |
+| <small>15:00  | ^                   |
+| <small>15:30  | ☕️ Pause            |
+| <small>16:00  | 😅 Atelier pratique |
+| <small>16:30  | ^                   |
+| <small>17:00  | ^                   |
+| <small>17:30  | ✅ Wrap-up           |
+
 <!-- slide data-background-color="#223322"-->
 
 ### Révolution digitale et organisations
@@ -446,24 +474,82 @@ open competition: open source / open publication (model hubs, papers with code, 
 
 <!-- slide data-background-color="#223322"-->
 
-#### Les organisations digitales remodèlent leur environnement
+#### Changement d'environnement pour les organisations
+
+Analyse des 5 forces de Porter:
+
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/23-22-43-09-porter_forces.svg?sanitize=true" style="background-color:white;" width="100%">
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
-Aller chercher les variations sur les 5 forces de Porter (voir mon mémoire)
+##### Marché instable
+
+Les réseaux créent une dynamique "winner-takes-all":
+
+![Tippy Market](https://upload.wikimedia.org/wikipedia/commons/9/9a/PositiveFeedback.JPG)
+<small>Source: [Network Externalities (wikibooks)](https://en.wikibooks.org/wiki/Strategy_for_Information_Markets/Network_Externalities)</small>
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
+##### Disruption par fusion de réseaux
+
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/23-23-45-50-multiplex_network.png" width=16%>
+
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/23-23-45-43-multiplex_network_2.png" width=15.4%>
+
+<small>⚠️Source needed here (voir mémoire)</small>
+
+<!-- slide vertical=true data-background-color="#223322"-->
+
+##### Rivalry
+
+> Networks winner-take-all dynamic is increasing rivalry among competitors to take on new emerging markets.
+
+<!-- slide vertical=true data-background-color="#223322"-->
+
+##### Substitution
+
+> Platforms create substitutes by “envelopment”: they tend to expand their services to retain their user base and compete with other platforms having a similar user base.
+
+> Platforms inherently create subsidized or free products that increase the power of substitution.
+
+<!-- slide vertical=true data-background-color="#223322"-->
+
+##### Weakening powerful players
+
+> Platforms exhibit same-side negative externality: increased competition weakens powerful buyers & suppliers.
+
+<!-- slide vertical=true data-background-color="#223322"-->
+
+##### Strengthening small players
+
+> Platforms & technological innovation increase threat of entry by small players.
+
+> Networks reshape existing markets by welcoming new entrants and providing access to market.
+
+<!-- slide vertical=true data-background-color="#223322"-->
+
+##### Era of networks & platforms
+
+> Platforms seem to be economically more efficient than integrated companies.
+
+> We enter the Era of Platforms, which are bringing with them huge ecosystems of small players.
+
+<!-- slide vertical=true data-background-color="#223322"-->
 
 #### La transition vers les services et les biens intangibles
 
-voir [article](https://www.atys-concept.com/blog-de-la-performance/articles-performance-industrielle/iaas-paas-saas-modele-cloud-choisir-solutions-de-performance-industrielle/)
+Citer [MIT business model investors prefer](https://sloanreview.mit.edu/article/the-business-models-investors-prefer/) (ou rapport complet gratuit [Do Some Business Models Perform Better than Others?](http://ccs.mit.edu/papers/pdf/wp226.pdf))
+--> les business model intangibles performent mieux (donner plus de détail)
 
-- SaaS
-- PaaS
-- IaaS
+![MIT business model archetypes](https://i0.wp.com/getresults.org.uk/wp-content/uploads/2016/04/business_model_archetype-e1459864165186.jpg?resize=700%2C397)
+
+Notamment parce que les business digitaux visent des coûts marginaux proche de zero (voir [Marginal Cost (Near-Zero) Pricing is a Major App Provider Advantage (Gary Kim)](https://ipcarrier.blogspot.com/2019/05/marginal-cost-near-zero-pricing-is.html))
+
+![Marginal Cost for physical & digital business models](https://lh3.googleusercontent.com/TGOZqTd_nkmWxQx7F3FbDxEM_ujftnoKGrRiMkl0wC0mlMPV1Zs7c2Pk6yFUjQ30KxVGPefVJ8eHMCXKIU8nfDbgozGFV7iOVYxWCSHlSRRzI_XTfP_q4cJshpn_MzYSqgHx0dJe)
+
+![Coût marginaux](https://2xawx0gmudy471po527lbxcd-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/marginal-cost-curve.jpg)
+<small>Source: [Platform vs. Linear: Business Models 101](https://www.applicoinc.com/blog/platform-vs-linear-business-models-101/)</small>
 
 <!-- slide data-background-color="#223322"-->
 
@@ -488,7 +574,20 @@ voir [article](https://www.atys-concept.com/blog-de-la-performance/articles-perf
 - Comment gérer un projet IA ? Quelles spécificités ?
 - Comment intégrer l'IA dans mon processus ?
 
-<!-- slide data-background-color="#222233"-->
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Planning
+
+| Plage horaire | Atelier             |
+|:-------------:|:------------------- |
+| <small>08:00  | 🤔 Partie Théorique |
+| <small>08:30  | ^                   |
+| <small>09:00  | ^                   |
+| <small>09:30  | ^                   |
+| <small>10:00  | ☕️Pause             |
+| <small>10:30  | 😅 Atelier pratique |
+| <small>11:00  | ^                   |
+| <small>11:30  | ^                   |
 
 ## People
 
@@ -730,34 +829,3 @@ Données → Produit → Décision → Valeur
 - IA pour le manager:
 -
 - Démo:
-
-<!-- slide -->
-
-### Planning
-
-| Plage horaire | Atelier             |
-|:-------------:|:------------------- |
-| <small>13:30  | 🤔 Partie Théorique |
-| <small>14:00  | ^                   |
-| <small>14:30  | ^                   |
-| <small>15:00  | ^                   |
-| <small>15:30  | ☕️ Pause            |
-| <small>16:00  | 😅 Atelier pratique |
-| <small>16:30  | ^                   |
-| <small>17:00  | ^                   |
-| <small>17:30  | ✅ Wrap-up           |
-
-<!-- slide -->
-
-### Planning
-
-| Plage horaire | Atelier             |
-|:-------------:|:------------------- |
-| <small>08:00  | 🤔 Partie Théorique |
-| <small>08:30  | ^                   |
-| <small>09:00  | ^                   |
-| <small>09:30  | ^                   |
-| <small>10:00  | ☕️Pause             |
-| <small>10:30  | 😅 Atelier pratique |
-| <small>11:00  | ^                   |
-| <small>11:30  | ^                   |
