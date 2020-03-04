@@ -4,6 +4,8 @@ presentation:
   theme: black.css
   enableSpeakerNotes: true
   maxScale: 0.8
+  slideNumber: true
+  previewLinks: true
 ---
 
 <!-- slide data-background-color="#222222" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/World.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
@@ -50,8 +52,6 @@ Le cours s'adresse à tous publics ayant
 
 # IA & citoyen.ne.s
 
-<!-- slide vertical=true data-background-color="#332222"-->
-
 - Qu'est-ce que l'IA ? Comment ça marche ?
 - IA et travail: comment l'IA est en train de changer le monde du travail ?
 - IA et société/gouvernement: Quels enjeux éthiques autour de l'IA ?
@@ -72,30 +72,30 @@ Le cours s'adresse à tous publics ayant
 | <small>12:30 | ^                   |
 | <small>13:00 | ^                   |
 
-<!-- slide data-background-color="#332222"-->
+<!-- slide data-background-color="#332222" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Bokeh.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-### Une révolution technologique et sociétale
-
-<!-- slide data-background-color="#332222"-->
-
-#### Une révolution technologique: façonner le monde autrement
+## Une révolution technologique et sociétale
 
 <!-- slide vertical=true" data-background-color="#332222"-->
 
-##### Les phases d'une révolution industrielle
+### Une révolution technologique: façonner le monde autrement
+
+<!-- slide vertical=true" data-background-color="#332222"-->
+
+#### Les phases d'une révolution industrielle
 
 ![Technological Revolution.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-53-11-Technological%20Revolution.png)
 
 <!-- slide vertical=true" data-background-color="#332222"-->
 
-##### La 5^ème^ révolution: Age de l'Information
+#### La 5^ème^ révolution: Age de l'Information
 
 ![Carlota Perez - 5 technological revolutions v2.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-16-07-57-Carlota%20Perez%20-%205%20technological%20revolutions%20v2.png)
 <small>Source: [Looking at the future, Learning from history (Carlota Perez)](http://www.carlotaperez.org/downloads/media/PEREZ%20ASUT%20Bern%20Final.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### La dislocation économique
+#### La dislocation économique
 
 Croissance explosive vs Augmentation de la pauvreté.
 ![Carlota Perez - Centrifugal Trends.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/16-23-38-24-Carlota%20Perez%20-%20Centrifugal%20Trends.png)
@@ -103,7 +103,7 @@ Croissance explosive vs Augmentation de la pauvreté.
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### La polarisation des revenus
+#### La polarisation des revenus
 
 ![Carlota Perez - Income Inequality.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/16-17-01-42-Carlota%20Perez%20-%20Income%20Inequality.png)
 <small>Source: [Full Globalisation as a Positive-Sum Game: Green Demand as an Answer to the Financial Crisis (Carlota Perez)](http://www.carlotaperez.org/downloads/media/20100518_CarlotaPerez.pdf)</small>
@@ -114,15 +114,7 @@ Croissance explosive vs Augmentation de la pauvreté.
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-ZOU
-
-ZOU
-
-<!-- slide vertical=true data-background-color="#332222"-->
-
-<!-- slide vertical=true data-background-color="#332222"-->
-
-#### Une révolution sociétale: changer la fabrique de la société
+### Une révolution sociétale: changer la fabrique de la société
 
 - voir intro de "program or be programmed" de Douglas rushkoff)
 
@@ -131,13 +123,13 @@ ZOU
 Si la diffusion a plus d'influence: tendance à la centralisation dans la propagation d'informations
 Si le bouche-à-oreille a plus d'influence: tendance à la décentralisation dans la propagation d'informations
 
-<!-- slide data-background-color="#332222"-->
+<!-- slide data-background-color="#332222" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Bokeh.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-### Les principes de la révolution digitale
+## Les principes de la révolution digitale
 
-<!-- slide data-background-color="#332222"-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
-#### Identifier les tendances structurantes
+### Identifier les tendances structurantes
 
 - citer Tim O'Reilly dans son livre WTF sur "trouver les vecteurs de force dans la société"
 
@@ -145,28 +137,29 @@ Penser en vecteurs: qu'est-ce qui a une direction et une force constante ?
 
 > Smartphones had put a camera in everyone’s hand, and Twitter had created a real-time platform from which those photos and text updates could be instantly disseminated to the world. Billions of connected humans and devices were being woven into a global brain. That brain was all of us, augmented and connected.”
 
-<!-- slide data-background-color="#332222"-->
+<!-- slide vertical="true" data-background-color="#332222"-->
 
-##### Ne pas prédire le futur, mais identifier les tendances
+#### Ne pas prédire le futur, mais identifier les tendances
 
-Système imprédictible (effet 🦋)
-mais points d'attraction stables
+Système imprédictible (effet 🦋) mais points d'attraction stables
 
 <iframe src="https://highfellow.github.io/lorenz-attractor/attractor.html" width="100%" height="600"></iframe
 
-<!-- slide vertical=true data-background-color="#332222"-->
-
-#### Lois exponentielles et accélération constante
+<small>Source: [Lorenz Attractor simulator (highfellow on github)](https://highfellow.github.io/lorenz-attractor/attractor.html)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### Nombre de processeurs
+### Machines: technologies digitales exponentielles
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+#### ⤴️ nombre de processeurs
 
 [number of processors / transistors dans le monde](https://www.darrinqualman.com/global-production-transistors/)
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### Loi de Moore
+#### Loi de Moore
 
 La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
 & le prochain relais de croissance est [la création de processeurs spécialisés](https://www.nextplatform.com/2019/02/05/the-era-of-general-purpose-computers-is-ending/)
@@ -176,14 +169,7 @@ La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### La technologie va plus vite que les usages
-
-![ITU - Telecom Coverage.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-21-ITU%20-%20Telecom%20Coverage.png)
-<small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
-
-<!-- slide vertical=true data-background-color="#332222"-->
-
-##### Le haut débit mobile
+#### Le haut débit mobile
 
 ![ITU - Telecom Penetration.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-49-ITU%20-%20Telecom%20Penetration.png)
 <small>Nombre de lignes pour 100 habitants, dans le monde</small>
@@ -191,7 +177,7 @@ La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### Les débits de données
+#### Les débits de données
 
 ![ITU - Broadband Usage.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-31-ITU%20-%20Broadband%20Usage.png)
 <small>400 000 Gbit/s = 40 kbit/s / personne = 120 kbit/s / personne sur 8h</small>
@@ -199,7 +185,7 @@ La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### La quantité de données
+#### La quantité de données
 
 ![IDC - Data grow](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-16-48-00-IDC%20-%20Data%20Growth.png)
 <small>400 exaoctets = 400 millions de téraoctets = 40 Go / personne</small>
@@ -208,7 +194,18 @@ La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### Un faible nombre d'informaticiens
+### Humains: sociétés linéaires
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+#### La technologie va plus vite que les usages
+
+![ITU - Telecom Coverage.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-21-ITU%20-%20Telecom%20Coverage.png)
+<small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+#### Un faible nombre d'informaticiens
 
 ![ITU - Developers.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-12-02-ITU%20-%20Developers.png)
 <small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
@@ -228,51 +225,55 @@ La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### Le gestion des données devient majeure
+#### Le gestion des données devient majeure
 
 ![EMC - IT burden v2.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-04-21-EMC%20-%20IT%20burden%20v2.png)
 
 <small>Source: [The Business Imperatives - EMC](https://www.emc.com/leadership/digital-universe/2014iview/business-imperatives.htm)</small>
 
-<!-- slide data-background-color="#332222"-->
+<!-- slide data-background-color="#332222" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Bokeh.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-#### L'IA est le démultiplicateur de la révolution digitale
+## L'IA: la convergence entre la Machine et l'Humain
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### L'histoire chaotique de l'IA depuis 60 ans
+### Intelligence Artificielle: le turbo du digital
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+#### L'histoire chaotique de l'IA depuis 60 ans
 
 Une révolution qui a connu 2 "hivers" (période de doute): à voir sur cette [timeline](https://www.researchgate.net/publication/323591839/figure/fig8/AS:601346701008897@1520383634410/Development-history-of-artificial-intelligence-AI.png)
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### La recherche explose: nombre de papiers
+#### La recherche explose: nombre de papiers
 
 ![AI papers on Arxiv](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-27-46-AI_papers_arxiv_2010_2019.png)
 <small>Source: [AI index 2019 report (Stanford)](https://hai.stanford.edu/sites/g/files/sbiybj10986/f/ai_index_2019_report.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### La recherche explose: conférences
+#### La recherche explose: conférences
 
 ![AI conferences attendance](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-16-53-AI_conferences_attendance_1985_2019.png)
 <small>Source: [AI index 2019 report (Stanford)](https://hai.stanford.edu/sites/g/files/sbiybj10986/f/ai_index_2019_report.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### De nombreux secteurs recrutent (aux US)
+#### De nombreux secteurs recrutent (aux US)
 
 ⚠️ Certains secteurs deviennent des "marginaux de la digitalisation"
 <img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-45-29-AI_jobs_per_industry_2010_2019.png" style="width:80%;height:80%">
 <small>Source: [AI index 2019 report (Stanford)](https://hai.stanford.edu/sites/g/files/sbiybj10986/f/ai_index_2019_report.pdf)</small>
 
-<!-- slide data-background-color="#332222"-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
-#### L'IA vs l'Humain
+### L'IA remplace l'Humain ?
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### L'IA est surhumaine depuis longtemps sur des jeux simples
+#### L'IA est surhumaine depuis longtemps sur des jeux simples
 
 | Année | Activité   |
 |:----- |:---------- |
@@ -284,7 +285,7 @@ Une révolution qui a connu 2 "hivers" (période de doute): à voir sur cette [t
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### L'IA est surhumaine sur des jeux de plus en plus complexes
+#### L'IA est surhumaine sur des jeux de plus en plus complexes
 
 | Année | Activité                                |
 |:----- |:--------------------------------------- |
@@ -295,7 +296,7 @@ Une révolution qui a connu 2 "hivers" (période de doute): à voir sur cette [t
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### L'IA est surhumaine sur des tâches spécialisées sérieuses
+#### L'IA est surhumaine sur des tâches spécialisées sérieuses
 
 | Année | Activité                                                                                                     |
 |:----- |:------------------------------------------------------------------------------------------------------------ |
@@ -306,7 +307,7 @@ Une révolution qui a connu 2 "hivers" (période de doute): à voir sur cette [t
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### Ce que ne peut pas encore faire l'IA
+#### Ce que ne peut pas encore faire l'IA
 
 - Apprendre avec peu d'échantillons ou peu d'essais (ou comment pré-apprendre des représentations tout seul de manière non-supervisée)
 - Apprendre à raisonner (au-dela du mode system 1 que sait faire l'IA aujourd'hui)
@@ -315,70 +316,19 @@ Une révolution qui a connu 2 "hivers" (période de doute): à voir sur cette [t
 
 <small>voir [slide de Yann Lecun](https://mobile.twitter.com/luislamb/status/1226645425370943488?s=09))</small>
 
-<!-- slide data-background-color="#332222"-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
-#### C'est quoi Le machine learning
+#### L'automatisation des métiers et la nouvelle relation homme-machine
 
-<!-- slide data-background-color="#332222"-->
-
-##### Train-test split
-
-<!-- slide data-background-color="#332222"-->
-
-##### Differentiable programming: Gradient descent & loss optimisation
-
-<!-- slide data-background-color="#332222"-->
-
-##### Métriques
+TODO: Voir rapports de MCKinsey sur le sujet.
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### La révolution deep learning: plus de feature engineering
-
-<!-- slide data-background-color="#332222"-->
-
-#### C'est quoi Le deep learning
+### Et après ? Demain: quelle révolution remplacera celle-ci ?
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### Etat de l'art computer vision
-
-<!-- slide vertical=true data-background-color="#332222"-->
-
-##### Etat de l'art natural language processing
-
-<!-- slide vertical=true data-background-color="#332222"-->
-
-##### Etat de l'art time series analytics
-
-<!-- slide data-background-color="#332222"-->
-
-#### Les clés de succès d'un projet IA
-
-<!-- slide vertical=true data-background-color="#332222"-->
-
-##### La donnée avant les algorithmes
-
-~~algorithms~~ → datasets !
-<img src="https://images.squarespace-cdn.com/content/54345ed8e4b0fa5705e1825b/1459449530701-68FQZ878JRPQCE97XVCC/AIBreakthrough.png?content-type=image%2Fpng" style="background-color:white;">
-
-<small>Source: [Datasets Over Algorithms (kdnuggets)](https://www.kdnuggets.com/2016/05/datasets-over-algorithms.html)</small>
-
-<!-- slide vertical=true data-background-color="#332222"-->
-
-##### Tirer parti de l'open source
-
-open competition: open source / open publication (model hubs, papers with code, etc.)
-
-<!-- slide data-background-color="#332222"-->
-
-#### Demain: quelle révolution remplacera celle-ci ?
-
-<!-- slide data-background-color="#332222"-->
-
-##### La singularité: l'IA remplace l'homme ?
-
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
+#### La singularité: l'IA remplace l'homme ?
 
 👍 Pour: Ray Kurzweil - The Singularity is near
 
@@ -386,19 +336,21 @@ open competition: open source / open publication (model hubs, papers with code, 
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### La singularité n'existe pas
-
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
+#### La singularité n'existe pas
 
 👎 Contre: [The Impossibility of Intelligence Explosion (François Chollet)](https://medium.com/@francois.chollet/the-impossibility-of-intelligence-explosion-5be4a9eda6ec), etc.
 
-<!-- slide data-background-color="#332222"-->
+<!-- slide vertical=true data-background-color="#332222"-->
 
-###### La lame de fond des biotechs
+##### La lame de fond des biotechs
 
 - démarche à la croisée de l'IA et de la bio: [xenobots](https://www.smithsonianmag.com/innovation/scientists-assemble-frog-stem-cells-first-living-machines-180973947/)
 - éditer le code génétique avec CRISPR-CAS9: voir [vidéo kurzgesagt (et les sources en commentaires)](https://www.youtube.com/watch?v=jAhjPd4uNFY)
 - prévoir les propriétés des protéines à partir de leur code génétique: [alphafold de deepmind](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery) et [article wired](https://www.wired.co.uk/article/deepmind-protein-folding-alphafold)
+
+<!-- slide data-background-color="#332222" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Bokeh.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
+
+## Exercice
 
 <!-- slide data-background-color="#223322" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Black.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
@@ -410,8 +362,6 @@ open competition: open source / open publication (model hubs, papers with code, 
   - dans un grand groupe
 
 <!-- slide vertical=true data-background-color="#223322"-->
-
-### Planning
 
 | Plage horaire | Atelier             |
 |:-------------:|:------------------- |
@@ -425,17 +375,11 @@ open competition: open source / open publication (model hubs, papers with code, 
 | <small>17:00  | ^                   |
 | <small>17:30  | ✅ Wrap-up           |
 
-<!-- slide data-background-color="#223322"-->
+<!-- slide data-background-color="#223322" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Black.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-### Révolution digitale et organisations
-
-<!-- slide data-background-color="#223322"-->
-
-#### Les organisation digitales abordent leur environnement différement
+## Les organisations digitales abordent leur environnement différement
 
 <!-- slide vertical=true data-background-color="#223322"-->
-
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
 - 3 value disciplines (Treacy):
   - customer intimacy
@@ -444,20 +388,16 @@ open competition: open source / open publication (model hubs, papers with code, 
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
-
 - tech companies paradigm ([article Nicolas Colin](https://salon.thefamily.co/whats-a-tech-company-515960d76c21)):
   - increasing returns
   - exceptional user experience
   - regular & systematic collection of user-generated data
 
-<!-- slide data-background-color="#223322"-->
+<!-- slide data-background-color="#223322" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Black.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-#### La structuration des communications au sein de ces organisations
+## La structuration des communications au sein de ces organisations
 
 <!-- slide vertical=true data-background-color="#223322"-->
-
-<big>🚧 🚧 🚧 ==WORK IN PROGRESS== 🚧 🚧 🚧</big>
 
 - une vision de nos organisations
 
@@ -472,9 +412,9 @@ open competition: open source / open publication (model hubs, papers with code, 
 
 - citer Tim O'Reilly dans WTF sur le monde qui est en trian de devenir un gigantesque cerveau
 
-<!-- slide data-background-color="#223322"-->
+<!-- slide data-background-color="#223322" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Black.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-#### Changement d'environnement pour les organisations
+## Changement d'environnement pour les organisations
 
 Analyse des 5 forces de Porter:
 
@@ -482,7 +422,7 @@ Analyse des 5 forces de Porter:
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-##### Marché instable
+### Marché instable
 
 Les réseaux créent une dynamique "winner-takes-all":
 
@@ -491,7 +431,7 @@ Les réseaux créent une dynamique "winner-takes-all":
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-##### Disruption par fusion de réseaux
+### Disruption par fusion de réseaux
 
 <img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/23-23-45-50-multiplex_network.png" width=16%>
 
@@ -501,13 +441,13 @@ Les réseaux créent une dynamique "winner-takes-all":
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-##### Rivalry
+### Rivalité
 
 > Networks winner-take-all dynamic is increasing rivalry among competitors to take on new emerging markets.
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-##### Substitution
+### Substitution
 
 > Platforms create substitutes by “envelopment”: they tend to expand their services to retain their user base and compete with other platforms having a similar user base.
 
@@ -515,13 +455,13 @@ Les réseaux créent une dynamique "winner-takes-all":
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-##### Weakening powerful players
+### Weakening powerful players
 
 > Platforms exhibit same-side negative externality: increased competition weakens powerful buyers & suppliers.
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-##### Strengthening small players
+### Strengthening small players
 
 > Platforms & technological innovation increase threat of entry by small players.
 
@@ -529,7 +469,7 @@ Les réseaux créent une dynamique "winner-takes-all":
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-##### Era of networks & platforms
+### Era of networks & platforms
 
 > Platforms seem to be economically more efficient than integrated companies.
 
@@ -537,7 +477,7 @@ Les réseaux créent une dynamique "winner-takes-all":
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-#### La transition vers les services et les biens intangibles
+### La transition vers les services et les biens intangibles
 
 Citer [MIT business model investors prefer](https://sloanreview.mit.edu/article/the-business-models-investors-prefer/) (ou rapport complet gratuit [Do Some Business Models Perform Better than Others?](http://ccs.mit.edu/papers/pdf/wp226.pdf))
 --> les business model intangibles performent mieux (donner plus de détail)
@@ -551,21 +491,38 @@ Notamment parce que les business digitaux visent des coûts marginaux proche de 
 ![Coût marginaux](https://2xawx0gmudy471po527lbxcd-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/marginal-cost-curve.jpg)
 <small>Source: [Platform vs. Linear: Business Models 101](https://www.applicoinc.com/blog/platform-vs-linear-business-models-101/)</small>
 
-<!-- slide data-background-color="#223322"-->
+<!-- slide data-background-color="#223322" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Black.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-## Exercices stratège dirigeant
+## Exercices
 
-- expliquer en quoi l'IA et le digital ont permis à certaines compagnies de surclasser les autres
-- étude de cas:
-  - amazon vs wallmart
-  - spaceX vs arianegroup
-  - tesla vs GM
-- étude de cas par secteur
-- construire une vision à 10 ans:
-  - à l'échelle macro
-  - à l'échelle micro
-  - comment s'y préparer
-  - premières actions
+<!-- slide vertical=true data-background-color="#223322"-->
+
+### Case study: expliquer le passé
+
+Analyse comparative de couples emblématiques & disruption:
+
+- Couples:
+  - Amazon ↔ Walmart, Carrefour, ...
+  - SpaceX ↔ Boeing, Arianespace, ...
+  - Tesla ↔ GMC, Renault, ...
+  - AirBnB ↔ Accor
+  - Uber ↔ Taxis
+  - Kiwi ↔ Air France
+  - BlaBlaCar ↔ SNCF, Bus, ...
+  - Pixar ↔ Film studios
+- Axes d'analyse
+  - selon quelles dimensions
+  - avec quelles technologies ?
+
+<!-- slide vertical=true data-background-color="#223322"-->
+
+### Case study: prédire le futur
+
+Prendre une compagnie emblématique et prédire son futur (10 ans):
+
+- Trouver des ordres de grandeur de changement technologiques dans 10 ans
+- Faire un scenario d'évolution: appliquer les bons changements d'ordres de grandeur
+- Brainstorm: quelles sont les actions que doit mettre en place cette compagnie, dès aujourd'hui
 
 <!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
@@ -575,8 +532,6 @@ Notamment parce que les business digitaux visent des coûts marginaux proche de 
 - Comment intégrer l'IA dans mon processus ?
 
 <!-- slide vertical=true data-background-color="#222233"-->
-
-### Planning
 
 | Plage horaire | Atelier             |
 |:-------------:|:------------------- |
@@ -589,7 +544,9 @@ Notamment parce que les business digitaux visent des coûts marginaux proche de 
 | <small>11:00  | ^                   |
 | <small>11:30  | ^                   |
 
-## People
+<!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
+
+## Personnes: Qui peut faire de l'IA ?
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
@@ -681,9 +638,9 @@ Les data scientists d'aujourd'hui ne sont pas autonomes pour livrer une solution
 
 - ce qu'il faut pour être un full stack data scientist (ou au moins comme compétences dans un projet)
 
-<!-- slide vertical=true data-background-color="#222233"-->
+<!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-## Content
+## Contenu: Quelle transformation mener ?
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
@@ -709,7 +666,43 @@ Données → Produit → Décision → Valeur
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
-## Process
+### Comment ça marche le machine learning
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Train-test split
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Differentiable programming: Gradient descent & loss optimisation
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Métriques
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### La révolution deep learning: plus de feature engineering
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Comment ça marche le deep learning et ce qu'on peut faire avec
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Etat de l'art computer vision
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Etat de l'art natural language processing
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Etat de l'art time series analytics
+
+<!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
+
+## Processus: Comment mener le projet ?
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
@@ -737,11 +730,36 @@ Données → Produit → Décision → Valeur
 - https://xkcd.com/1425/
 - se renseigner sur l'état de l'art: site paperswithcode
 
----
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Les clés de succès d'un projet IA
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### La donnée avant les algorithmes
+
+~~algorithms~~ → datasets !
+<img src="https://images.squarespace-cdn.com/content/54345ed8e4b0fa5705e1825b/1459449530701-68FQZ878JRPQCE97XVCC/AIBreakthrough.png?content-type=image%2Fpng" style="background-color:white;">
+
+<small>Source: [Datasets Over Algorithms (kdnuggets)](https://www.kdnuggets.com/2016/05/datasets-over-algorithms.html)</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Tirer parti de l'open source
+
+open competition: open source / open publication (model hubs, papers with code, etc.)
+
+<!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
+
+## Exercice
+
+<!-- slide -->
 
 # Annexe
 
-### Glossaire
+<!-- slide vertical=true-->
+
+## Glossaire
 
 - Devops
 - Agile
@@ -750,18 +768,19 @@ Données → Produit → Décision → Valeur
 - Cloud
 - API
 
-### Contenu à placer:
+<!-- slide vertical=true-->
+
+## Contenu à placer:
 
 - [Data Driven Think Again (Hackernoon)](https://hackernoon.com/data-inspired-5c78db3999b2) --> pour tirer parti de l'IA, il faut avoir une culture de la rationnalité et de la décision (citer [lettre aux actionnaire de Jeff Bezos en 1997](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm) sur les 2 types de décision et article de [business insider](https://www.businessinsider.fr/us/jeff-bezos-on-type-1-and-type-2-decisions-2016-4))
 - Attention aux écueils: essayer de prédire la sexualité des gens à partir de leur visage: 2 critiques: [article medium](https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-just-expose-our-stereotypes-d998fafdf477) et [article The Register](https://www.theregister.co.uk/2019/03/05/ai_gaydar/)
-- salaire moyen d'un devops / data scientist dans le monde
-- combien d'IT specialist et de data scientists par rapport à la population ?
 - ne vous méfiez pas de l'IA mais de ceux qui possèdent le pouvoir de créer/modifier l'IA: actionnaires & data scientists (citer [weapons of math destruction de Cathy O'Neil](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction))
 - extraits de mon mémoire de MBA:
-  - les 5 forces de porters à l'ère du digital
   - les 8 compétences clés dans le futur
 
-# Demos / Manips
+<!-- slide vertical=true-->
+
+## Demos / Manips
 
 - Demos repositories:
   - [AI Experiments | Experiments with Google](https://experiments.withgoogle.com/collection/ai)
@@ -773,6 +792,9 @@ Données → Produit → Décision → Valeur
   - [Sound Maker](https://experiments.withgoogle.com/ai/sound-maker/view/)
   - [Thing Translator](https://thing-translator.appspot.com/)
   - [Quick Draw](https://quickdraw.withgoogle.com/)
+
+<!-- slide vertical=true-->
+
 - Other deep learning:
   - [GitHub - NVlabs/stylegan2: StyleGAN2 - Official TensorFlow Implementation](https://github.com/NVlabs/stylegan2)
 - Tensorflow js demos:
@@ -784,6 +806,9 @@ Données → Produit → Décision → Valeur
 - NLP:
   - [Stanford Named Entity Tagger](http://nlp.stanford.edu:8080/ner/process)
   - [Dandelion Named Entity Tagger](https://dandelion.eu/semantic-text/entity-extraction-demo/?text=Barack+Hussein+Obama+II+is+an+American+attorney+and+politician+who+served+as+the+44th+president+of+the+United+States+from+2009+to+2017.+A+member+of+the+Democratic+Party%2C+he+was+the+first+African+American+president+of+the+United+States.+He+previously+served+as+a+U.S.+senator+from+Illinois+from+2005+to+2008+and+an+Illinois+state+senator+from+1997+to+2004.&lang=auto&min_confidence=0.6&exec=true#results)
+
+<!-- slide vertical=true-->
+
 - Linear regression:
   - [GeoGebra demo](https://www.geogebra.org/m/xC6zq7Zv)
 - Spreadsheet tutorial:
@@ -796,36 +821,6 @@ Données → Produit → Décision → Valeur
     - Fit (and critique) a regression model.
 - automl H20
 
-# Planning type & liste d'activités
+<!-- slide vertical=true-->
 
 ## Liste d'activités
-
-- Introduction
-  - Accueil
-  - Collecte attentes élèves
-  - Présentation des objectifs & profils cibles
-  - Présentation Plan
-  - Ice-breaker: petite démo
-- IA pour le citoyen
-  - Démo:
-- IA pour le CEO:
-  - Case study: expliquer le passé: analyse comparative & disruption:
-    - Couples:
-      - Amazon ↔ Walmart, Carrefour, ...
-      - SpaceX ↔ Boeing, Arianespace, ...
-      - Tesla ↔ GMC, Renault, ...
-      - AirBnB ↔ Accor
-      - Uber ↔ Taxis
-      - Kiwi ↔ Air France
-      - BlaBlaCar ↔ SNCF, Bus, ...
-      - Pixar ↔ Film studios
-    - Axes d'analyse
-      - selon quelles dimensions
-      - avec quelles technologies ?
-  - Case study: prédire le futur: prendre une compagnie emblématique, leader de son industrie et prédire où elle sera dans 10 ans
-    - Trouver des ordres de grandeur de changement technologiques dans 10 ans
-    - Appliquer les bons changements d'ordres de grandeur pour faire un scenario d'évolution de la boîte
-    - Penser quelles sont les actions que doit mettre en place en premier cette compagnie, dès aujourd'hui
-- IA pour le manager:
--
-- Démo:
