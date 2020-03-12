@@ -30,10 +30,10 @@ Le cours s'adresse à tous publics ayant
 
 ## Qu'allons-nous essayer d'apprendre ?
 
+- anticiper l'impact de l'IA dans la société
+- anticiper la transformation de son entreprise avec l'IA
 - toucher du doigt et comprendre ce qu'est l'IA
 - savoir gérer un projet IA dans son entreprise
-- savoir anticiper l'impact de l'IA à moyen-terme dans la société
-- anticiper la transformation de son entreprise avec l'IA
 
 <!-- slide vertical=true-->
 
@@ -400,7 +400,7 @@ TODO: Voir rapports de MCKinsey sur le sujet.
 <!-- slide vertical=true data-background-color="#223322"-->
 
 - une vision de nos organisations
-
+  
   - d'abord stratifiées
   - maintenant en réseaux
   - structurées par des algo / apps
@@ -632,7 +632,7 @@ Les data scientists d'aujourd'hui ne sont pas autonomes pour livrer une solution
 ### Paysage des compétences à maitriser
 
 - le background classique:
-
+  
   - chercheur qui s'est reconverti
   - newbie qui sort d'école
 
@@ -823,4 +823,19 @@ open competition: open source / open publication (model hubs, papers with code, 
 
 <!-- slide vertical=true-->
 
-## Liste d'activités
+## Links
+
+- [Future of jobs - World Economic Forum](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf)
+- [Prediction Machines (book)](https://www.predictionmachines.ai/)
+- [Human + Machine (book)](https://www.goodreads.com/book/show/36465763-human-machine)
+- [A new kind of growth for europe - Xynteo](https://xynteo.com/sites/default/files/download/2019/10/XT0330_ED_Report1_V2_SCREEN.pdf)
+- [Artificial Intelligence for the real world - HBR](https://hbr.org/2018/01/artificial-intelligence-for-the-real-world)
+- [The Latest Research: AI & Machine Learning - HBR](https://store.hbr.org/product/the-latest-research-ai-and-machine-learning/ARTINT)
+- [Agile Machine Learning: from theory to production - Rob Hinds' talk @JAXLondon2017](https://www.slideshare.net/robhinds/jaxlondon2017-agile-machine-learning-from-theory-to-production)
+- [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)
+
+
+
+![ML system infrastructure.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/03/11-13-30-59-ML%20system%20infrastructure.png)
+
+<small>Source: [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)</small>
