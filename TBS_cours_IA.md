@@ -76,19 +76,26 @@ Le cours s'adresse à tous publics ayant
 
 ## Une révolution technologique et sociétale
 
+- Une révolution technologique qui est l'avènement d'un nouveau système de **technologies**
+- Ainsi que de nouveau modes d'**organisation** et de création de valeur
+- Qui demande une adaptation du système **politique**
+
 <!-- slide vertical=true" data-background-color="#332222"-->
 
-### Une révolution technologique: façonner le monde autrement
+### Une révolution technologique
+
+- Une transition vers l'Âge de l'Inforamtion
+- Qui entraîne dislocation économique et polarisation de la société
 
 <!-- slide vertical=true" data-background-color="#332222"-->
 
-#### Les phases d'une révolution industrielle
+#### Les phases d'une révolution technologique
 
 ![Technological Revolution.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-53-11-Technological%20Revolution.png)
 
 <!-- slide vertical=true" data-background-color="#332222"-->
 
-#### La 5^ème^ révolution: Age de l'Information
+#### La 5^ème^ révolution: Âge de l'Information
 
 ![Carlota Perez - 5 technological revolutions v2.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-16-07-57-Carlota%20Perez%20-%205%20technological%20revolutions%20v2.png)
 <small>Source: [Looking at the future, Learning from history (Carlota Perez)](http://www.carlotaperez.org/downloads/media/PEREZ%20ASUT%20Bern%20Final.pdf)</small>
@@ -123,9 +130,17 @@ Croissance explosive vs Augmentation de la pauvreté.
 Si la diffusion a plus d'influence: tendance à la centralisation dans la propagation d'informations
 Si le bouche-à-oreille a plus d'influence: tendance à la décentralisation dans la propagation d'informations
 
+TODO: finir cette slide
+
+TODO: rajouter une slide sur Carlota Perez: la société doit s'adapter pour réguler ce déséquilibre et apporter prospérité. Prospérité = quand la sphere publique / gouvernementale rejoint / s'adapte à la sphère privée.
+
 <!-- slide data-background-color="#332222" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Bokeh.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
 ## Les principes de la révolution digitale
+
+- Un monde chaotique dont on peut identifier les tendances structurantes
+- Des machines en évolution à une vitesse exponentielle
+- Des humains ayant une vitesse d'évolution linéaire
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
@@ -150,6 +165,11 @@ Système imprédictible (effet 🦋) mais points d'attraction stables
 <!-- slide vertical=true data-background-color="#332222"-->
 
 ### Machines: technologies digitales exponentielles
+
+La croissance des technologies est exponentielle
+
+- Calcul: performance, coût
+- Données: transmission, volume, pénétration
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
@@ -196,6 +216,10 @@ La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
 
 ### Humains: sociétés linéaires
 
+- Changement à vitesse linéaire
+- Un déséquilibre croissant = décrochage
+- Enjeu de maitriser peu de données avec peu d'humains
+
 <!-- slide vertical=true data-background-color="#332222"-->
 
 #### La technologie va plus vite que les usages
@@ -225,7 +249,7 @@ La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-#### Le gestion des données devient majeure
+#### Le gestion des données devient un enjeu majeur
 
 ![EMC - IT burden v2.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-04-21-EMC%20-%20IT%20burden%20v2.png)
 
@@ -235,15 +259,29 @@ La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
 
 ## L'IA: la convergence entre la Machine et l'Humain
 
+- L'IA "renforce" la transformation digitale, mais ne change pas son paradigme
+- L'IA automatise de plus en plus de tâches Humaines, mais certaines ne le seront jamais
+- Ces capacités grandissantes excitent les rêves les plus fous et irréalistes
+
 <!-- slide vertical=true data-background-color="#332222"-->
 
-### Intelligence Artificielle: le turbo du digital
+### Intelligence Artificielle: le turbo de la transformation digitale
+
+- L'IA est un vieille discipline, en pleine explosion depuis 15 ans
+- Qui commence à infuser dans les différentes secteurs économiques
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
 #### L'histoire chaotique de l'IA depuis 60 ans
 
-Une révolution qui a connu 2 "hivers" (période de doute): à voir sur cette [timeline](https://www.researchgate.net/publication/323591839/figure/fig8/AS:601346701008897@1520383634410/Development-history-of-artificial-intelligence-AI.png)
+Une révolution qui a connu 2 hivers:
+
+1. 1974: l'IA ne sait pas résoudre des problèmes complexes.
+2. 1987: l'IA ne résoud que des problèmes très spécifiques.
+
+<img src="https://www.researchgate.net/publication/323591839/figure/fig8/AS:601346701008897@1520383634410/Development-history-of-artificial-intelligence-AI.png" style="object-fit: cover; object-position: 0 0; width: 100%; height:270px;">
+
+<small>Source: [State-of-the-Art Mobile Intelligence (research paper)](https://www.researchgate.net/publication/323591839_State-of-the-Art_Mobile_Intelligence_Enabling_Robots_to_Move_Like_Humans_by_Estimating_Mobility_with_Artificial_Intelligence)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
@@ -270,6 +308,10 @@ Une révolution qui a connu 2 "hivers" (période de doute): à voir sur cette [t
 <!-- slide vertical=true data-background-color="#332222"-->
 
 ### L'IA remplace l'Humain ?
+
+- L'IA surclasse l'humain sur des tâches très spécifiques comme les jeux
+- Mais est incapable d'un raisonnement construit pour aborder une nouvelle situation
+- Un grand apprentissage est nécessaire pour faire cohabiter Humains et algorithmes harmonieusement.
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
@@ -326,6 +368,9 @@ TODO: Voir rapports de MCKinsey sur le sujet.
 
 ### Et après ? Demain: quelle révolution remplacera celle-ci ?
 
+- Le délire de la singularité
+- L'avènement des biotechs
+
 <!-- slide vertical=true data-background-color="#332222"-->
 
 #### La singularité: l'IA remplace l'homme ?
@@ -342,7 +387,7 @@ TODO: Voir rapports de MCKinsey sur le sujet.
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-##### La lame de fond des biotechs
+#### La lame de fond des biotechs
 
 - démarche à la croisée de l'IA et de la bio: [xenobots](https://www.smithsonianmag.com/innovation/scientists-assemble-frog-stem-cells-first-living-machines-180973947/)
 - éditer le code génétique avec CRISPR-CAS9: voir [vidéo kurzgesagt (et les sources en commentaires)](https://www.youtube.com/watch?v=jAhjPd4uNFY)
@@ -381,34 +426,75 @@ TODO: Voir rapports de MCKinsey sur le sujet.
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-- 3 value disciplines (Treacy):
-  - customer intimacy
-  - product leadership
-  - operational excellence
+### Analyser les organisations par les _Value Disciplines_
+
+Un modèle mental pour comprendre les organisations
+
+![](https://cdn.slidemodel.com/wp-content/uploads/6857-01-value-discipline-model-4.jpg)
+
+<small>Source: [Customer Intimacy and other Value Disciplines (Treacy)](https://hbr.org/1993/01/customer-intimacy-and-other-value-disciplines) + [visuel](https://slidemodel.com/templates/value-discipline-model-powerpoint-template/)</small>
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-- tech companies paradigm ([article Nicolas Colin](https://salon.thefamily.co/whats-a-tech-company-515960d76c21)):
-  - increasing returns
-  - exceptional user experience
-  - regular & systematic collection of user-generated data
+### Les _Value Disciplines_ de la révolution digitale
+
+![](https://miro.medium.com/max/1226/1*3ba0jmPhKXO56EQwbCHF5Q.png)
+<small>Source [What's a Tech Company (Nicolas Colin - The Family)](https://salon.thefamily.co/whats-a-tech-company-515960d76c21)</small>
+
+<!-- slide vertical=true data-background-color="#223322"-->
+
+### Les _Value Disciplines_ de la révolution digitale
+
+|                                   |                                                 |
+| --------------------------------- | ----------------------------------------------- |
+| 🎁 Leadership</br> Produit        | 🤩 Experience utilisateur exceptionnelle        |
+| 🤝 Intimité</br> Client           | 🔍 Collecte systématique de données utilisateur |
+| 💰 Excellence</br> Opérationnelle | 📈 Rendements d'échelle croissants              |
+
+<small>Source [What's a Tech Company (Nicolas Colin - The Family)](https://salon.thefamily.co/whats-a-tech-company-515960d76c21)</small>
 
 <!-- slide data-background-color="#223322" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Black.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-## La structuration des communications au sein de ces organisations
+## Transformation des communications dans les organisations
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-- une vision de nos organisations
-  
-  - d'abord stratifiées
-  - maintenant en réseaux
-  - structurées par des algo / apps
-    ![une image pour montrer l'évolution](https://minim-v.com/porouscity/distributed.jpg)
+Efficacité d'une organisation = Qualité et Quantité des décisions qu'elle prend.
 
-- les sociogrammes / actor-network theory
+<!-- slide vertical=true data-background-color="#223322"-->
 
-![un exemple de diagramme schématique](https://www.researchgate.net/profile/Pin_Yu_Chen/publication/258401293/figure/fig6/AS:324937249247243@1454482485493/Contemporary-wireless-complex-communication-network-architecture-presenting-cumulatively.png)
+### Le délitement des hiérarchies 1.0
+
+Le point-à-point ✉️ 📞
+nécessitait une seule hiérarchie stricte
+
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/03/30-00-15-16-hierarchy.png" width=80%>
+
+<small>Source: [Heterarchies: Reconciling Networks and Hierarchies](https://www.sciencedirect.com/science/article/abs/pii/S016953471630043X)</small>
+
+<!-- slide vertical=true data-background-color="#223322"-->
+
+### L'avènement des hétérarchies 2.0
+
+Le _one-to-many_ 💬📱
+permet plusieurs circuits d'information
+
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/03/30-00-15-22-heterarchy.png" width=80%>
+
+<small>🤔&nbsp;mais le mail, _one-to-many_, n'a pas changé la hiérarchie en entreprise.<br> On n'écrit pas directement au CEO...
+Source: [Heterarchies: Reconciling Networks and Hierarchies](https://www.sciencedirect.com/science/article/abs/pii/S016953471630043X)</small>
+
+<!-- slide vertical=true data-background-color="#223322"-->
+
+### L'émergence des organisations 3.0
+
+L'IA devient une noeud intelligent du réseau
+
+![AI organization.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/03/30-01-24-38-AI%20organization.png)
+
+<small>Source: [diagramme](https://mermaid-js.github.io/mermaid-live-editor/#/view/eyJjb2RlIjoiZ3JhcGggVEQ7XG4gIEFbQ0VPXVxuICBCW0TDqXZlbG9wcGV1cl1cbiAgQ1tEw6l2ZWxvcHBldXJdXG4gIERbRMOpdmVsb3BwZXVyXVxuICBFKChBcHBsaWNhdGlvbikpXG4gIEZbTGl2cmV1cl1cbiAgR1tMaXZyZXVyXVxuICBIW0xpdnJldXJdXG4gIElbTGl2cmV1cl1cbiAgSltMaXZyZXVyXVxuICBzdHlsZSBFIGZpbGw6I0Y2Niwgc3Ryb2tlLXdpZHRoOjA7XG4gIEEgLS0-IEI7XG4gIEEgLS0-IEM7XG4gIEEgLS0-IEQ7XG4gIEIgLS0-IEU7XG4gIEMgLS0-IEU7XG4gIEQgLS0-IEU7XG4gIEUgLS0-IEY7XG4gIEUgLS0-IEc7XG4gIEUgLS0-IEg7XG4gIEUgLS0-IEk7XG4gIEUgLS0-IEo7IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifX0)</small>
+
+<!-- slide vertical=true data-background-color="#223322"-->
 
 - citer Tim O'Reilly dans WTF sur le monde qui est en trian de devenir un gigantesque cerveau
 
@@ -416,17 +502,30 @@ TODO: Voir rapports de MCKinsey sur le sujet.
 
 ## Changement d'environnement pour les organisations
 
+<!-- slide vertical=true data-background-color="#223322"-->
+
 Analyse des 5 forces de Porter:
 
 <img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/23-22-43-09-porter_forces.svg?sanitize=true" style="background-color:white;" width="100%">
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
+### L'effet de réseau
+
+Les économies d'échelles dûes à la demande, externalités positives des réseaux créent une dynamique "winner-takes-all":
+
+<img src="https://www.researchgate.net/profile/Roberto_Moro_Visconti2/publication/331983003/figure/fig1/AS:743992551538689@1554393055115/Value-for-the-User-according-to-Metcalfes-Law.png" style="background-color:white;" width="40%">
+
+<!-- slide vertical=true data-background-color="#223322"-->
+
 ### Marché instable
 
-Les réseaux créent une dynamique "winner-takes-all":
+Les externalités positives des réseaux créent une dynamique "winner-takes-all":
 
 ![Tippy Market](https://upload.wikimedia.org/wikipedia/commons/9/9a/PositiveFeedback.JPG)
+
+Ex: marché des consoles, électricité AC vs DC
+
 <small>Source: [Network Externalities (wikibooks)](https://en.wikibooks.org/wiki/Strategy_for_Information_Markets/Network_Externalities)</small>
 
 <!-- slide vertical=true data-background-color="#223322"-->
@@ -632,7 +731,7 @@ Les data scientists d'aujourd'hui ne sont pas autonomes pour livrer une solution
 ### Paysage des compétences à maitriser
 
 - le background classique:
-  
+
   - chercheur qui s'est reconverti
   - newbie qui sort d'école
 
@@ -666,7 +765,39 @@ Données → Produit → Décision → Valeur
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
-### Comment ça marche le machine learning
+### C'est quoi l'IA
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Les 3 étapes de l'IA
+
+<img src="https://www.researchgate.net/publication/323591839/figure/fig8/AS:601346701008897@1520383634410/Development-history-of-artificial-intelligence-AI.png" style="object-fit: cover; object-position: 0 0; width: 100%; height:250px;">
+
+Des méthodes d'IA différentes au cours du temps:
+
+1. code classique (`if → then → else`)
+2. système expert utilisant des règles créées à la main
+3. algorithmes statistiques _apprenant_ les règles (_machine learning_)
+
+<small>Source: [State-of-the-Art Mobile Intelligence (research paper)](https://www.researchgate.net/publication/323591839_State-of-the-Art_Mobile_Intelligence_Enabling_Robots_to_Move_Like_Humans_by_Estimating_Mobility_with_Artificial_Intelligence)</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Les systèmes experts
+
+![](https://sites.google.com/site/mrstevensonstechclassroom/_/rsrc/1382374591344/hl-topics-only/4a-robotics-ai/5-expert-systems/expert%20system.png)
+<img src="https://sites.google.com/site/keremitgsnotes/_/rsrc/1456600594794/chapter-16---ai-and-robotics/expert-systems/Capture.PNG" width=50%>
+<small>Sources: various ITGS courses: [here](https://sites.google.com/site/mrstevensonstechclassroom/_/rsrc/1382374591344/hl-topics-only/4a-robotics-ai/5-expert-systems/) and [here](https://sites.google.com/site/keremitgsnotes/_/rsrc/1456600594794/chapter-16---ai-and-robotics/expert-systems/).</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### L'apprentissage automatique
+
+IA = _Machine learning_
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Comment ça marche le _machine learning_
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
@@ -803,6 +934,7 @@ open competition: open source / open publication (model hubs, papers with code, 
   - [Webcam Pacman](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html)
   - [RNN text generation](https://storage.googleapis.com/tfjs-examples/lstm-text-generation/dist/index.html)
   - [BodyPix - With a Webcam Demo](https://storage.googleapis.com/tfjs-models/demos/body-pix/index.html)
+  - [Disappearing People - Person removal from complex backgrounds over time](https://glitch.com/~disappearing-people)
 - NLP:
   - [Stanford Named Entity Tagger](http://nlp.stanford.edu:8080/ner/process)
   - [Dandelion Named Entity Tagger](https://dandelion.eu/semantic-text/entity-extraction-demo/?text=Barack+Hussein+Obama+II+is+an+American+attorney+and+politician+who+served+as+the+44th+president+of+the+United+States+from+2009+to+2017.+A+member+of+the+Democratic+Party%2C+he+was+the+first+African+American+president+of+the+United+States.+He+previously+served+as+a+U.S.+senator+from+Illinois+from+2005+to+2008+and+an+Illinois+state+senator+from+1997+to+2004.&lang=auto&min_confidence=0.6&exec=true#results)
@@ -833,8 +965,6 @@ open competition: open source / open publication (model hubs, papers with code, 
 - [The Latest Research: AI & Machine Learning - HBR](https://store.hbr.org/product/the-latest-research-ai-and-machine-learning/ARTINT)
 - [Agile Machine Learning: from theory to production - Rob Hinds' talk @JAXLondon2017](https://www.slideshare.net/robhinds/jaxlondon2017-agile-machine-learning-from-theory-to-production)
 - [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)
-
-
 
 ![ML system infrastructure.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/03/11-13-30-59-ML%20system%20infrastructure.png)
 
