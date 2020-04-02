@@ -58,19 +58,16 @@ Le cours s'adresse à tous publics ayant
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-|              |                     |
-|:------------:|:------------------- |
-| <small>08:00 | 🤗 Accueil & Intro  |
-| <small>08:30 | 🤔 Partie Théorique |
-| <small>09:00 | ^                   |
-| <small>09:30 | ^                   |
-| <small>10:00 | ☕️ Pause            |
-| <small>10:30 | 😅 Atelier pratique |
-| <small>11:00 | ^                   |
-| <small>11:30 | ^                   |
-| <small>12:00 | 🥗 Déjeuner         |
-| <small>12:30 | ^                   |
-| <small>13:00 | ^                   |
+| Plage horaire | Atelier             |
+|:-------------:|:------------------- |
+| <small>08:00  | 🤗 Accueil & Intro  |
+| <small>08:30  | 🤔 Partie Théorique |
+| <small>09:00  | ^                   |
+| <small>09:30  | ^                   |
+| <small>10:00  | ☕️ Pause            |
+| <small>10:30  | 😅 Atelier pratique |
+| <small>11:00  | ^                   |
+| <small>11:30  | ^                   |
 
 <!-- slide data-background-color="#332222" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Bokeh.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
@@ -91,56 +88,48 @@ Le cours s'adresse à tous publics ayant
 
 #### Les phases d'une révolution technologique
 
-![Technological Revolution.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-53-11-Technological%20Revolution.png)
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-53-11-Technological%20Revolution.png" width=80%>
 
 <!-- slide vertical=true" data-background-color="#332222"-->
 
 #### La 5^ème^ révolution: Âge de l'Information
 
-![Carlota Perez - 5 technological revolutions v2.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-16-07-57-Carlota%20Perez%20-%205%20technological%20revolutions%20v2.png)
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-16-07-57-Carlota%20Perez%20-%205%20technological%20revolutions%20v2.png" width=80%>
+
 <small>Source: [Looking at the future, Learning from history (Carlota Perez)](http://www.carlotaperez.org/downloads/media/PEREZ%20ASUT%20Bern%20Final.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
 #### La dislocation économique
 
-Croissance explosive vs Augmentation de la pauvreté.
-![Carlota Perez - Centrifugal Trends.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/16-23-38-24-Carlota%20Perez%20-%20Centrifugal%20Trends.png)
+Croissance explosive & Augmentation de la pauvreté.
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/16-23-38-24-Carlota%20Perez%20-%20Centrifugal%20Trends.png" width=65%>
+
 <small>Source: [Technological Revolutions, Paradigm Shifts and Socio-institutional Change (Carlota Perez)](http://www.carlotaperez.org/downloads/pubs/TRs_TEP_shifts_and_SIF_ch.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
 #### La polarisation des revenus
 
-![Carlota Perez - Income Inequality.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/16-17-01-42-Carlota%20Perez%20-%20Income%20Inequality.png)
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/16-17-01-42-Carlota%20Perez%20-%20Income%20Inequality.png" width=80%>
+
 <small>Source: [Full Globalisation as a Positive-Sum Game: Green Demand as an Answer to the Financial Crisis (Carlota Perez)](http://www.carlotaperez.org/downloads/media/20100518_CarlotaPerez.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-<iframe width="100%" height="400" src="https://time.graphics/embed?v=1&id=348095" frameborder="0" allowfullscreen></iframe>
+### Révolution sociétale: changer la fabrique de la société
 
-<!-- slide vertical=true data-background-color="#332222"-->
-
-### Une révolution sociétale: changer la fabrique de la société
-
-- voir intro de "program or be programmed" de Douglas rushkoff)
+Réseaux et pouvoirs de plus en plus décentralisés
 
 [![Chronologie Technologies de l'Information.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/21-16-04-17-Chronologie%20Technologies%20de%20l'Information.png)](https://time.graphics/line/348095)
-
-Si la diffusion a plus d'influence: tendance à la centralisation dans la propagation d'informations
-Si le bouche-à-oreille a plus d'influence: tendance à la décentralisation dans la propagation d'informations
-
-TODO: finir cette slide
-
-TODO: rajouter une slide sur Carlota Perez: la société doit s'adapter pour réguler ce déséquilibre et apporter prospérité. Prospérité = quand la sphere publique / gouvernementale rejoint / s'adapte à la sphère privée.
 
 <!-- slide data-background-color="#332222" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Bokeh.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
 ## Les principes de la révolution digitale
 
-- Un monde chaotique dont on peut identifier les tendances structurantes
-- Des machines en évolution à une vitesse exponentielle
-- Des humains ayant une vitesse d'évolution linéaire
+- Un monde chaotique mais structuré
+- Des machines à croissance exponentielle
+- Des humains à changements linéaires
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
@@ -150,13 +139,12 @@ TODO: rajouter une slide sur Carlota Perez: la société doit s'adapter pour ré
 
 Penser en vecteurs: qu'est-ce qui a une direction et une force constante ?
 
-> Smartphones had put a camera in everyone’s hand, and Twitter had created a real-time platform from which those photos and text updates could be instantly disseminated to the world. Billions of connected humans and devices were being woven into a global brain. That brain was all of us, augmented and connected.”
 
 <!-- slide vertical="true" data-background-color="#332222"-->
 
-#### Ne pas prédire le futur, mais identifier les tendances
+#### Un monde chaotique mais structuré
 
-Système imprédictible (effet 🦋) mais points d'attraction stables
+Chaos imprédictible (effet 🦋) mais structure stable
 
 <iframe src="https://highfellow.github.io/lorenz-attractor/attractor.html" width="100%" height="600"></iframe
 
@@ -164,74 +152,91 @@ Système imprédictible (effet 🦋) mais points d'attraction stables
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-### Machines: technologies digitales exponentielles
+### Machines exponentielles
 
-La croissance des technologies est exponentielle
+La croissance des technologies de l'information <br>est en accélération exponentielle
 
 - Calcul: performance, coût
 - Données: transmission, volume, pénétration
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-#### ⤴️ nombre de processeurs
+#### Intelligence bon marché
 
-[number of processors / transistors dans le monde](https://www.darrinqualman.com/global-production-transistors/)
+Puissance de calcul par dollar x2 tous les 18 mois
 
-<!-- slide vertical=true data-background-color="#332222"-->
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-45-20-Moores_Law_over_120_Years.png" width=80%>
 
-#### Loi de Moore
-
-La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
-& le prochain relais de croissance est [la création de processeurs spécialisés](https://www.nextplatform.com/2019/02/05/the-era-of-general-purpose-computers-is-ending/)
-![Moores_Law_over_120_Years.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-45-20-Moores_Law_over_120_Years.png)
-
+<small>Note: Le prochain relais de croissance est [la création de processeurs spécialisés](https://www.nextplatform.com/2019/02/05/the-era-of-general-purpose-computers-is-ending/)</small>
 <small>Source: [Moore's Law over 120 Years (Ray Kurzweil)](https://commons.wikimedia.org/wiki/File:Moore%27s_Law_over_120_Years.png)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-#### Le haut débit mobile
+#### Intelligence omniprésente
 
-![ITU - Telecom Penetration.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-49-ITU%20-%20Telecom%20Penetration.png)
+Nombre de transistors par humain x10 tous les 5 ans
+
+<img src="https://254155-841844-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2017/04/Global-production-of-transistors-per-capita-selected-years-historic.png" width=80%>
+
+<small>Source: [Darrin Qualman blog](https://www.darrinqualman.com/global-production-transistors/)</small>
+
+<!-- slide vertical=true data-background-color="#332222"-->
+
+#### Intelligence connectée & mobile
+
+Le haut débit mobile devient une commodité
+
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-49-ITU%20-%20Telecom%20Penetration.png" width=80%>
+
 <small>Nombre de lignes pour 100 habitants, dans le monde</small>
 <small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-#### Les débits de données
+#### Des données de plus en plus échangées
 
-![ITU - Broadband Usage.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-31-ITU%20-%20Broadband%20Usage.png)
+Données échangées x3 tous les 4 ans
+
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-31-ITU%20-%20Broadband%20Usage.png" width=80%>
+
 <small>400 000 Gbit/s = 40 kbit/s / personne = 120 kbit/s / personne sur 8h</small>
 <small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-#### La quantité de données
+#### Des données de plus en plus stockées
 
-![IDC - Data grow](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-16-48-00-IDC%20-%20Data%20Growth.png)
-<small>400 exaoctets = 400 millions de téraoctets = 40 Go / personne</small>
-<small>40 000 exaoctets = 40 milliards de téraoctets = 4 To / personne</small>
+Données stockées x5 tous les 4 ans
+
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-16-48-00-IDC%20-%20Data%20Growth.png" width=80%>
+<small>
+400 exaoctets = 400 millions de téraoctets = 40 Go / personne<br>
+40 000 exaoctets = 40 milliards de téraoctets = 4 To / personne</small>
+
 <small>Source:[The Digital Universe in 2020 (IDC)](https://www.cs.princeton.edu/courses/archive/spring13/cos598C/idc-the-digital-universe-in-2020.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
 ### Humains: sociétés linéaires
 
-- Changement à vitesse linéaire
-- Un déséquilibre croissant = décrochage
-- Enjeu de maitriser peu de données avec peu d'humains
+- Changements sociétaux à vitesse linéaire
+- Déséquilibre croissant et risque de décrochage
+- Maitriser beaucoup de données avec peu d'humains
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
 #### La technologie va plus vite que les usages
 
-![ITU - Telecom Coverage.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-21-ITU%20-%20Telecom%20Coverage.png)
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-21-ITU%20-%20Telecom%20Coverage.png" width=80%>
+
 <small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
 #### Un faible nombre d'informaticiens
 
-![ITU - Developers.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-12-02-ITU%20-%20Developers.png)
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-12-02-ITU%20-%20Developers.png" width=80%>
+
 <small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
@@ -251,7 +256,7 @@ La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
 
 #### Le gestion des données devient un enjeu majeur
 
-![EMC - IT burden v2.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-04-21-EMC%20-%20IT%20burden%20v2.png)
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-04-21-EMC%20-%20IT%20burden%20v2.png" width=80%>
 
 <small>Source: [The Business Imperatives - EMC](https://www.emc.com/leadership/digital-universe/2014iview/business-imperatives.htm)</small>
 
@@ -272,12 +277,10 @@ La loi de Moore, en terme de puissance de calcul par dollar, est toujours vraie
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-#### L'histoire chaotique de l'IA depuis 60 ans
+#### L'IA a connu 2 hivers
 
-Une révolution qui a connu 2 hivers:
-
-1. 1974: l'IA ne sait pas résoudre des problèmes complexes.
-2. 1987: l'IA ne résoud que des problèmes très spécifiques.
+- **1974**: _"l'IA ne sait pas résoudre des problèmes complexes."_
+- **1987**: _"l'IA ne résoud que des problèmes très spécifiques."_
 
 <img src="https://www.researchgate.net/publication/323591839/figure/fig8/AS:601346701008897@1520383634410/Development-history-of-artificial-intelligence-AI.png" style="object-fit: cover; object-position: 0 0; width: 100%; height:270px;">
 
@@ -287,22 +290,24 @@ Une révolution qui a connu 2 hivers:
 
 #### La recherche explose: nombre de papiers
 
-![AI papers on Arxiv](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-27-46-AI_papers_arxiv_2010_2019.png)
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-27-46-AI_papers_arxiv_2010_2019.png" width=80%>
+
 <small>Source: [AI index 2019 report (Stanford)](https://hai.stanford.edu/sites/g/files/sbiybj10986/f/ai_index_2019_report.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
 #### La recherche explose: conférences
 
-![AI conferences attendance](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-16-53-AI_conferences_attendance_1985_2019.png)
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-16-53-AI_conferences_attendance_1985_2019.png" width=80%>
+
 <small>Source: [AI index 2019 report (Stanford)](https://hai.stanford.edu/sites/g/files/sbiybj10986/f/ai_index_2019_report.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
 #### De nombreux secteurs recrutent (aux US)
 
-⚠️ Certains secteurs deviennent des "marginaux de la digitalisation"
-<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-45-29-AI_jobs_per_industry_2010_2019.png" style="width:80%;height:80%">
+Les champions et marginaux de l'IA
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-45-29-AI_jobs_per_industry_2010_2019.png" width=69%>
 <small>Source: [AI index 2019 report (Stanford)](https://hai.stanford.edu/sites/g/files/sbiybj10986/f/ai_index_2019_report.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
@@ -377,7 +382,7 @@ TODO: Voir rapports de MCKinsey sur le sujet.
 
 👍 Pour: Ray Kurzweil - The Singularity is near
 
-![Singularity](https://28oa9i1t08037ue3m1l0i861-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/Howard-Graph.png)
+<img src="https://28oa9i1t08037ue3m1l0i861-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/Howard-Graph.png" width=80%>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
@@ -426,11 +431,11 @@ TODO: Voir rapports de MCKinsey sur le sujet.
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-### Analyser les organisations par les _Value Disciplines_
+### Les 3 _Value Disciplines_
 
 Un modèle mental pour comprendre les organisations
 
-![](https://cdn.slidemodel.com/wp-content/uploads/6857-01-value-discipline-model-4.jpg)
+<img src="https://cdn.slidemodel.com/wp-content/uploads/6857-01-value-discipline-model-4.jpg" width=80%>
 
 <small>Source: [Customer Intimacy and other Value Disciplines (Treacy)](https://hbr.org/1993/01/customer-intimacy-and-other-value-disciplines) + [visuel](https://slidemodel.com/templates/value-discipline-model-powerpoint-template/)</small>
 
@@ -438,7 +443,8 @@ Un modèle mental pour comprendre les organisations
 
 ### Les _Value Disciplines_ de la révolution digitale
 
-![](https://miro.medium.com/max/1226/1*3ba0jmPhKXO56EQwbCHF5Q.png)
+<img src="https://miro.medium.com/max/1226/1*3ba0jmPhKXO56EQwbCHF5Q.png" width=53%>
+
 <small>Source [What's a Tech Company (Nicolas Colin - The Family)](https://salon.thefamily.co/whats-a-tech-company-515960d76c21)</small>
 
 <!-- slide vertical=true data-background-color="#223322"-->
@@ -468,7 +474,8 @@ Efficacité d'une organisation = Qualité et Quantité des décisions qu'elle pr
 Le point-à-point ✉️ 📞
 nécessitait une seule hiérarchie stricte
 
-<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/03/30-00-15-16-hierarchy.png" width=80%>
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/03/30-00-15-16-hierarchy.png" width=50%>
+<img src="https://i.pinimg.com/736x/25/7e/23/257e233a5de62ef6a32a7319e508212f.jpg" width=46.6%>
 
 <small>Source: [Heterarchies: Reconciling Networks and Hierarchies](https://www.sciencedirect.com/science/article/abs/pii/S016953471630043X)</small>
 
@@ -479,7 +486,8 @@ nécessitait une seule hiérarchie stricte
 Le _one-to-many_ 💬📱
 permet plusieurs circuits d'information
 
-<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/03/30-00-15-22-heterarchy.png" width=80%>
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/03/30-00-15-22-heterarchy.png" width=50%>
+<img src="https://www.lesplumesdaudrey.fr/wp-content/uploads/2019/02/coworking-agora-berlin2-e1517234141501.jpg" width=47.1%>
 
 <small>🤔&nbsp;mais le mail, _one-to-many_, n'a pas changé la hiérarchie en entreprise.<br> On n'écrit pas directement au CEO...
 Source: [Heterarchies: Reconciling Networks and Hierarchies](https://www.sciencedirect.com/science/article/abs/pii/S016953471630043X)</small>
@@ -490,47 +498,60 @@ Source: [Heterarchies: Reconciling Networks and Hierarchies](https://www.science
 
 L'IA devient une noeud intelligent du réseau
 
-![AI organization.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/03/30-01-24-38-AI%20organization.png)
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/03/30-11-05-53-AI%20organization.png" width=46%>
+<img src="https://static01.nyt.com/images/2019/10/17/multimedia/17wheels-apps/merlin_139785978_bc2dfffc-4504-4e83-bde7-39a4d51b168d-articleLarge.jpg?quality=75&auto=webp&disable=upscale" width=51%>
 
-<small>Source: [diagramme](https://mermaid-js.github.io/mermaid-live-editor/#/view/eyJjb2RlIjoiZ3JhcGggVEQ7XG4gIEFbQ0VPXVxuICBCW0TDqXZlbG9wcGV1cl1cbiAgQ1tEw6l2ZWxvcHBldXJdXG4gIERbRMOpdmVsb3BwZXVyXVxuICBFKChBcHBsaWNhdGlvbikpXG4gIEZbTGl2cmV1cl1cbiAgR1tMaXZyZXVyXVxuICBIW0xpdnJldXJdXG4gIElbTGl2cmV1cl1cbiAgSltMaXZyZXVyXVxuICBzdHlsZSBFIGZpbGw6I0Y2Niwgc3Ryb2tlLXdpZHRoOjA7XG4gIEEgLS0-IEI7XG4gIEEgLS0-IEM7XG4gIEEgLS0-IEQ7XG4gIEIgLS0-IEU7XG4gIEMgLS0-IEU7XG4gIEQgLS0-IEU7XG4gIEUgLS0-IEY7XG4gIEUgLS0-IEc7XG4gIEUgLS0-IEg7XG4gIEUgLS0-IEk7XG4gIEUgLS0-IEo7IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifX0)</small>
+<small>Source: [diagramme](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVEQ7XG4gIEFbQ0VPXVxuICBCW0TDqXZlbG9wcGV1cl1cbiAgQ1tEw6l2ZWxvcHBldXJdXG4gIERbRMOpdmVsb3BwZXVyXVxuICBFKChBcHBsaWNhdGlvbikpXG4gIEZbQWdlbnRdXG4gIEdbQWdlbnRdXG4gIEhbQWdlbnRdXG4gIElbQWdlbnRdXG4gIEpbQWdlbnRdXG4gIHN0eWxlIEUgZmlsbDojRjY2LCBzdHJva2Utd2lkdGg6MDtcbiAgQSAtLT4gQjtcbiAgQSAtLT4gQztcbiAgQSAtLT4gRDtcbiAgQiAtLT4gRTtcbiAgQyAtLT4gRTtcbiAgRCAtLT4gRTtcbiAgRSAtLT4gRjtcbiAgRSAtLT4gRztcbiAgRSAtLT4gSDtcbiAgRSAtLT4gSTtcbiAgRSAtLT4gSjsiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)</small>
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-- citer Tim O'Reilly dans WTF sur le monde qui est en trian de devenir un gigantesque cerveau
+### Le monde devient une organisation
+
+> Smartphones had put a camera in everyone’s hand, and Twitter had created a real-time platform from which those photos and text updates could be instantly disseminated to the world. Billions of connected humans and devices were being woven into a global brain. **That brain was all of us, augmented and connected.**”
+
+<small>Source: [WTF?: What's the Future and Why It's Up to Us (Tim O'Reilly)](https://www.goodreads.com/book/show/34017076-wtf)</small>
 
 <!-- slide data-background-color="#223322" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Black.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-## Changement d'environnement pour les organisations
+## Changement d'environnement
+
+Les organisations doivent s'adapter:
+- Les 5 forces de Porter revisitées
+- Effets de réseaux et instabilité et rivalité
+- Disruption et Substitution
+- L'ère des réseaux et plateformes
+- Les faibles coût marginaux
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
 Analyse des 5 forces de Porter:
 
-<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/23-22-43-09-porter_forces.svg?sanitize=true" style="background-color:white;" width="100%">
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/23-22-43-09-porter_forces.svg?sanitize=true" style="background-color:white;" width=80%>
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-### L'effet de réseau
+### L'effet de réseau: externalité positive
 
-Les économies d'échelles dûes à la demande, externalités positives des réseaux créent une dynamique "winner-takes-all":
+Valeur  au nombre de connexions au carré
 
-<img src="https://www.researchgate.net/profile/Roberto_Moro_Visconti2/publication/331983003/figure/fig1/AS:743992551538689@1554393055115/Value-for-the-User-according-to-Metcalfes-Law.png" style="background-color:white;" width="40%">
+<img src="https://www.researchgate.net/profile/Roberto_Moro_Visconti2/publication/331983003/figure/fig1/AS:743992551538689@1554393055115/Value-for-the-User-according-to-Metcalfes-Law.png" style="background-color:white;" width="80%">
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
 ### Marché instable
 
-Les externalités positives des réseaux créent une dynamique "winner-takes-all":
+Externalités positives: dynamique "winner-takes-all".
 
 ![Tippy Market](https://upload.wikimedia.org/wikipedia/commons/9/9a/PositiveFeedback.JPG)
 
-Ex: marché des consoles, électricité AC vs DC
-
+<small>Passer d'oligopoles stables à des monopoles temporaires</small>
 <small>Source: [Network Externalities (wikibooks)](https://en.wikibooks.org/wiki/Strategy_for_Information_Markets/Network_Externalities)</small>
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-### Disruption par fusion de réseaux
+### La Disruption est une fusion de réseaux
+
+Quand une entreprise au réseau similaire, choisi de proposer vos services à bas prix.
 
 <img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/23-23-45-50-multiplex_network.png" width=16%>
 
@@ -583,9 +604,13 @@ Citer [MIT business model investors prefer](https://sloanreview.mit.edu/article/
 
 ![MIT business model archetypes](https://i0.wp.com/getresults.org.uk/wp-content/uploads/2016/04/business_model_archetype-e1459864165186.jpg?resize=700%2C397)
 
+<!-- slide vertical=true data-background-color="#223322"-->
+
 Notamment parce que les business digitaux visent des coûts marginaux proche de zero (voir [Marginal Cost (Near-Zero) Pricing is a Major App Provider Advantage (Gary Kim)](https://ipcarrier.blogspot.com/2019/05/marginal-cost-near-zero-pricing-is.html))
 
 ![Marginal Cost for physical & digital business models](https://lh3.googleusercontent.com/TGOZqTd_nkmWxQx7F3FbDxEM_ujftnoKGrRiMkl0wC0mlMPV1Zs7c2Pk6yFUjQ30KxVGPefVJ8eHMCXKIU8nfDbgozGFV7iOVYxWCSHlSRRzI_XTfP_q4cJshpn_MzYSqgHx0dJe)
+
+<!-- slide vertical=true data-background-color="#223322"-->
 
 ![Coût marginaux](https://2xawx0gmudy471po527lbxcd-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/marginal-cost-curve.jpg)
 <small>Source: [Platform vs. Linear: Business Models 101](https://www.applicoinc.com/blog/platform-vs-linear-business-models-101/)</small>
@@ -669,11 +694,11 @@ Prendre une compagnie emblématique et prédire son futur (10 ans):
   "width": 450,
   "height": 200,
   "data": {"values": [
-    {"Activité": "Données", "Charge": 0.45, "rank": 1, "reality": "Besoin", "opacity": 0.4},
+    {"Activité": "Données", "Charge": 0.9, "rank": 1, "reality": "Besoin", "opacity": 0.4},
     {"Activité": "Modèle", "Charge": 0.1, "rank": 2, "reality": "Besoin", "opacity": 0.4},
-    {"Activité": "Déploiement", "Charge": 0.45, "rank": 3, "reality": "Besoin", "opacity": 0.4},
+    {"Activité": "Déploiement", "Charge": 0.9, "rank": 3, "reality": "Besoin", "opacity": 0.4},
     {"Activité": "Données", "Charge": 0.1, "rank": 1, "reality": "Envie", "opacity": 1},
-    {"Activité": "Modèle", "Charge": 0.8, "rank": 2, "reality": "Envie", "opacity": 1},
+    {"Activité": "Modèle", "Charge": 0.9, "rank": 2, "reality": "Envie", "opacity": 1},
     {"Activité": "Déploiement", "Charge": 0.1, "rank": 3, "reality": "Envie", "opacity": 1}
   ]},
   "mark": {
@@ -754,8 +779,8 @@ Données → Produit → Décision → Valeur
 
 | Données                   | Produit         | Décision                                               | Valeur       |
 |:------------------------- |:--------------- |:------------------------------------------------------ |:------------ |
-| Réseaux de senseurs météo | Prévision Météo | Le citadin prend un parapluie avant de sortir          | ~ 0 €        |
-| Réseaux de senseurs météo | Prévision Météo | Le producteur de vin protège ses vignes avant la grèle | > 100 € / an |
+| Senseurs météo | Prévision Météo | Le citadin prend un parapluie avant de sortir          | ~ 0 €        |
+| Senseurs météo | Prévision Météo | Le producteur de vin protège ses vignes avant la grèle | > 100 € / an |
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
@@ -785,8 +810,9 @@ Des méthodes d'IA différentes au cours du temps:
 
 #### Les systèmes experts
 
-![](https://sites.google.com/site/mrstevensonstechclassroom/_/rsrc/1382374591344/hl-topics-only/4a-robotics-ai/5-expert-systems/expert%20system.png)
-<img src="https://sites.google.com/site/keremitgsnotes/_/rsrc/1456600594794/chapter-16---ai-and-robotics/expert-systems/Capture.PNG" width=50%>
+<img src="https://sites.google.com/site/mrstevensonstechclassroom/_/rsrc/1382374591344/hl-topics-only/4a-robotics-ai/5-expert-systems/expert%20system.png" width=62%>
+<img src="https://sites.google.com/site/keremitgsnotes/_/rsrc/1456600594794/chapter-16---ai-and-robotics/expert-systems/Capture.PNG" width=35%>
+
 <small>Sources: various ITGS courses: [here](https://sites.google.com/site/mrstevensonstechclassroom/_/rsrc/1382374591344/hl-topics-only/4a-robotics-ai/5-expert-systems/) and [here](https://sites.google.com/site/keremitgsnotes/_/rsrc/1456600594794/chapter-16---ai-and-robotics/expert-systems/).</small>
 
 <!-- slide vertical=true data-background-color="#222233"-->
@@ -852,14 +878,16 @@ IA = _Machine learning_
 
 - expérimentation: être prêt à payer pour voir (fail fast, learn quick)
 
-![CRISP-DM process](https://theknowledgefactory.org/wp-content/uploads/2019/09/crispdm2.png)
+<img src="https://theknowledgefactory.org/wp-content/uploads/2019/09/crispdm2.png" width=50%>
 
-- [CRISP-DM (Wikipedia)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
+<small>Source: [CRISP-DM (Wikipedia)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
 
 ### Qualifier une idée de projet
 
-- https://xkcd.com/1425/
 - se renseigner sur l'état de l'art: site paperswithcode
+- https://xkcd.com/1425/
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
