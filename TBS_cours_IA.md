@@ -146,7 +146,7 @@ Penser en vecteurs: qu'est-ce qui a une direction et une force constante ?
 
 Chaos imprédictible (effet 🦋) mais structure stable
 
-<iframe src="https://highfellow.github.io/lorenz-attractor/attractor.html" width="100%" height="600"></iframe
+<iframe src="https://highfellow.github.io/lorenz-attractor/attractor.html" width="100%" height="600"></iframe>
 
 <small>Source: [Lorenz Attractor simulator (highfellow on github)](https://highfellow.github.io/lorenz-attractor/attractor.html)</small>
 
@@ -154,7 +154,7 @@ Chaos imprédictible (effet 🦋) mais structure stable
 
 ### Machines exponentielles
 
-La croissance des technologies de l'information <br>est en accélération exponentielle
+La performance des technologies de l'information <br>est en accélération exponentielle
 
 - Calcul: performance, coût
 - Données: transmission, volume, pénétration
@@ -165,9 +165,8 @@ La croissance des technologies de l'information <br>est en accélération expone
 
 Puissance de calcul par dollar x2 tous les 18 mois
 
-<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-45-20-Moores_Law_over_120_Years.png" width=80%>
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-45-20-Moores_Law_over_120_Years.png" width=70%>
 
-<small>Note: Le prochain relais de croissance est [la création de processeurs spécialisés](https://www.nextplatform.com/2019/02/05/the-era-of-general-purpose-computers-is-ending/)</small>
 <small>Source: [Moore's Law over 120 Years (Ray Kurzweil)](https://commons.wikimedia.org/wiki/File:Moore%27s_Law_over_120_Years.png)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
@@ -176,7 +175,7 @@ Puissance de calcul par dollar x2 tous les 18 mois
 
 Nombre de transistors par humain x10 tous les 5 ans
 
-<img src="https://254155-841844-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2017/04/Global-production-of-transistors-per-capita-selected-years-historic.png" width=80%>
+<img src="https://254155-841844-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2017/04/Global-production-of-transistors-per-capita-selected-years-historic.png" width=70%>
 
 <small>Source: [Darrin Qualman blog](https://www.darrinqualman.com/global-production-transistors/)</small>
 
@@ -186,10 +185,11 @@ Nombre de transistors par humain x10 tous les 5 ans
 
 Le haut débit mobile devient une commodité
 
-<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-49-ITU%20-%20Telecom%20Penetration.png" width=80%>
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-49-ITU%20-%20Telecom%20Penetration.png" width=70%>
 
-<small>Nombre de lignes pour 100 habitants, dans le monde</small>
-<small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
+<small>Nombre de lignes pour 100 habitants, dans le monde
+Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)
+</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
@@ -197,10 +197,11 @@ Le haut débit mobile devient une commodité
 
 Données échangées x3 tous les 4 ans
 
-<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-31-ITU%20-%20Broadband%20Usage.png" width=80%>
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-31-ITU%20-%20Broadband%20Usage.png" width=50%>
 
-<small>400 000 Gbit/s = 40 kbit/s / personne = 120 kbit/s / personne sur 8h</small>
-<small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
+<small>400 000 Gbit/s = 40 kbit/s / personne = 120 kbit/s / personne sur 8h
+Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)
+</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
@@ -208,12 +209,12 @@ Données échangées x3 tous les 4 ans
 
 Données stockées x5 tous les 4 ans
 
-<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-16-48-00-IDC%20-%20Data%20Growth.png" width=80%>
-<small>
-400 exaoctets = 400 millions de téraoctets = 40 Go / personne<br>
-40 000 exaoctets = 40 milliards de téraoctets = 4 To / personne</small>
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-16-48-00-IDC%20-%20Data%20Growth.png" width=60%>
 
-<small>Source:[The Digital Universe in 2020 (IDC)](https://www.cs.princeton.edu/courses/archive/spring13/cos598C/idc-the-digital-universe-in-2020.pdf)</small>
+<small>400 exaoctets = 400 millions de téraoctets = 40 Go / personne
+40 000 exaoctets = 40 milliards de téraoctets = 4 To / personne
+Source:[The Digital Universe in 2020 (IDC)](https://www.cs.princeton.edu/courses/archive/spring13/cos598C/idc-the-digital-universe-in-2020.pdf)
+</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
@@ -225,40 +226,45 @@ Données stockées x5 tous les 4 ans
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-#### La technologie va plus vite que les usages
+#### Plus facile de déployer une technologie que de faire changer l'Humain
 
-<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-21-ITU%20-%20Telecom%20Coverage.png" width=80%>
+Le changement par le renouvellement de population
+
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-11-21-ITU%20-%20Telecom%20Coverage.png" width=70%>
+
+<small>
+Les taux de couverture télécom évoluent plus vite que l'usage d'internet.<br>
+En 2019, 50% des gens couverts en 3G/4G n'utilisent pas internet.<br>
+Levier principal de changement: le renouvellement de population.
+</small>
 
 <small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-#### Un faible nombre d'informaticiens
+#### Des difficultés à former la population
 
-<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/19-22-12-02-ITU%20-%20Developers.png" width=80%>
-
-<small>Source: [Measuring digital development (ITU)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)</small>
-
-<!-- slide vertical=true data-background-color="#332222"-->
+Croissance lente du nombre de technologistes
 
 <div>
     <a href="https://plot.ly/~qchenevier/1/?share_key=7TfTNeCoVP31u145bzJoJF" title="Employed ICT specialists (Eurostat) (plot)" style="display: block; text-align: center;"><img src="https://plot.ly/~qchenevier/1.png?share_key=7TfTNeCoVP31u145bzJoJF" alt="Employed ICT specialists (Eurostat) (plot)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="qchenevier:1" sharekey-plotly="7TfTNeCoVP31u145bzJoJF" src="https://plot.ly/embed.js" async></script>
 </div>
 
-<!-- slide vertical=true data-background-color="#332222"-->
-
-![Eurostat - Employed ICT specialists.png](https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/24-13-21-45-Eurostat%20-%20Employed%20ICT%20specialists.png)
-
-<small> Source: [Employed ICT specialists (Eurostat by DB nomics)](https://db.nomics.world/Eurostat/isoc_sks_itspt?dimensions=%7B%22FREQ%22%3A%5B%22A%22%5D%2C%22geo%22%3A%5B%22FR%22%2C%22DE%22%2C%22IT%22%2C%22ES%22%2C%22UK%22%5D%2C%22unit%22%3A%5B%22PC_EMP%22%5D%7D&tab=chart)</small>
+<small>Les pros de l'IT ont l'habitude d'être courtisés car peu nombreux.
+Source: [Employed ICT specialists (Eurostat by DB nomics)](https://db.nomics.world/Eurostat/isoc_sks_itspt?dimensions=%7B%22FREQ%22%3A%5B%22A%22%5D%2C%22geo%22%3A%5B%22FR%22%2C%22DE%22%2C%22IT%22%2C%22ES%22%2C%22UK%22%5D%2C%22unit%22%3A%5B%22PC_EMP%22%5D%7D&tab=chart)
+</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-#### Le gestion des données devient un enjeu majeur
+#### Les données massives sont l'enjeu majeur
 
-<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-04-21-EMC%20-%20IT%20burden%20v2.png" width=80%>
+L'IT se met au cloud, au _big data_ et aux algorithmes
 
-<small>Source: [The Business Imperatives - EMC](https://www.emc.com/leadership/digital-universe/2014iview/business-imperatives.htm)</small>
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/20-11-04-21-EMC%20-%20IT%20burden%20v2.png" width=70%>
+
+<small>Les départements IT se dottent de nouvelles compétences
+Source: [The Business Imperatives - EMC](https://www.emc.com/leadership/digital-universe/2014iview/business-imperatives.htm)</small>
 
 <!-- slide data-background-color="#332222" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Bokeh.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
@@ -277,26 +283,33 @@ Données stockées x5 tous les 4 ans
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-#### L'IA a connu 2 hivers
+#### Les espoirs déçus par l'IA
 
-- **1974**: _"l'IA ne sait pas résoudre des problèmes complexes."_
-- **1987**: _"l'IA ne résoud que des problèmes très spécifiques."_
+**1974**: _L'IA ne sait pas résoudre des problèmes complexes_
+**1987**: _L'IA ne résoud que des problèmes très spécifiques_
 
 <img src="https://www.researchgate.net/publication/323591839/figure/fig8/AS:601346701008897@1520383634410/Development-history-of-artificial-intelligence-AI.png" style="object-fit: cover; object-position: 0 0; width: 100%; height:270px;">
 
-<small>Source: [State-of-the-Art Mobile Intelligence (research paper)](https://www.researchgate.net/publication/323591839_State-of-the-Art_Mobile_Intelligence_Enabling_Robots_to_Move_Like_Humans_by_Estimating_Mobility_with_Artificial_Intelligence)</small>
+<small>L'IA décrit des technologies très différentes maintenant par rapport au début.
+Source: [State-of-the-Art Mobile Intelligence (research paper)](https://www.researchgate.net/publication/323591839_State-of-the-Art_Mobile_Intelligence_Enabling_Robots_to_Move_Like_Humans_by_Estimating_Mobility_with_Artificial_Intelligence)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-#### La recherche explose: nombre de papiers
+#### La recherche adopte l'IA: publications
 
-<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-27-46-AI_papers_arxiv_2010_2019.png" width=80%>
+Le nombre d'articles de recherche explose
 
-<small>Source: [AI index 2019 report (Stanford)](https://hai.stanford.edu/sites/g/files/sbiybj10986/f/ai_index_2019_report.pdf)</small>
+<img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-27-46-AI_papers_arxiv_2010_2019.png" width=70%>
+
+<small>De plus en plus de publications multidisplinaires: physique, biologie, ...
+Tous les domaines de recherches scientifique se mettent à l'IA !
+Source: [AI index 2019 report (Stanford)](https://hai.stanford.edu/sites/g/files/sbiybj10986/f/ai_index_2019_report.pdf)</small>
 
 <!-- slide vertical=true data-background-color="#332222"-->
 
-#### La recherche explose: conférences
+#### La recherche adopte l'IA: conférences
+
+Le nombre de participants aux conférences explose
 
 <img src="https://raw.githubusercontent.com/qchenevier/public_images/master/2020/02/11-22-16-53-AI_conferences_attendance_1985_2019.png" width=80%>
 
@@ -427,7 +440,7 @@ TODO: Voir rapports de MCKinsey sur le sujet.
 
 <!-- slide data-background-color="#223322" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Black.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-## Les organisations digitales abordent leur environnement différement
+## Les aptitude des organisations digitales
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
@@ -441,7 +454,7 @@ Un modèle mental pour comprendre les organisations
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
-### Les _Value Disciplines_ de la révolution digitale
+### Les aptitudes des entreprises technologiques
 
 <img src="https://miro.medium.com/max/1226/1*3ba0jmPhKXO56EQwbCHF5Q.png" width=53%>
 
@@ -459,9 +472,20 @@ Un modèle mental pour comprendre les organisations
 
 <small>Source [What's a Tech Company (Nicolas Colin - The Family)](https://salon.thefamily.co/whats-a-tech-company-515960d76c21)</small>
 
+<!-- slide vertical=true data-background-color="#223322"-->
+
+### Qu'est ce qu'une entreprise technologique ?
+
+Boîte de tech = Boîte qui sait faire de la tech des années 2020 = software & IA.
+
+Question: Citer des boîtes de tech selon vous et pourquoi c'est une boîte de tech
+Question: Est-ce qu'Airbus est une boîte de tech (réponse: oui et non, c'est une boîte de tech des années 80)
+
+(Mettre la scene de légo: Benny "avec la technologie des années 80")
+
 <!-- slide data-background-color="#223322" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Black.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-## Transformation des communications dans les organisations
+## L'évolution sociologique des organisations digitales
 
 <!-- slide vertical=true data-background-color="#223322"-->
 
@@ -513,7 +537,7 @@ L'IA devient une noeud intelligent du réseau
 
 <!-- slide data-background-color="#223322" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Black.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-## Changement d'environnement
+## La digitalisation du contexte stratégique des organisations
 
 Les organisations doivent s'adapter:
 - Les 5 forces de Porter revisitées
@@ -670,7 +694,149 @@ Prendre une compagnie emblématique et prédire son futur (10 ans):
 
 <!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-## Personnes: Qui peut faire de l'IA ?
+## C'est quoi l'IA
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Les 3 étapes de l'IA
+
+<img src="https://www.researchgate.net/publication/323591839/figure/fig8/AS:601346701008897@1520383634410/Development-history-of-artificial-intelligence-AI.png" style="object-fit: cover; object-position: 0 0; width: 100%; height:250px;">
+
+Des méthodes d'IA différentes au cours du temps:
+
+1. code classique (`if → then → else`)
+2. système expert utilisant des règles créées à la main
+3. algorithmes statistiques _apprenant_ les règles (_machine learning_)
+
+<small>Source: [State-of-the-Art Mobile Intelligence (research paper)](https://www.researchgate.net/publication/323591839_State-of-the-Art_Mobile_Intelligence_Enabling_Robots_to_Move_Like_Humans_by_Estimating_Mobility_with_Artificial_Intelligence)</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Les systèmes experts
+
+<img src="https://sites.google.com/site/mrstevensonstechclassroom/_/rsrc/1382374591344/hl-topics-only/4a-robotics-ai/5-expert-systems/expert%20system.png" width=62%>
+<img src="https://sites.google.com/site/keremitgsnotes/_/rsrc/1456600594794/chapter-16---ai-and-robotics/expert-systems/Capture.PNG" width=35%>
+
+<small>Sources: various ITGS courses: [here](https://sites.google.com/site/mrstevensonstechclassroom/_/rsrc/1382374591344/hl-topics-only/4a-robotics-ai/5-expert-systems/) and [here](https://sites.google.com/site/keremitgsnotes/_/rsrc/1456600594794/chapter-16---ai-and-robotics/expert-systems/).</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### L'apprentissage automatique
+
+IA = _Machine learning_
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Comment ça marche le _machine learning_
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Train-test split
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Differentiable programming: Gradient descent & loss optimisation
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Métriques
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### La révolution deep learning: plus de feature engineering
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Comment ça marche le deep learning et ce qu'on peut faire avec
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Etat de l'art computer vision
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Etat de l'art natural language processing
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Etat de l'art time series analytics
+
+<!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
+
+## Comment mener le projet ?
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### qu'est-ce qui fait la valeur d'un projet ? Decision
+
+📊 Information + ✋ Décision = 💰 Valeur
+
+Cadre mental DPDV pour qualifier une idée:
+Données → Produit → Décision → Valeur
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+| Données                   | Produit         | Décision                                               | Valeur       |
+|:------------------------- |:--------------- |:------------------------------------------------------ |:------------ |
+| Senseurs météo | Prévision Météo | Le citadin prend un parapluie avant de sortir          | ~ 0 €        |
+| Senseurs météo | Prévision Météo | Le producteur de vin protège ses vignes avant la grèle | > 100 € / an |
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+| Données                                     | Produit                                         | Décision                                          | Valeur       |
+|:------------------------------------------- |:----------------------------------------------- |:------------------------------------------------- |:------------ |
+| Images satellites des réservoirs de pétrole | Estimation des réserves réelles de pétrole brut | Le trader achète ou vend du pétrole sur le marché | > 10M € / an |
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### c'est quoi un projet IT Agile
+
+- gérer l'incertain:
+  - réévaluation fréquente du contexte: "les informaticiens ne font pas les choses parce qu'ils pensent que c'est faisable, mais parce qu'ils croient que c'est facile."
+    - se concentrer sur la livraison de quelque chose d'utilisable pour apprendre, collecter des retours du terrain
+  - replanification itérative:
+  - intelligence collective
+- loi des grands nombres pour le chiffrage
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### c'est quoi un projet data science
+
+- expérimentation: être prêt à payer pour voir (fail fast, learn quick)
+
+<img src="https://theknowledgefactory.org/wp-content/uploads/2019/09/crispdm2.png" width=50%>
+
+<small>Source: [CRISP-DM (Wikipedia)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Qualifier une idée de projet
+
+- se renseigner sur l'état de l'art: site paperswithcode
+- https://xkcd.com/1425/
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Les clés de succès d'un projet IA
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### La donnée avant les algorithmes
+
+~~algorithms~~ → datasets !
+<img src="https://images.squarespace-cdn.com/content/54345ed8e4b0fa5705e1825b/1459449530701-68FQZ878JRPQCE97XVCC/AIBreakthrough.png?content-type=image%2Fpng" style="background-color:white;">
+
+<small>Source: [Datasets Over Algorithms (kdnuggets)](https://www.kdnuggets.com/2016/05/datasets-over-algorithms.html)</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### Tirer parti de l'open source
+
+open competition: open source / open publication (model hubs, papers with code, etc.)
+
+<!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
+
+## Qui sait faire de l'IA ?
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
@@ -764,152 +930,6 @@ Les data scientists d'aujourd'hui ne sont pas autonomes pour livrer une solution
 
 <!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
-## Contenu: Quelle transformation mener ?
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-### qu'est-ce qui fait la valeur d'un projet ? Decision
-
-📊 Information + ✋ Décision = 💰 Valeur
-
-Cadre mental DPDV pour qualifier une idée:
-Données → Produit → Décision → Valeur
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-| Données                   | Produit         | Décision                                               | Valeur       |
-|:------------------------- |:--------------- |:------------------------------------------------------ |:------------ |
-| Senseurs météo | Prévision Météo | Le citadin prend un parapluie avant de sortir          | ~ 0 €        |
-| Senseurs météo | Prévision Météo | Le producteur de vin protège ses vignes avant la grèle | > 100 € / an |
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-| Données                                     | Produit                                         | Décision                                          | Valeur       |
-|:------------------------------------------- |:----------------------------------------------- |:------------------------------------------------- |:------------ |
-| Images satellites des réservoirs de pétrole | Estimation des réserves réelles de pétrole brut | Le trader achète ou vend du pétrole sur le marché | > 10M € / an |
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-### C'est quoi l'IA
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-#### Les 3 étapes de l'IA
-
-<img src="https://www.researchgate.net/publication/323591839/figure/fig8/AS:601346701008897@1520383634410/Development-history-of-artificial-intelligence-AI.png" style="object-fit: cover; object-position: 0 0; width: 100%; height:250px;">
-
-Des méthodes d'IA différentes au cours du temps:
-
-1. code classique (`if → then → else`)
-2. système expert utilisant des règles créées à la main
-3. algorithmes statistiques _apprenant_ les règles (_machine learning_)
-
-<small>Source: [State-of-the-Art Mobile Intelligence (research paper)](https://www.researchgate.net/publication/323591839_State-of-the-Art_Mobile_Intelligence_Enabling_Robots_to_Move_Like_Humans_by_Estimating_Mobility_with_Artificial_Intelligence)</small>
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-#### Les systèmes experts
-
-<img src="https://sites.google.com/site/mrstevensonstechclassroom/_/rsrc/1382374591344/hl-topics-only/4a-robotics-ai/5-expert-systems/expert%20system.png" width=62%>
-<img src="https://sites.google.com/site/keremitgsnotes/_/rsrc/1456600594794/chapter-16---ai-and-robotics/expert-systems/Capture.PNG" width=35%>
-
-<small>Sources: various ITGS courses: [here](https://sites.google.com/site/mrstevensonstechclassroom/_/rsrc/1382374591344/hl-topics-only/4a-robotics-ai/5-expert-systems/) and [here](https://sites.google.com/site/keremitgsnotes/_/rsrc/1456600594794/chapter-16---ai-and-robotics/expert-systems/).</small>
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-#### L'apprentissage automatique
-
-IA = _Machine learning_
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-### Comment ça marche le _machine learning_
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-#### Train-test split
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-#### Differentiable programming: Gradient descent & loss optimisation
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-#### Métriques
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-#### La révolution deep learning: plus de feature engineering
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-### Comment ça marche le deep learning et ce qu'on peut faire avec
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-#### Etat de l'art computer vision
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-#### Etat de l'art natural language processing
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-#### Etat de l'art time series analytics
-
-<!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
-
-## Processus: Comment mener le projet ?
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-### c'est quoi un projet IT Agile
-
-- gérer l'incertain:
-  - réévaluation fréquente du contexte: "les informaticiens ne font pas les choses parce qu'ils pensent que c'est faisable, mais parce qu'ils croient que c'est facile."
-    - se concentrer sur la livraison de quelque chose d'utilisable pour apprendre, collecter des retours du terrain
-  - replanification itérative:
-  - intelligence collective
-- loi des grands nombres pour le chiffrage
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-### c'est quoi un projet data science
-
-- expérimentation: être prêt à payer pour voir (fail fast, learn quick)
-
-<img src="https://theknowledgefactory.org/wp-content/uploads/2019/09/crispdm2.png" width=50%>
-
-<small>Source: [CRISP-DM (Wikipedia)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)</small>
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-### Qualifier une idée de projet
-
-- se renseigner sur l'état de l'art: site paperswithcode
-- https://xkcd.com/1425/
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-### Les clés de succès d'un projet IA
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-#### La donnée avant les algorithmes
-
-~~algorithms~~ → datasets !
-<img src="https://images.squarespace-cdn.com/content/54345ed8e4b0fa5705e1825b/1459449530701-68FQZ878JRPQCE97XVCC/AIBreakthrough.png?content-type=image%2Fpng" style="background-color:white;">
-
-<small>Source: [Datasets Over Algorithms (kdnuggets)](https://www.kdnuggets.com/2016/05/datasets-over-algorithms.html)</small>
-
-<!-- slide vertical=true data-background-color="#222233"-->
-
-#### Tirer parti de l'open source
-
-open competition: open source / open publication (model hubs, papers with code, etc.)
-
-<!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
-
 ## Exercice
 
 <!-- slide -->
@@ -963,6 +983,7 @@ open competition: open source / open publication (model hubs, papers with code, 
   - [RNN text generation](https://storage.googleapis.com/tfjs-examples/lstm-text-generation/dist/index.html)
   - [BodyPix - With a Webcam Demo](https://storage.googleapis.com/tfjs-models/demos/body-pix/index.html)
   - [Disappearing People - Person removal from complex backgrounds over time](https://glitch.com/~disappearing-people)
+  - [Shader - Eye laser](https://shaderbooth.com/?85daa)
 - NLP:
   - [Stanford Named Entity Tagger](http://nlp.stanford.edu:8080/ner/process)
   - [Dandelion Named Entity Tagger](https://dandelion.eu/semantic-text/entity-extraction-demo/?text=Barack+Hussein+Obama+II+is+an+American+attorney+and+politician+who+served+as+the+44th+president+of+the+United+States+from+2009+to+2017.+A+member+of+the+Democratic+Party%2C+he+was+the+first+African+American+president+of+the+United+States.+He+previously+served+as+a+U.S.+senator+from+Illinois+from+2005+to+2008+and+an+Illinois+state+senator+from+1997+to+2004.&lang=auto&min_confidence=0.6&exec=true#results)
