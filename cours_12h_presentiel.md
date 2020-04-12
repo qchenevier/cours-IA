@@ -1,5 +1,5 @@
 ---
-title: IA for managers
+title: Intelligence Artificielle en 2020
 presentation:
   theme: black.css
   enableSpeakerNotes: true
