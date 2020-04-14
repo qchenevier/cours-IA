@@ -50,6 +50,8 @@ Des méthodes d'IA différentes au cours du temps:
 
 ### Les systèmes experts
 
+Le savoir est renseigné par des experts.
+
 <img src="https://sites.google.com/site/mrstevensonstechclassroom/_/rsrc/1382374591344/hl-topics-only/4a-robotics-ai/5-expert-systems/expert%20system.png" width=62%>
 <img src="https://sites.google.com/site/keremitgsnotes/_/rsrc/1456600594794/chapter-16---ai-and-robotics/expert-systems/Capture.PNG" width=35%>
 
@@ -57,33 +59,85 @@ Des méthodes d'IA différentes au cours du temps:
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
-### L'apprentissage automatique
+### L'IA, c'est du _Machine learning_
 
-IA = _Machine learning_
+Le mariage de l'expérimentation et des statistiques:
+Le savoir est extrait des données.
+
+<img src="https://imgs.xkcd.com/comics/machine_learning_2x.png" width=40%>
+
+<small>En bref, c'est de la cuisine avec des algorithmes
+Source: [xkcd](https://xkcd.com/1838/)</small>
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
 #### Comment ça marche le _machine learning_
 
+"Label" = information de valeur que l'on veut prédire.
+
+<img src="https://qph.fs.quoracdn.net/main-qimg-ee5c644cf646c720a0961241b80a9b7c.webp">
+
+<small>Il est impossible d'entraîner un algorithme sans une base de labels.
+Source: [Quora](https://www.quora.com/What-deep-learning-method-to-use-to-classify-text-files)</small>
+
 <!-- slide vertical=true data-background-color="#222233"-->
 
 #### Train-test split
+
+<img src="https://elitedatascience.com/wp-content/uploads/2017/06/Train-Test-Split-Diagram.jpg" width=80%>
+
+<small> Source: [Elite data science](https://elitedatascience.com/model-training)</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+#### L'Overfitting: limitation majeure
+
+Se "surajuster" aux données d'entraînement sans retenir le savoir sous-jacent (bachottage)
+
+<img src="https://qph.fs.quoracdn.net/main-qimg-17ec84ff3f63f77f6b368f0eb6ef1890.webp" width=50%>
+<img src="https://i.redd.it/ze7i4nhq0se41.jpg" width=40%>
+
+<small>Cela fait croire qu'un modèle est performant (en laboratoire),
+alors qu'il est médiocre (en conditions réelles).
+[Démo (playground tensorflow)](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=spiral&regDataset=reg-gauss&learningRate=0.03&regularizationRate=0&noise=25&networkShape=8,8&seed=0.10694&showTestData=false&discretize=false&percTrainData=20&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=true&collectStats=false&problem=classification&initZero=false&hideText=false)<br>
+Source: [Quora](https://www.quora.com/Is-it-possible-for-a-Machine-Learning-model-to-simultaneously-overfit-and-underfit-the-training-data)</small>
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
 #### Differentiable programming: Gradient descent & loss optimisation
 
+Empilement de modèles différentiable et optimisation pour réduire l'erreur
+[Démo: optimisation à la main](https://www.geogebra.org/m/xC6zq7Zv)
+
+![](https://miro.medium.com/max/1414/1*IjxpxWcKX8EJUVFBNFeKdA.gif)
+
+<small>Source: [Linear Regression by using Gradient Descent Algorithm: Your first step towards Machine Learning (medium)](https://medium.com/meta-design-ideas/linear-regression-by-using-gradient-descent-algorithm-your-first-step-towards-machine-learning-a9b9c0ec41b1)</small>
+
 <!-- slide vertical=true data-background-color="#222233"-->
 
 #### Métriques
+
+Attention aux évènements rares:
+
+Pour prédire un évènement qui arrive 1% du temps, un modèle qui prédit tout le temps 0 aura raison 99% du temps !
+
+Modèle simple (predit tout le temps)
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
 ### La révolution deep learning: plus de feature engineering
 
+![](https://bluehexagon.ai/wp-content/uploads/2019/04/Screen-Shot-2019-04-04-at-1.05.20-PM-1024x600-1024x600.png)
+
+<small>Source: [Blue Hexagon](https://bluehexagon.ai/blog/what-is-deep-learning-and-how-is-it-different-from-machine-learning/)</small>
+
 <!-- slide vertical=true data-background-color="#222233"-->
 
 #### Comment ça marche le deep learning et ce qu'on peut faire avec
+
+![](https://www.pnas.org/content/pnas/116/4/1074/F2.large.jpg?width=800&height=600&carousel=1)
+
+<small>Source: [News Feature: What are the limits of deep learning? (PNAAS)](https://www.pnas.org/content/116/4/1074)</small>
 
 <!-- slide vertical=true data-background-color="#222233"-->
 
@@ -149,7 +203,10 @@ Données → Produit → Décision → Valeur
 ### Qualifier une idée de projet
 
 - se renseigner sur l'état de l'art: site paperswithcode
-- https://xkcd.com/1425/
+
+<img src="https://imgs.xkcd.com/comics/tasks_2x.png" width=30%>
+
+<small>Source: [xkcd](https://xkcd.com/1425/)</small>
 
 <!-- slide vertical=true data-background-color="#222233"-->
 

@@ -40,6 +40,7 @@ presentation:
 - Demos repositories:
   - [AI Experiments | Experiments with Google](https://experiments.withgoogle.com/collection/ai)
   - [tensorflow.js examples](https://github.com/tensorflow/tfjs-examples/)
+  - [An Interactive Node-Link Visualization of CNN](https://www.cs.ryerson.ca/~aharley/vis/)
 - Google AI experiments:
   - [Teachable Machine](https://teachablemachine.withgoogle.com/)
   - [Melody Mixer](https://experiments.withgoogle.com/ai/melody-mixer/view/)
