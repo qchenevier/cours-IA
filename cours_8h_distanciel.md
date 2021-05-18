@@ -292,7 +292,6 @@ ou être intégré à une équipe plus large.
 
 <small>Beaucoup d'équipes data peinent à livrer des solutions industrielles pour leur entreprise.</small>
 
-
 <!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
 ## Exercice
@@ -307,6 +306,250 @@ ou être intégré à une équipe plus large.
 | Pitch         | <small>Pitcher</small>                                                                                                    |
 
 👉 [template google slides](https://drive.google.com/file/d/1BuLnveNRNJRNg_HIFCDQTxFSJ80jhyQM/view?usp=sharing)
+
+<!-- slide data-background-color="#222233" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Space.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
+
+## Performance de l'IA
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### De multiples mesures de performance
+
+La mesure de la performance est différente en fonction de l'utilisation de la prédiction.
+
+☝️🧐 Se méfier des annonces impressionnantes. Toujours se poser 3 questions:
+- quelles données pour faire l'apprentissage ?
+- quelles données pour mesurer la performance ?
+- quelle mesure de performance ?
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Quelles données pour évaluer ?
+
+<img src="https://woborders.files.wordpress.com/2017/09/screen-shot-2017-09-09-at-10-23-23-am.png?w=1200" width=80%>
+
+Une IA arrive détecte l'orientation sexuelle
+à partir de la forme du visage !
+
+<span class="fragment"> Vraiment ? 🤔</span>
+
+<small>Source: [Do algorithms reveal sexual orientation or just expose our stereotypes?](https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-just-expose-our-stereotypes-d998fafdf477)</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Quelles données pour évaluer ?
+
+L'IA utilise: barbe 🧔, lunettes 👓, maquillage 💄
+
+<img src="https://miro.medium.com/max/1400/1*LMStwP_9zpt4f07ucikKAA.png" width=46.5%>
+<img src="https://miro.medium.com/max/5868/1*0cejtAX8SmWFowTTNGDvNg.jpeg" width=35%>
+<img src="https://miro.medium.com/max/1400/1*CgMr2mrMVafEzHfZIFpdnQ.png" width=46.5%>
+<img src="https://miro.medium.com/max/1400/1*yBV4GuFfr33UPhbMiVF9XA.jpeg" width=35%>
+
+<small>L'IA reproduit les stéréotypes qu'elle trouve dans les données 🤦‍
+Source: [Do algorithms reveal sexual orientation or just expose our stereotypes?](https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-just-expose-our-stereotypes-d998fafdf477)</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Quelles données pour évaluer ?
+
+_Train-test split_:
+Séparer les données d'apprentissage
+& les données d'évaluation
+
+<img src="https://elitedatascience.com/wp-content/uploads/2017/06/Train-Test-Split-Diagram.jpg" width=80%>
+
+<small> ⚠️ la performance mesurée sur le _train_ est toujours surestimée !
+Source: [Elite data science](https://elitedatascience.com/model-training)</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### L'Overfitting: l'erreur de débutant
+
+Modèle qui "colle" aux données d'entraînement
+sans retenir le savoir sous-jacent (bachottage)
+
+<img src="https://qph.fs.quoracdn.net/main-qimg-17ec84ff3f63f77f6b368f0eb6ef1890.webp" width=50%>
+<img src="https://i.redd.it/ze7i4nhq0se41.jpg" width=40%>
+
+<small>Cela fait croire qu'un modèle est performant (en laboratoire),
+alors qu'il est médiocre (en conditions réelles).<br>
+Source: [Quora](https://www.quora.com/Is-it-possible-for-a-Machine-Learning-model-to-simultaneously-overfit-and-underfit-the-training-data)</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+## Exemples
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Diagnostic de la maladie de lyme
+
+- Difficile à diagnostiquer
+- ⚠️ Maladie rare: 9 cas / 100 000 en France
+
+Créons une IA qui fait un diagnostic automatisé ?! 💪😏
+
+<small>Source: [Lyme disease in France: a primary care-based prospective study](https://www.sentiweb.fr/1023.pdf)</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Modèle 1: faux positifs & faux négatifs de 1 %
+N = 100 000 personnes, prévalence = 9 / 100 000
+
+<table>
+  <tr class="fragment" data-fragment-index="1">
+    <td>Malades</td>
+    <td></td>
+    <td>9</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="1">
+    <td>&emsp;Faux négatifs</td>
+    <td><small>1% * malades</small></td>
+    <td>0</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="1">
+    <td>&emsp;Vrais positifs</td>
+    <td><small>99% * malades</small></td>
+    <td>9</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="2">
+    <td>Pas malades</td>
+    <td></td>
+    <td>99 991</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="2">
+    <td>&emsp;Faux positifs</td>
+    <td><small>1% * pas malades</small></td>
+    <td>999</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="2">
+    <td>&emsp;Vrais négatifs</td>
+    <td><small>99% * pas malades</small></td>
+    <td>98 992</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="3">
+    <td>Précision</td>
+    <td><small>vrais prédictions / N</small></td>
+    <td><span style="color:green">99 %</span></td>
+  </tr>
+  <tr class="fragment" data-fragment-index="5">
+    <td><small>Chances d'être malade<br>si testé positif</small></td>
+    <td><small>vrais positifs /<br>faux + vrais positifs</small></td>
+    <td><del>99 %</del> <span style="color:red" class="fragment" data-fragment-index="6">&nbsp; 0.89 % 🤔</span></td>
+  </tr>
+</table>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Modèle 2: toujours négatif ⚠️
+N = 100 000 personnes, prévalence = 9 / 100 000
+
+<table>
+  <tr class="fragment" data-fragment-index="1">
+    <td>Malades</td>
+    <td></td>
+    <td>9</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="1">
+    <td>&emsp;Faux négatifs</td>
+    <td></td>
+    <td>9</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="1">
+    <td>&emsp;Vrais positifs</td>
+    <td></td>
+    <td>0</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="2">
+    <td>Pas malades</td>
+    <td></td>
+    <td>99 991</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="2">
+    <td>&emsp;Faux positifs</td>
+    <td></td>
+    <td>0</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="2">
+    <td>&emsp;Vrais négatifs</td>
+    <td></td>
+    <td>99 991</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="3">
+    <td>Précision</td>
+    <td><small>vrais prédictions / N</small></td>
+    <td><span style="color:green">99.991 % 🤔</span></td>
+  </tr>
+  <tr class="fragment" data-fragment-index="5">
+    <td><small>Chances d'être malade<br>si testé positif</small></td>
+    <td><small>vrais positifs /<br>faux + vrais positifs</small></td>
+    <td>❌</td>
+  </tr>
+</table>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### Diagnostic du Covid-19
+
+Test PCR du frottis nasopharyngé
+
+<img src="https://i.ytimg.com/vi/L8I7mum4eZw/hqdefault.jpg" width=40%>
+
+|||
+|:--|:--|
+|Faux positifs| 1 % |
+|Faux négatifs| entre 15 et 45 % 😱|
+|Prévalence| entre 1 et 5 % en Ile-de-France |
+
+<small>Source: [Performance du frottis nasopharyngé-PCR pour le diagnostic du Covid-19. Recommandations pratiques sur la base des premières données scientifiques](https://www.revmed.ch/RMS/2020/RMS-N-689/Performance-du-frottis-nasopharynge-PCR-pour-le-diagnostic-du-Covid-19.-Recommandations-pratiques-sur-la-base-des-premieres-donnees-scientifiques)</small>
+
+<!-- slide vertical=true data-background-color="#222233"-->
+
+### PCR: faux positifs 1% & faux négatifs 30%
+N = 100 000 personnes, prévalence = 3 %
+
+<table>
+  <tr class="fragment" data-fragment-index="1">
+    <td>Malades</td>
+    <td></td>
+    <td>3 000</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="1">
+    <td>&emsp;Faux négatifs</td>
+    <td><small>30% * malades</small></td>
+    <td>900</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="1">
+    <td>&emsp;Vrais positifs</td>
+    <td><small>70% * malades</small></td>
+    <td>2 100</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="2">
+    <td>Pas malades</td>
+    <td></td>
+    <td>97 000</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="2">
+    <td>&emsp;Faux positifs</td>
+    <td><small>1% * pas malades</small></td>
+    <td>970</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="2">
+    <td>&emsp;Vrais négatifs</td>
+    <td><small>99% * pas malades</small></td>
+    <td>96 030</td>
+  </tr>
+  <tr class="fragment" data-fragment-index="3">
+    <td>Précision</td>
+    <td><small>vrais prédictions / N</small></td>
+    <td><span style="color:green">98.13 %</span></td>
+  </tr>
+  <tr class="fragment" data-fragment-index="5">
+    <td><small>Chances d'être malade<br>si testé positif</small></td>
+    <td><small>vrais positifs /<br>faux + vrais positifs</small></td>
+    <td><span style="color:orange" class="fragment" data-fragment-index="6">68.4 % 🤔</span></td>
+  </tr>
+</table>
 
 <!-- slide data-background-color="#332222" data-background-video="https://github.com/qchenevier/public_images/raw/master/videos/Bokeh.mp4" data-background-video-loop="loop" data-background-opacity=0.3-->
 
